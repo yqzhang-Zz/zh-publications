@@ -32,28 +32,28 @@ redirect_from:
 </div>
 
 [J024] <span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
-TCYB'25</span> 
-[Online Heterogeneous Feature Selection](https://ieeexplore.ieee.org/abstract/document/11274409)<br>
-**Yiqun Zhang**, Xinxi Chen, Lang Zhao, Yuzhu Ji, Peng Liu and Yiu-ming Cheung<sup>&#x2709;</sup><br>
-<span style="color: #0b5394; font-size: 0.9em; font-weight: bold;">SCI 1区 | Top期刊 | 影响因子: 10.5</span>
+TMM'26</span> 
+[NIDC: General Task Backbone for Neuroimaging Analysis via Interpretable Deep Clustering](#)<br>
+Jiayu Ye, An Zeng<sup>&#x2709;</sup><br>, Dan Pan, Junhao Chen, Jingliang Zhao, **Yiqun Zhang** and Yang Liu<br>
+<span style="color: #0b5394; font-size: 0.9em; font-weight: bold;">SCI 1区 | Top期刊 | 影响因子: 9.7 | 博士生成果</span>
 
 [J023] <span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
-TNNLS'25</span> 
-[Learning Self-Growth Maps for Fast and Accurate Imbalanced Streaming Data Clustering](https://ieeexplore.ieee.org/abstract/document/10568270)<br>
-**Yiqun Zhang**, Sen Feng, Pengkai Wang, Zexi Tan, Xiaopeng Luo, Yuzhu Ji, Rong Zou and Yiu-ming Cheung<sup>&#x2709;</sup><br>
-<span style="color: #0b5394; font-size: 0.9em; font-weight: bold;">SCI 1区 | Top期刊 | 影响因子: 8.9</span>
-
-[J022] <span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
 IoTJ'26</span> 
 [One-Shot Federated Clustering of Non-Independent Completely Distributed Data](#)<br>
 **Yiqun Zhang**, Shenghong Cai, Zihua Yang, Sen Feng, Yuzhu Ji<sup>&#x2709;</sup> and Haijun Zhang<br>
 <span style="color: #0b5394; font-size: 0.9em; font-weight: bold;">SCI 1区 | Top期刊 | 影响因子: 8.9</span>
 
+[J022] <span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
+TCYB'25</span> 
+[Online Heterogeneous Feature Selection](https://ieeexplore.ieee.org/abstract/document/11274409)<br>
+**Yiqun Zhang**, Xinxi Chen, Lang Zhao, Yuzhu Ji, Peng Liu and Yiu-ming Cheung<sup>&#x2709;</sup><br>
+<span style="color: #0b5394; font-size: 0.9em; font-weight: bold;">SCI 1区 | Top期刊 | 影响因子: 10.5</span>
+
 [J021] <span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
-TMM'26</span> 
-[NIDC: General Task Backbone for Neuroimaging Analysis via Interpretable Deep Clustering](#)<br>
-Jiayu Ye, An Zeng<sup>&#x2709;</sup><br>, Dan Pan, Junhao Chen, Jingliang Zhao, **Yiqun Zhang** and Yang Liu<br>
-<span style="color: #0b5394; font-size: 0.9em; font-weight: bold;">SCI 1区 | Top期刊 | 影响因子: 9.7 | 博士生成果</span>
+TNNLS'25</span> 
+[Learning Self-Growth Maps for Fast and Accurate Imbalanced Streaming Data Clustering](https://ieeexplore.ieee.org/abstract/document/10568270)<br>
+**Yiqun Zhang**, Sen Feng, Pengkai Wang, Zexi Tan, Xiaopeng Luo, Yuzhu Ji, Rong Zou and Yiu-ming Cheung<sup>&#x2709;</sup><br>
+<span style="color: #0b5394; font-size: 0.9em; font-weight: bold;">SCI 1区 | Top期刊 | 影响因子: 8.9</span>
 
 [J020] <span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
 TIP'25</span> 

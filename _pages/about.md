@@ -42,7 +42,7 @@ Zexi Tan, Xiaopeng Luo, Yunlin Liu and **Yiqun Zhang**<sup>&#x2709;</sup>
 [A010] <span style="background-color: #e3f2fd; color: #1976d2; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
 AAAI'26</span> 
 [Break the Tie: Learning Cluster-Customized Category Relationships for Categorical Data Clustering](#)<br>
-Mingjie Zhao, Zhanpei Huang, Yang Lu, Mengke Li, **Yiqun Zhang**<sup>&#x2709;</sup>, Weifeng Su and Yiu-ming Cheung<sup>&#x2709;</sup>
+Mingjie Zhao, Zhanpei Huang, Yang Lu, Mengke Li, **Yiqun Zhang**<sup>&#x2709;</sup>, Weifeng Su and Yiu-ming Cheung
 
 [A009] <span style="background-color: #e3f2fd; color: #1976d2; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
 ICCV'25</span> 
@@ -150,7 +150,7 @@ Yuzhu Ji, Mingshan Sun<sup>&#x2709;</sup>, **Yiqun Zhang** and Haijun Zhang
 [B005] <span style="background-color: #e3f2fd; color: #1976d2; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
 BIBM'24</span> 
 [MGOD: Multi-Granular Outlier Detection with Clustlier Analysis](#)<br>
-Qingsheng Chen, Mingjie Zhao, Yuzhu Ji<sup>&#x2709;</sup>, Xiaopeng Luo, **Yiqun Zhang**<sup>&#x2709;</sup> and Yue Zhang
+Qingsheng Chen, Mingjie Zhao, Yuzhu Ji, Xiaopeng Luo, **Yiqun Zhang**<sup>&#x2709;</sup> and Yue Zhang
 
 [B004] <span style="background-color: #e3f2fd; color: #1976d2; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
 BIBM'24</span> 
@@ -165,7 +165,7 @@ Shenghong Cai, **Yiqun Zhang**<sup>&#x2709;</sup>, Xiaopeng Luo, Yiu-ming Cheung
 [B002] <span style="background-color: #e3f2fd; color: #1976d2; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
 ECAI'23</span> 
 [Time-Series Data Imputation via Realistic Masking-Guided Tri-Attention Bi-GRU](#)<br>
-Zhipeng Zhang, **Yiqun Zhang**<sup>&#x2709;</sup>, An Zeng<sup>&#x2709;</sup>, Dan Pan, Yuzhu Ji, Zhipeng Zhang and Jing Lin
+Zhipeng Zhang, **Yiqun Zhang**<sup>&#x2709;</sup>, An Zeng, Dan Pan, Yuzhu Ji, Zhipeng Zhang and Jing Lin
 
 [B001] <span style="background-color: #e3f2fd; color: #1976d2; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
 BIBM'23</span> 

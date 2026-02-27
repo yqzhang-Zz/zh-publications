@@ -27,6 +27,14 @@ redirect_from:
 
 ### CCF-A
 
+<h3 style="background-color: #4a4a4a; color: #ffffff; padding: 8px 15px; margin-top: 40px; margin-bottom: 20px; border-radius: 4px;">CCF-A</h3>
+
+<h3 style="background-color: #4a4a4a; color: #ffffff; padding: 8px 15px; margin-top: 40px; margin-bottom: 20px; border-radius: 4px;">CCF-B</h3>
+
+<h3 style="background-color: #4a4a4a; color: #ffffff; padding: 8px 15px; margin-top: 40px; margin-bottom: 20px; border-radius: 4px;">CCF-C</h3>
+
+<h3 style="background-color: #4a4a4a; color: #ffffff; padding: 8px 15px; margin-top: 40px; margin-bottom: 20px; border-radius: 4px;">Others</h3>
+
 [A012] <span style="background-color: #e3f2fd; color: #1976d2; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
 SIGMOD'26</span> 
 [Categorical Data Clustering via Value Order Estimated Distance Metric Learning](https://dl.acm.org/doi/abs/10.1145/3769772)<br>

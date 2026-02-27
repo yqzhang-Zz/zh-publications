@@ -23,8 +23,7 @@ redirect_from:
 <span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
 期刊论文</span> 
 <sup>&#x2709;</sup>通讯作者
-
-### CCF-A
+<\div><\div>
 
 <div style="display: flex; align-items: flex-end; margin-top: 35px; margin-bottom: 15px;">
   <h3 style="background-color: #4a4a4a; color: #ffffff; padding: 4px 14px; margin: 0; font-size: 1.1em; border-radius: 4px 4px 0 0;">CCF-A</h3>

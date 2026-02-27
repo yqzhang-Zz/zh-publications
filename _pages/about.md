@@ -18,11 +18,6 @@ redirect_from:
 <span class='anchor' id="publications"></span>
 
 # 📝 完整论文列表 
-<span style="background-color: #e3f2fd; color: #1976d2; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
-会议论文</span> 
-<span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
-期刊论文</span> 
-<sup>&#x2709;</sup>通讯作者
 
 
 
@@ -179,7 +174,7 @@ Yiu-ming Cheung<sup>&#x2709;</sup> and **Yiqun Zhang**<br>
 
 
 <div style="display: flex; align-items: flex-end; margin-top: 35px; margin-bottom: 15px;">
-  <h3 style="background-color: #4a4a4a; color: #ffffff; padding: 2px 8px; margin: 0; font-size: 1em; font-weight: 600; border-radius: 3px 3px 0 0; line-height: 1.2;">CCF-A</h3>
+  <h3 style="background-color: #4a4a4a; color: #ffffff; padding: 2px 8px; margin: 0; font-size: 1em; font-weight: 600; border-radius: 3px 3px 0 0; line-height: 1.2;">会议论文（CCF-A）</h3>
   <div style="flex-grow: 1; height: 2px; background-color: #4a4a4a;"></div>
 </div>
 
@@ -247,7 +242,7 @@ AAAI'20</span> 
 
 
 <div style="display: flex; align-items: flex-end; margin-top: 35px; margin-bottom: 15px;">
-  <h3 style="background-color: #4a4a4a; color: #ffffff; padding: 2px 8px; margin: 0; font-size: 1em; font-weight: 600; border-radius: 3px 3px 0 0; line-height: 1.2;">CCF-B</h3>
+  <h3 style="background-color: #4a4a4a; color: #ffffff; padding: 2px 8px; margin: 0; font-size: 1em; font-weight: 600; border-radius: 3px 3px 0 0; line-height: 1.2;">会议论文（CCF-B）</h3>
   <div style="flex-grow: 1; height: 2px; background-color: #4a4a4a;"></div>
 </div>
 
@@ -330,7 +325,7 @@ Lang Zhao, **Yiqun Zhang**<sup>&#x2709;</sup>, Xiaopeng Luo, Yue Zhang, Yiu-ming
 
 
 <div style="display: flex; align-items: flex-end; margin-top: 35px; margin-bottom: 15px;">
-  <h3 style="background-color: #4a4a4a; color: #ffffff; padding: 2px 8px; margin: 0; font-size: 1em; font-weight: 600; border-radius: 3px 3px 0 0; line-height: 1.2;">CCF-C</h3>
+  <h3 style="background-color: #4a4a4a; color: #ffffff; padding: 2px 8px; margin: 0; font-size: 1em; font-weight: 600; border-radius: 3px 3px 0 0; line-height: 1.2;">会议论文（CCF-C）</h3>
   <div style="flex-grow: 1; height: 2px; background-color: #4a4a4a;"></div>
 </div>
 
@@ -398,7 +393,7 @@ IJCNN'16</span> 
 
 
 <div style="display: flex; align-items: flex-end; margin-top: 35px; margin-bottom: 15px;">
-  <h3 style="background-color: #4a4a4a; color: #ffffff; padding: 2px 8px; margin: 0; font-size: 1em; font-weight: 600; border-radius: 3px 3px 0 0; line-height: 1.2;">Others</h3>
+  <h3 style="background-color: #4a4a4a; color: #ffffff; padding: 2px 8px; margin: 0; font-size: 1em; font-weight: 600; border-radius: 3px 3px 0 0; line-height: 1.2;">其他论文</h3>
   <div style="flex-grow: 1; height: 2px; background-color: #4a4a4a;"></div>
 </div>
 

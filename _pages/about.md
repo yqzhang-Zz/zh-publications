@@ -23,30 +23,9 @@ redirect_from:
 <span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
 期刊论文</span> 
 <sup>&#x2709;</sup>通讯作者
-<\div><\div>
-
-<div style="display: flex; align-items: flex-end; margin-top: 35px; margin-bottom: 15px;">
-  <h3 style="background-color: #4a4a4a; color: #ffffff; padding: 4px 14px; margin: 0; font-size: 1.1em; border-radius: 4px 4px 0 0;">CCF-A</h3>
-  <div style="flex-grow: 1; height: 3px; background-color: #4a4a4a;"></div>
-</div>
 
 <div style="display: flex; align-items: flex-end; margin-top: 35px; margin-bottom: 15px;">
   <h3 style="background-color: #4a4a4a; color: #ffffff; padding: 2px 8px; margin: 0; font-size: 1em; font-weight: 600; border-radius: 3px 3px 0 0; line-height: 1.2;">CCF-A</h3>
-  <div style="flex-grow: 1; height: 2px; background-color: #4a4a4a;"></div>
-</div>
-
-<div style="display: flex; align-items: flex-end; margin-top: 35px; margin-bottom: 15px;">
-  <h3 style="background-color: #4a4a4a; color: #ffffff; padding: 2px 8px; margin: 0; font-size: 1em; font-weight: 600; border-radius: 3px 3px 0 0; line-height: 1.2;">CCF-B</h3>
-  <div style="flex-grow: 1; height: 2px; background-color: #4a4a4a;"></div>
-</div>
-
-<div style="display: flex; align-items: flex-end; margin-top: 35px; margin-bottom: 15px;">
-  <h3 style="background-color: #4a4a4a; color: #ffffff; padding: 2px 8px; margin: 0; font-size: 1em; font-weight: 600; border-radius: 3px 3px 0 0; line-height: 1.2;">CCF-C</h3>
-  <div style="flex-grow: 1; height: 2px; background-color: #4a4a4a;"></div>
-</div>
-
-<div style="display: flex; align-items: flex-end; margin-top: 35px; margin-bottom: 15px;">
-  <h3 style="background-color: #4a4a4a; color: #ffffff; padding: 2px 8px; margin: 0; font-size: 1em; font-weight: 600; border-radius: 3px 3px 0 0; line-height: 1.2;">Others</h3>
   <div style="flex-grow: 1; height: 2px; background-color: #4a4a4a;"></div>
 </div>
 
@@ -110,7 +89,13 @@ AAAI'20</span> 
 [An Ordinal Data Clustering Algorithm with Automated Distance Learning](#)<br>
 **Yiqun Zhang** and Yiu-ming Cheung<sup>&#x2709;</sup>
 
-### CCF-B
+
+
+
+<div style="display: flex; align-items: flex-end; margin-top: 35px; margin-bottom: 15px;">
+  <h3 style="background-color: #4a4a4a; color: #ffffff; padding: 2px 8px; margin: 0; font-size: 1em; font-weight: 600; border-radius: 3px 3px 0 0; line-height: 1.2;">CCF-B</h3>
+  <div style="flex-grow: 1; height: 2px; background-color: #4a4a4a;"></div>
+</div>
 
 [B015] <span style="background-color: #e3f2fd; color: #1976d2; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
 DASFAA'26</span> 
@@ -187,7 +172,13 @@ BIBM'23</span> 
 [Selecting Heterogeneous Features based on Unified Density-Guided Neighborhood Relation for Complex Biomedical Data Analysis](#)<br>
 Lang Zhao, **Yiqun Zhang**<sup>&#x2709;</sup>, Xiaopeng Luo, Yue Zhang, Yiu-ming Cheung and Kangshun Li
 
-### CCF-C
+
+
+
+<div style="display: flex; align-items: flex-end; margin-top: 35px; margin-bottom: 15px;">
+  <h3 style="background-color: #4a4a4a; color: #ffffff; padding: 2px 8px; margin: 0; font-size: 1em; font-weight: 600; border-radius: 3px 3px 0 0; line-height: 1.2;">CCF-C</h3>
+  <div style="flex-grow: 1; height: 2px; background-color: #4a4a4a;"></div>
+</div>
 
 [C012] <span style="background-color: #e3f2fd; color: #1976d2; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
 PRICAI'25</span> 
@@ -249,7 +240,13 @@ IJCNN'16</span> 
 [Quality Preserved Data Summarization for Fast Hierarchical Clustering](#)<br>
 **Yiqun Zhang**, Yiu-ming Cheung and Yang Liu
 
-### Others
+
+
+
+<div style="display: flex; align-items: flex-end; margin-top: 35px; margin-bottom: 15px;">
+  <h3 style="background-color: #4a4a4a; color: #ffffff; padding: 2px 8px; margin: 0; font-size: 1em; font-weight: 600; border-radius: 3px 3px 0 0; line-height: 1.2;">Others</h3>
+  <div style="flex-grow: 1; height: 2px; background-color: #4a4a4a;"></div>
+</div>
 
 [N005] <span style="background-color: #e3f2fd; color: #1976d2; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
 DOCS'24</span> 

@@ -1,0 +1,26 @@
+# main links links
+main:
+
+  - title: "<i class='fas fa-globe'></i> EN"
+    url: "https://yqzhang-zz.github.io/"
+
+  - title: "关于我"
+    url: "/zh/#about-me"
+
+  - title: "新闻"
+    url: "/zh/#news"
+
+  - title: "论文"
+    url: "/zh/#publications"
+
+  - title: "荣誉与获奖"
+    url: "/zh/#honors-and-awards"
+
+  - title: "教育背景"
+    url: "/zh/#educations"
+
+  - title: "特邀报告"
+    url: "/zh/#invited-talks"
+
+  - title: "工作经历"
+    url: "/zh/#internships"

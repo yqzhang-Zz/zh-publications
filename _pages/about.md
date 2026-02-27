@@ -26,6 +26,26 @@ redirect_from:
 
 ### CCF-A
 
+<div style="display: flex; align-items: flex-end; margin-top: 35px; margin-bottom: 15px;">
+  <h3 style="background-color: #4a4a4a; color: #ffffff; padding: 4px 14px; margin: 0; font-size: 1.1em; border-radius: 4px 4px 0 0;">CCF-A</h3>
+  <div style="flex-grow: 1; height: 3px; background-color: #4a4a4a;"></div>
+</div>
+
+<div style="display: flex; align-items: flex-end; margin-top: 35px; margin-bottom: 15px;">
+  <h3 style="background-color: #4a4a4a; color: #ffffff; padding: 4px 14px; margin: 0; font-size: 1.1em; border-radius: 4px 4px 0 0;">CCF-B</h3>
+  <div style="flex-grow: 1; height: 3px; background-color: #4a4a4a;"></div>
+</div>
+
+<div style="display: flex; align-items: flex-end; margin-top: 35px; margin-bottom: 15px;">
+  <h3 style="background-color: #4a4a4a; color: #ffffff; padding: 4px 14px; margin: 0; font-size: 1.1em; border-radius: 4px 4px 0 0;">CCF-C</h3>
+  <div style="flex-grow: 1; height: 3px; background-color: #4a4a4a;"></div>
+</div>
+
+<div style="display: flex; align-items: flex-end; margin-top: 35px; margin-bottom: 15px;">
+  <h3 style="background-color: #4a4a4a; color: #ffffff; padding: 4px 14px; margin: 0; font-size: 1.1em; border-radius: 4px 4px 0 0;">Others</h3>
+  <div style="flex-grow: 1; height: 3px; background-color: #4a4a4a;"></div>
+</div>
+
 <h3 style="background-color: #4a4a4a; color: #ffffff; padding: 2px 12px; line-height: 1.4; margin-top: 30px; margin-bottom: 15px; border-radius: 3px; font-size: 1.1em;">CCF-A</h3>
 
 <h3 style="background-color: #4a4a4a; color: #ffffff; padding: 2px 12px; line-height: 1.4; margin-top: 30px; margin-bottom: 15px; border-radius: 3px; font-size: 1.1em;">CCF-B</h3>

@@ -32,27 +32,24 @@ redirect_from:
 </div>
 
 <div style="display: flex; align-items: flex-end; margin-top: 35px; margin-bottom: 15px;">
-  <h3 style="background-color: #4a4a4a; color: #ffffff; padding: 4px 14px; margin: 0; font-size: 1.1em; border-radius: 4px 4px 0 0;">CCF-B</h3>
-  <div style="flex-grow: 1; height: 3px; background-color: #4a4a4a;"></div>
+  <h3 style="background-color: #4a4a4a; color: #ffffff; padding: 2px 8px; margin: 0; font-size: 1em; font-weight: 600; border-radius: 3px 3px 0 0; line-height: 1.2;">CCF-A</h3>
+  <div style="flex-grow: 1; height: 2px; background-color: #4a4a4a;"></div>
 </div>
 
 <div style="display: flex; align-items: flex-end; margin-top: 35px; margin-bottom: 15px;">
-  <h3 style="background-color: #4a4a4a; color: #ffffff; padding: 4px 14px; margin: 0; font-size: 1.1em; border-radius: 4px 4px 0 0;">CCF-C</h3>
-  <div style="flex-grow: 1; height: 3px; background-color: #4a4a4a;"></div>
+  <h3 style="background-color: #4a4a4a; color: #ffffff; padding: 2px 8px; margin: 0; font-size: 1em; font-weight: 600; border-radius: 3px 3px 0 0; line-height: 1.2;">CCF-B</h3>
+  <div style="flex-grow: 1; height: 2px; background-color: #4a4a4a;"></div>
 </div>
 
 <div style="display: flex; align-items: flex-end; margin-top: 35px; margin-bottom: 15px;">
-  <h3 style="background-color: #4a4a4a; color: #ffffff; padding: 4px 14px; margin: 0; font-size: 1.1em; border-radius: 4px 4px 0 0;">Others</h3>
-  <div style="flex-grow: 1; height: 3px; background-color: #4a4a4a;"></div>
+  <h3 style="background-color: #4a4a4a; color: #ffffff; padding: 2px 8px; margin: 0; font-size: 1em; font-weight: 600; border-radius: 3px 3px 0 0; line-height: 1.2;">CCF-C</h3>
+  <div style="flex-grow: 1; height: 2px; background-color: #4a4a4a;"></div>
 </div>
 
-<h3 style="background-color: #4a4a4a; color: #ffffff; padding: 2px 12px; line-height: 1.4; margin-top: 30px; margin-bottom: 15px; border-radius: 3px; font-size: 1.1em;">CCF-A</h3>
-
-<h3 style="background-color: #4a4a4a; color: #ffffff; padding: 2px 12px; line-height: 1.4; margin-top: 30px; margin-bottom: 15px; border-radius: 3px; font-size: 1.1em;">CCF-B</h3>
-
-<h3 style="background-color: #4a4a4a; color: #ffffff; padding: 2px 12px; line-height: 1.4; margin-top: 30px; margin-bottom: 15px; border-radius: 3px; font-size: 1.1em;">CCF-C</h3>
-
-<h3 style="background-color: #4a4a4a; color: #ffffff; padding: 2px 12px; line-height: 1.4; margin-top: 30px; margin-bottom: 15px; border-radius: 3px; font-size: 1.1em;">Others</h3>
+<div style="display: flex; align-items: flex-end; margin-top: 35px; margin-bottom: 15px;">
+  <h3 style="background-color: #4a4a4a; color: #ffffff; padding: 2px 8px; margin: 0; font-size: 1em; font-weight: 600; border-radius: 3px 3px 0 0; line-height: 1.2;">Others</h3>
+  <div style="flex-grow: 1; height: 2px; background-color: #4a4a4a;"></div>
+</div>
 
 [A012] <span style="background-color: #e3f2fd; color: #1976d2; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
 SIGMOD'26</span> 

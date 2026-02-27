@@ -24,6 +24,160 @@ redirect_from:
 期刊论文</span> 
 <sup>&#x2709;</sup>通讯作者
 
+
+
+<div style="display: flex; align-items: flex-end; margin-top: 35px; margin-bottom: 15px;">
+  <h3 style="background-color: #4a4a4a; color: #ffffff; padding: 2px 8px; margin: 0; font-size: 1em; font-weight: 600; border-radius: 3px 3px 0 0; line-height: 1.2;">期刊论文</h3>
+  <div style="flex-grow: 1; height: 2px; background-color: #4a4a4a;"></div>
+</div>
+
+[J024] <span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
+TCYB'25</span> 
+[Online Heterogeneous Feature Selection](https://ieeexplore.ieee.org/abstract/document/11274409)<br>
+**Yiqun Zhang**, Xinxi Chen, Lang Zhao, Yuzhu Ji, Peng Liu and Yiu-ming Cheung<sup>&#x2709;</sup><br>
+<span style="color: #0b5394; font-size: 0.9em; font-weight: bold;">SCI 1区 | Top期刊 | 影响因子: 10.5</span>
+
+[J023] <span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
+TNNLS'25</span> 
+[Learning Self-Growth Maps for Fast and Accurate Imbalanced Streaming Data Clustering](https://ieeexplore.ieee.org/abstract/document/10568270)<br>
+**Yiqun Zhang**, Sen Feng, Pengkai Wang, Zexi Tan, Xiaopeng Luo, Yuzhu Ji<sup>&#x2709;</sup>, Rong Zou and Yiu-ming Cheung<sup>&#x2709;</sup><br>
+<span style="color: #0b5394; font-size: 0.9em; font-weight: bold;">SCI 1区 | Top期刊 | 影响因子: 8.9</span>
+
+[J022] <span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
+IoTJ'26</span> 
+[One-Shot Federated Clustering of Non-Independent Completely Distributed Data](#)<br>
+**Yiqun Zhang**, Shenghong Cai, Zihua Yang, Sen Feng, Yuzhu Ji<sup>&#x2709;</sup> and Haijun Zhang<br>
+<span style="color: #0b5394; font-size: 0.9em; font-weight: bold;">SCI 1区 | Top期刊 | 影响因子: 8.9</span>
+
+[J021] <span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
+TMM'26</span> 
+[NIDC: General Task Backbone for Neuroimaging Analysis via Interpretable Deep Clustering](#)<br>
+Jiayu Ye, An Zeng, Dan Pan, Junhao Chen, Jingliang Zhao, **Yiqun Zhang** and Yang Liu<br>
+<span style="color: #0b5394; font-size: 0.9em; font-weight: bold;">SCI 1区 | Top期刊 | 影响因子: 9.7 | 博士生成果</span>
+
+[J020] <span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
+TIP'25</span> 
+[CmdVIT: A Voluntary Facial Expression Recognition Model for Complex Mental Disorders](#)<br>
+Jiayu Ye, Yanhong Yu, Qingxiang Wang, Guolong Liu, Wentao Li, An Zeng, **Yiqun Zhang**, Yang Liu and Yunshao Zheng<br>
+<span style="color: #0b5394; font-size: 0.9em; font-weight: bold;">SCI 1区 | Top期刊 | 影响因子: 10.8 | 博士生成果</span>
+
+[J019] <span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
+TCE'25</span> 
+[SMACNet: A Unified Framework for One-shot Talking Head Synthesis via Subtle Motion and Appearance Compensation](#)<br>
+Yuzhu Ji, Wei Hu, Guoji Gan, Zhiquan Long, **Yiqun Zhang**<sup>&#x2709;</sup>, An Zeng<sup>&#x2709;</sup> and Haijun Zhang<br>
+<span style="color: #0b5394; font-size: 0.9em; font-weight: bold;">SCI 1区 | 影响因子: 10.9 | 研究生与本科科研生合作成果</span>
+
+[J018] <span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
+IoTJ'25</span> 
+[Hierarchical Reference Sets for Robust Unsupervised Detection of Scattered and Clustered Outliers](#)<br>
+**Yiqun Zhang**, Zexi Tan, Xiaopeng Luo<sup>&#x2709;</sup> and Yunlin Liu<br>
+<span style="color: #0b5394; font-size: 0.9em; font-weight: bold;">SCI 1区 | Top期刊 | 影响因子: 8.9</span>
+
+[J017] <span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
+TETCI'25</span> 
+[Learning Unbiased Cluster Descriptors for Interpretable Imbalanced Concept Drift Detection](#)<br>
+**Yiqun Zhang**, Zhanpei Huang, Mingjie Zhao, Chuyao Zhang, Yang Lu, Yuzhu Ji<sup>&#x2709;</sup>, Fangqing Gu and An Zeng<sup>&#x2709;</sup><br>
+<span style="color: #0b5394; font-size: 0.9em; font-weight: bold;">SCI 1区 | 影响因子: 6.5</span>
+
+[J016] <span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
+TAI'25</span> 
+[Trending Applications of Large Language Models: A User Perspective Survey](#)<br>
+**Yiqun Zhang**, Mingjie Zhao, Yunfan Zhang and Yiu-ming Cheung<sup>&#x2709;</sup><br>
+<span style="color: #0b5394; font-size: 0.9em; font-weight: bold;">综述论文</span>
+
+[J015] <span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
+INS'25</span> 
+[Federated Hierarchical Clustering with Automatic Selection of Optimal Cluster Numbers](#)<br>
+Yue Zhang, Chuanlong Qiu, Xinfa Liao and **Yiqun Zhang**<sup>&#x2709;</sup><br>
+<span style="color: #0b5394; font-size: 0.9em; font-weight: bold;">SCI 1区 | 影响因子: 6.8 | 研究生成果</span>
+
+[J014] <span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
+ESWA'25</span> 
+[Learning Unified Distance Metric for Heterogeneous Attribute Data Clustering](#)<br>
+**Yiqun Zhang**, Mingjie Zhao, Yizhou Chen, Yang Lu<sup>&#x2709;</sup> and Yiu-ming Cheung<br>
+<span style="color: #0b5394; font-size: 0.9em; font-weight: bold;">ESI高被引论文 | SCI 1区 | Top期刊 | 影响因子: 7.5</span>
+
+[J013] <span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
+NEUCOM'25</span> 
+[SDENK: Unbiased Subspace Density-k-Clustering](#)<br>
+Rong Zou, Yunfan Zhang, Mingjie Zhao, Zexi Tan, **Yiqun Zhang**<sup>&#x2709;</sup> and Yiu-ming Cheung<sup>&#x2709;</sup><br>
+<span style="color: #0b5394; font-size: 0.9em; font-weight: bold;">SCI 1区 | 影响因子: 6.5 | 博士生成果</span>
+
+[J012] <span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
+CAIS'25</span> 
+[Adaptive Micro Partition and Hierarchical Merging for Accurate Mixed Data Clustering](#)<br>
+Yunfan Zhang, Rong Zou, **Yiqun Zhang**<sup>&#x2709;</sup>, Yue Zhang, Yiu-ming Cheung and Kangshun Li<br>
+<span style="color: #0b5394; font-size: 0.9em; font-weight: bold;">SCI 2区 | 影响因子: 4.6 | 本科科研生成果</span>
+
+[J011] <span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
+EXSY'25</span> 
+[Towards Clustering of Incomplete Mixed-Attribute Data](#)<br>
+Chuyao Zhang, Xinxi Chen, Zexi Tan, Fangqing Gu, Yuzhu Ji and **Yiqun Zhang**<sup>&#x2709;</sup><br>
+<span style="color: #0b5394; font-size: 0.9em; font-weight: bold;">SCI 2区 | 影响因子: 2.3 | 研究生成果</span>
+
+[J010] <span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
+IJWMIP'25</span> 
+[Efficient Streaming Data Clustering Guided by Self-Refined Organizing Map](#)<br>
+Mei Yin, Zexi Tan, Yunfan Zhang, **Yiqun Zhang**<sup>&#x2709;</sup> and Yang Lu<br>
+<span style="color: #0b5394; font-size: 0.9em; font-weight: bold;">SCI 4区 | 影响因子: 0.8</span>
+
+[J009] <span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
+TETCI'25</span> 
+[MssNet: An Efficient Spatial Attention Model for Early Recognition of Alzheimer’s Disease](#)<br>
+Jiayu Ye, Dan Pan, An Zeng, **Yiqun Zhang**, Qiuping Chen and Yang Liu<br>
+<span style="color: #0b5394; font-size: 0.9em; font-weight: bold;">SCI 1区 | 影响因子: 6.5 | 博士生成果</span>
+
+[J008] <span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
+JBHI'24</span> 
+[MAD-Former: A Traceable Interpretability Model for Alzheimer's Disease Recognition Based on Multi-Patch Attention](#)<br>
+Jiayu Ye, An Zeng, Dan Pan, **Yiqun Zhang**, Jingliang Zhao, Qiuping Chen and Yang Liu<br>
+<span style="color: #0b5394; font-size: 0.9em; font-weight: bold;">SCI 1区 | Top期刊 | 影响因子: 6.7 | 博士生成果</span>
+
+[J007] <span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
+TNNLS'23</span> 
+[Graph-based Dissimilarity Measurement for Cluster Analysis of Any-Type-Attributed Data](#)<br>
+**Yiqun Zhang** and Yiu-ming Cheung<sup>&#x2709;</sup><br>
+<span style="color: #0b5394; font-size: 0.9em; font-weight: bold;">SCI 1区 | Top期刊 | 影响因子: 8.9</span>
+
+[J006] <span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
+TNNLS'23</span> 
+[Allosteric Feature Collaboration for Model-Heterogeneous Federated Learning](#)<br>
+Baoyao Yang, Pong Chi Yuen, **Yiqun Zhang** and An Zeng<br>
+<span style="color: #0b5394; font-size: 0.9em; font-weight: bold;">SCI 1区 | Top期刊 | 影响因子: 8.9</span>
+
+[J005] <span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
+TPAMI'22</span> 
+[Learnable Weighting of Intra-attribute Distances for Categorical Data Clustering with Nominal and Ordinal Attributes](#)<br>
+**Yiqun Zhang** and Yiu-ming Cheung<sup>&#x2709;</sup><br>
+<span style="color: #0b5394; font-size: 0.9em; font-weight: bold;">SCI 1区 | Top期刊 | 影响因子: 18.6</span>
+
+[J004] <span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
+TCYB'22</span> 
+[A New Distance Metric Exploiting Heterogeneous Inter-Attribute Relationship for Ordinal-and-Nominal-Attribute Data Clustering](#)<br>
+**Yiqun Zhang** and Yiu-ming Cheung<sup>&#x2709;</sup><br>
+<span style="color: #0b5394; font-size: 0.9em; font-weight: bold;">SCI 1区 | Top期刊 | 影响因子: 10.5</span>
+
+[J003] <span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
+ISCLS'21</span> 
+[Discovery of Genetic Biomarkers for Alzheimer’s Disease Using Adaptive Convolutional Neural Networks Ensemble and Genome-Wide Association Studies](#)<br>
+An Zeng, Huabin Rong, Dan Pan, Longfei Jia, **Yiqun Zhang**, Fengyi Zhao and Shaoliang Peng<br>
+<span style="color: #0b5394; font-size: 0.9em; font-weight: bold;">SCI 1区 | 影响因子: 3.9 | 研究生成果</span>
+
+[J002] <span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
+TNNLS'20</span> 
+[A Unified Entropy-Based Distance Metric for Ordinal-and-Nominal-Attribute Data Clustering](#)<br>
+**Yiqun Zhang**, Yiu-ming Cheung<sup>&#x2709;</sup> and Kay Chen Tan<br>
+<span style="color: #0b5394; font-size: 0.9em; font-weight: bold;">SCI 1区 | Top期刊 | 影响因子: 8.9 | 获IEEE智能计算香港分会研究生论文竞赛冠军</span>
+
+[J001] <span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
+TNNLS'19</span> 
+[Fast and Accurate Hierarchical Clustering based on Growing Multilayer Topology Training](#)<br>
+Yiu-ming Cheung<sup>&#x2709;</sup> and **Yiqun Zhang**<br>
+<span style="color: #0b5394; font-size: 0.9em; font-weight: bold;">SCI 1区 | Top期刊 | 影响因子: 8.9</span>
+
+
+
+
 <div style="display: flex; align-items: flex-end; margin-top: 35px; margin-bottom: 15px;">
   <h3 style="background-color: #4a4a4a; color: #ffffff; padding: 2px 8px; margin: 0; font-size: 1em; font-weight: 600; border-radius: 3px 3px 0 0; line-height: 1.2;">CCF-A</h3>
   <div style="flex-grow: 1; height: 2px; background-color: #4a4a4a;"></div>

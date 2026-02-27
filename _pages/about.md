@@ -24,30 +24,236 @@ redirect_from:
 期刊论文</span> 
 <sup>&#x2709;</sup>通讯作者
 
-- <span style="background-color: #e3f2fd; color: #1976d2; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
-SIGMOD'26</span> 
+
+
+### CCF-A
+
+[A012] <span style="background-color: #e3f2fd; color: #1976d2; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
+SIGMOD'26</span> 
 [Categorical Data Clustering via Value Order Estimated Distance Metric Learning](https://dl.acm.org/doi/abs/10.1145/3769772)<br>
 **Yiqun Zhang**, Mingjie Zhao, Hong Jia, Mengke Li, Yang Lu and Yiu-ming Cheung
 
-- <span style="background-color: #e3f2fd; color: #1976d2; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
-CVPR'26</span> 
-SECOS: Semantic Capture for Rigorous Classification in Open-World Semi-Supervised Learning<br>
-Hezhao Liu, Jiacheng Yang, Junlong Gao, Mengke Li, **Yiqun Zhang**, Shreyank Gowda and Yang Lu
+[A011] <span style="background-color: #e3f2fd; color: #1976d2; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
+AAAI'26</span> 
+[Mask the Redundancy: Evolving Masking Representation Learning for Multivariate Time-Series Clustering](#)<br>
+Zexi Tan, Xiaopeng Luo, Yunlin Liu and **Yiqun Zhang**
 
-- <span style="background-color: #e3f2fd; color: #1976d2; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
-AAAI'26</span> 
-[Mask the Redundancy: Evolving Masking Representation Learning for Multivariate Time-Series Clustering](https://arxiv.org/abs/2511.17008)<br>
-Zexi Tan, Xiaopeng Luo, Yunlin Liu and **Yiqun Zhang**<sup>&#x2709;</sup>
+[A010] <span style="background-color: #e3f2fd; color: #1976d2; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
+AAAI'26</span> 
+[Break the Tie: Learning Cluster-Customized Category Relationships for Categorical Data Clustering](#)<br>
+Mingjie Zhao, Zhanpei Huang, Yang Lu, Mengke Li, **Yiqun Zhang**, Weifeng Su and Yiu-ming Cheung
 
-- <span style="background-color: #e3f2fd; color: #1976d2; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
-SIGKDD'24</span> 
-[QGRL: Quaternion Graph Representation Learning for Heterogeneous Feature Data Clustering](https://dl.acm.org/doi/abs/10.1145/3637528.3671839)<br>
-Junyang Chen, Yuzhu Ji, Rong Zou, **Yiqun Zhang**<sup>&#x2709;</sup> and Yiu-ming Cheung
+[A009] <span style="background-color: #e3f2fd; color: #1976d2; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
+ICCV'25</span> 
+[PRO-VPT: Distribution-Adaptive Visual Prompt Tuning via Prompt Relocation](#)<br>
+Chikai Shang, Mengke Li, **Yiqun Zhang**, Zhen Chen, Jinlin Wu, Fangqing Gu, Yang Lu and Yiu-ming Cheung
 
-- <span style="background-color: #e3f2fd; color: #1976d2; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
-NeurIPS'24</span> 
-[Improving Visual Prompt Tuning by Gaussian Neighborhood Minimization for Long-Tailed Visual Recognition](https://proceedings.neurips.cc/paper_files/paper/2024/hash/bc667ac84ef58f2b5022da97a465cbab-Abstract-Conference.html)<br>
+[A008] <span style="background-color: #e3f2fd; color: #1976d2; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
+ACMMM'25</span> 
+[FATE: A Prompt-Tuning-Based Semi-Supervised Learning Framework for Extremely Limited Labeled Data](#)<br>
+Hezhao Liu, Yang Lu, Mengke Li, **Yiqun Zhang**, Shreyank N Gowda, Chen Gong and Hanzi Wang
+
+[A007] <span style="background-color: #e3f2fd; color: #1976d2; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
+IJCAI'25</span> 
+[SeqPose: An End-to-End Framework to Unify Single-frame and Video-based RGB Category-Level Pose Estimation](#)<br>
+Yuzhu Ji, Mingshan Sun, Jianyang Shi, Xiaoke Jiang, **Yiqun Zhang** and Haijun Zhang
+
+[A006] <span style="background-color: #e3f2fd; color: #1976d2; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
+CVPR'25</span> 
+[Mind the Gap: Confidence Discrepancy Can Guide Federated Semi-Supervised Learning Across Pseudo-Mismatch](#)<br>
+Yijie Liu, Xinyi Shang, **Yiqun Zhang**, Yang Lu, Chen Gong, Jing-Hao Xue and Hanzi Wang
+
+[A005] <span style="background-color: #e3f2fd; color: #1976d2; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
+AAAI'25</span> 
+[Asynchronous Federated Clustering with Unknown Number of Clusters](#)<br>
+Yunfan Zhang, **Yiqun Zhang**, Yang Lu, Mengke Li, Xi Chen and Yiu-ming Cheung
+
+[A004] <span style="background-color: #e3f2fd; color: #1976d2; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
+NeurIPS'24</span> 
+[Improving Visual Prompt Tuning by Gaussian Neighborhood Minimization for Long-Tailed Visual Recognition](#)<br>
 Mengke Li, Ye Liu, Yang Lu, **Yiqun Zhang**, Yiu-ming Cheung and Hui Huang
+
+[A003] <span style="background-color: #e3f2fd; color: #1976d2; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
+KDD'24</span> 
+[QGRL: Quaternion Graph Representation Learning for Heterogeneous Feature Data Clustering](#)<br>
+Junyang Chen, Yuzhu Ji, Rong Zou, **Yiqun Zhang** and Yiu-ming Cheung
+
+[A002] <span style="background-color: #e3f2fd; color: #1976d2; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
+IJCAI-ECAI'22</span> 
+[Het2Hom: Representation of Heterogeneous Attributes into Homogeneous Concept Spaces for Categorical-and-Numerical-Attribute Data Clustering](#)<br>
+**Yiqun Zhang**, Yiu-ming Cheung and An Zeng
+
+[A001] <span style="background-color: #e3f2fd; color: #1976d2; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
+AAAI'20</span> 
+[An Ordinal Data Clustering Algorithm with Automated Distance Learning](#)<br>
+**Yiqun Zhang** and Yiu-ming Cheung
+
+### CCF-B
+
+[B015] <span style="background-color: #e3f2fd; color: #1976d2; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
+DASFAA'26</span> 
+[HyReaL: Clustering Attributed Graph via Hyper-Complex Space Representation Learning](#)<br>
+Junyang Chen, Yang Lu, Mengke Li, Cuie Yang, **Yiqun Zhang** and Yiu-ming Cheung
+
+[B014] <span style="background-color: #e3f2fd; color: #1976d2; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
+ICASSP'26</span> 
+[STRPNET: Video Salient Object Detection via Spatio-Temporal Scene Relation Propagation](#)<br>
+Shujie Qiu, Jie Yang, Jiaqi Yu, **Yiqun Zhang**, Yuzhu Ji and Peng Liu
+
+[B013] <span style="background-color: #e3f2fd; color: #1976d2; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
+ICASSP'26</span> 
+[CADM: Cluster-customized Adaptive Distance Metric for Categorical Data Clustering](#)<br>
+Taixi Chen, Yiu-ming Cheung and **Yiqun Zhang**
+
+[B012] <span style="background-color: #e3f2fd; color: #1976d2; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
+BIBM'25</span> 
+[DE3S: Dual-Enhanced Soft-Sparse-Shape Learning for Medical Early Time-Series Classification](#)<br>
+Tao Xie, Zexi Tan, Haoyi Xiao, **Yiqun Zhang** and Binbin Sun
+
+[B011] <span style="background-color: #e3f2fd; color: #1976d2; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
+ECAI'25</span> 
+[FairFed++: Closing the Fairness Gap in Federated Learning through Self-Evolving Clustered Optimization](#)<br>
+Zhixiang Fang, Baoyao Yang, Weide Zhan, Yanchao Tang and **Yiqun Zhang**
+
+[B010] <span style="background-color: #e3f2fd; color: #1976d2; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
+ICASSP'25</span> 
+[Robust Qualitative Data Clustering via Learnable Multi-Metric Space Fusion](#)<br>
+Sen Feng, Mingjie Zhao, Zhanpei Huang, Yuzhu Ji, **Yiqun Zhang** and Yiu-ming Cheung
+
+[B009] <span style="background-color: #e3f2fd; color: #1976d2; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
+ICASSP'25</span> 
+[Weighted Density for The Win: Accurate Subspace Density Clustering](#)<br>
+Maixuan Peng, Yuyang Wu, **Yiqun Zhang**, Yang Lu, Mengke Li and Yiu-ming Cheung
+
+[B008] <span style="background-color: #e3f2fd; color: #1976d2; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
+ICASSP'25</span> 
+[SmartNet: One-shot Talking Head Synthesis via Subtle Motion and Appearance Compensation](#)<br>
+Wei Hu, Yuzhu Ji, An Zeng, Dan Pan, **Yiqun Zhang** and Haijun Zhang
+
+[B007] <span style="background-color: #e3f2fd; color: #1976d2; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
+ECAI'24</span> 
+[Learning Order Forest for Qualitative-Attribute Data Clustering](#)<br>
+Mingjie Zhao, Sen Feng, **Yiqun Zhang**, Mengke Li, Yang Lu and Yiu-ming Cheung
+
+[B006] <span style="background-color: #e3f2fd; color: #1976d2; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
+ECAI'24</span> 
+[CPNet: 3D Semantic Relation and Geometry Context Prior Network for Multi-organ Segmentation](#)<br>
+Yuzhu Ji, Mingshan Sun, **Yiqun Zhang** and Haijun Zhang
+
+[B005] <span style="background-color: #e3f2fd; color: #1976d2; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
+BIBM'24</span> 
+[MGOD: Multi-Granular Outlier Detection with Clustlier Analysis](#)<br>
+Qingsheng Chen, Mingjie Zhao, Yuzhu Ji, Xiaopeng Luo, **Yiqun Zhang** and Yue Zhang
+
+[B004] <span style="background-color: #e3f2fd; color: #1976d2; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
+BIBM'24</span> 
+[Efficient Topology-Driven Clustering for Imbalanced Streaming Biomedical Data Analysis](#)<br>
+Xiaopeng Luo, **Yiqun Zhang**, Yuzhu Ji, Peng Liu and Taoting Xiao
+
+[B003] <span style="background-color: #e3f2fd; color: #1976d2; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
+ICDCS'24</span> 
+[Robust Categorical Data Clustering Guided by Multi-Granular Competitive Learning](#)<br>
+Shenghong Cai, **Yiqun Zhang**, Xiaopeng Luo, Yiu-ming Cheung, Hong Jia and Peng Liu
+
+[B002] <span style="background-color: #e3f2fd; color: #1976d2; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
+ECAI'23</span> 
+[Time-Series Data Imputation via Realistic Masking-Guided Tri-Attention Bi-GRU](#)<br>
+Zhipeng Zhang, **Yiqun Zhang**, An Zeng, Dan Pan, Yuzhu Ji, Zhipeng Zhang and Jing Lin
+
+[B001] <span style="background-color: #e3f2fd; color: #1976d2; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
+BIBM'23</span> 
+[Selecting Heterogeneous Features based on Unified Density-Guided Neighborhood Relation for Complex Biomedical Data Analysis](#)<br>
+Lang Zhao, **Yiqun Zhang**, Xiaopeng Luo, Yue Zhang, Yiu-ming Cheung and Kangshun Li
+
+### CCF-C
+
+[C012] <span style="background-color: #e3f2fd; color: #1976d2; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
+PRICAI'25</span> 
+[MEET-Sepsis: Multi-Endogenous-View Enhanced Time-Series Representation Learning for Early Sepsis Prediction](#)<br>
+Zexi Tan, Tao Xie, Binbin Sun, Xiang Zhang, **Yiqun Zhang** and Yiu-ming Cheung
+
+[C011] <span style="background-color: #e3f2fd; color: #1976d2; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
+ISBRA'25</span> 
+[EEG-TFNet: Spatiotemporal and Spectral Feature Integration for EEG-Based AD Detection](#)<br>
+An Zeng, Zhao Guo, Dan Pan, **Yiqun Zhang** and Jun Liu
+
+[C010] <span style="background-color: #e3f2fd; color: #1976d2; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
+ICIC'25</span> 
+[DeSAD: Density Clustering-Guided Streaming Data Anomaly Detection](#)<br>
+Yue Zhang, Xuchuang Ding, Xiang Zhang, Wei Ai, Gengwen Huang and **Yiqun Zhang**
+
+[C009] <span style="background-color: #e3f2fd; color: #1976d2; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
+ICPR'24</span> 
+[Towards Unbiased Minimal Cluster Analysis of Categorical-and-Numerical Attribute Data](#)<br>
+Yunfan Zhang, Xiaopeng Luo, Qingsheng Chen, Rong Zou, **Yiqun Zhang** and Yiu-ming Cheung
+
+[C008] <span style="background-color: #e3f2fd; color: #1976d2; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
+PRCV'24</span> 
+[FedHC: Learning Imbalanced Clusters via Federated Hierarchical Clustering](#)<br>
+Yue Zhang, Xinfa Liao, Qingsheng Chen, Hao-Tian Wu and **Yiqun Zhang**
+
+[C007] <span style="background-color: #e3f2fd; color: #1976d2; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
+PRCV'24</span> 
+[FedGC: Federated Learning on Non-IID Data via Learning from Good Clients](#)<br>
+Xu Ji, Haotian Wu, Ting Cui, **Yiqun Zhang** and Lingling Xu
+
+[C006] <span style="background-color: #e3f2fd; color: #1976d2; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
+IJCNN'24</span> 
+[Clustering by Learning the Ordinal Relationships of Qualitative Attribute Values](#)<br>
+Pengkai Wang, Yunfan Zhang, **Yiqun Zhang**, Yang Lu, Mengke Li and Yiu-ming Cheung
+
+[C005] <span style="background-color: #e3f2fd; color: #1976d2; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
+PRCV'23</span> 
+[Unsupervised Concept Drift Detection via Imbalanced Cluster Discriminator Learning](#)<br>
+Mingjie Zhao, **Yiqun Zhang**, Yuzhu Ji and Yang Lu
+
+[C004] <span style="background-color: #e3f2fd; color: #1976d2; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
+PRCV'23</span> 
+[Learning Hierarchical Representations in Temporal and Frequency Domains for Time Series Forecasting](#)<br>
+Zhipeng Zhang, **Yiqun Zhang**, An Zeng, Dan Pan and Xiaobo Zhang
+
+[C003] <span style="background-color: #e3f2fd; color: #1976d2; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
+PRCV'23</span> 
+[CFNet: A Coarse-to-Fine Framework for Coronary Artery Segmentation](#)<br>
+Shiting He, Yuzhu Ji, **Yiqun Zhang**, An Zeng, Dan Pan, Jing Lin and Xiaobo Zhang
+
+[C002] <span style="background-color: #e3f2fd; color: #1976d2; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
+DSAA'22</span> 
+[Heterogeneous Drift Learning: Classification of Mix-Attribute Data with Concept Drifts](#)<br>
+Lang Zhao, **Yiqun Zhang**, Yuzhu Ji, An Zeng, Fangqing Gu and Xiaopeng Luo
+
+[C001] <span style="background-color: #e3f2fd; color: #1976d2; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
+IJCNN'16</span> 
+[Quality Preserved Data Summarization for Fast Hierarchical Clustering](#)<br>
+**Yiqun Zhang**, Yiu-ming Cheung and Yang Liu
+
+### Others
+
+[O005] <span style="background-color: #e3f2fd; color: #1976d2; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
+DOCS'24</span> 
+[Federated Clustering with Unknown Number of Clusters](#)<br>
+Rong Zou, Yunfan Zhang, **Yiqun Zhang**, Yang Lu, Mengke Li and Yiu-ming Cheung
+
+[O004] <span style="background-color: #e3f2fd; color: #1976d2; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
+DOCS'22</span> 
+[Causal Discovery of Medical Test Parameters Based on Improved PC Algorithm](#)<br>
+Xueyao Qiu, Fangqing Gu and **Yiqun Zhang**
+
+[O003] <span style="background-color: #e3f2fd; color: #1976d2; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
+ISMIS'18</span> 
+[Exploiting Order Information Embedded in Ordered Categories for Ordinal Data Clustering](#)<br>
+**Yiqun Zhang** and Yiu-ming Cheung
+
+[O002] <span style="background-color: #e3f2fd; color: #1976d2; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
+ICACI'18</span> 
+[A Fast Hierarchical Clustering Approach Based on Partition and Merging Scheme](#)<br>
+**Yiqun Zhang** and Yiu-ming Cheung
+
+[O001] <span style="background-color: #e3f2fd; color: #1976d2; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
+ICDMW'14</span> 
+[Discretizing Numerical Attributes in Decision Tree for Big Data Analysis](#)<br>
+**Yiqun Zhang** and Yiu-ming Cheung
+
 
 - <span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
 TAI'25</span> 
@@ -74,53 +280,6 @@ TPAMI'22</span>
 [Learnable Weighting of Intra-attribute Distances for Categorical Data Clustering with Nominal and Ordinal Attributes](https://ieeexplore.ieee.org/abstract/document/9346004)<br>
 **Yiqun Zhang** and Yiu-ming Cheung
 
-  ... ... 筛选展示10篇，完整论文列表请点[这里]或访问：[DBLP](https://dblp.org/pid/125/5587-6.html) &#124; [谷歌学术](https://scholar.google.com/citations?user=EnqM5F4AAAAJ&hl=zh-CN) ... ...
-
-<span class='anchor' id="honors-and-awards"></span>
-
-# 🏆 荣誉与获奖
-<!-- 
-- *2026/02*: IEEE汇刊TETCI优秀编委
-- *2026/01*: 广东工业大学优秀研究生导师
--->
-- *2025/12*: 广东工业大学学报优秀编委
-- *2024/12*: ACM SIGKDD 2025 Excellent Reviewer
-- *2024/08*: 2023年度广东省科技进步二等奖
-- *2024/08*: IEEE第6届复杂系统数据驱动优化国际会议（DOCS 2024）最佳论文奖
-- *2022/09*: 教育部-华为智能基座先锋教师称号
-- *2021/06*: 广东工业大学计算机学院青年教师教学竞赛院赛一等奖（仅设一名）
-- *2019/12*: 香港浸会大学计算机科学系突出研究表现奖
-- *2019/08*: IEEE智能计算学会（香港）研究论文竞赛冠军
-- *2018/10*: Springer第24届国际智能系统方法研讨会（ISMIS 2018）最佳学生论文奖
-
-
-
-<span class='anchor' id="educations"></span>
-
-# 👨‍🎓 教育背景
-- *2014/09 - 2019/11*: 香港浸会大学，计算机科学系，哲学博士（导师：张晓明教授，长江学者，IEEE Fellow，AAAS Fellow，IAPR Fellow）
-- *2013/09 - 2014/11*: 香港浸会大学，计算机科学系，理学硕士
-- *2009/09 - 2013/07*: 华南理工大学，生物医学工程系，工学学士
-- *2006/09 - 2009/07*: 深圳市红岭中学，理科班
-
-<span class='anchor' id="invited-talks"></span>
-
-# 💬 特邀报告
-- *2025/12*: 山西大学，动态环境复杂分布数据聚类分析
-- *2024/12*: 东北大学/流程工业综合自动化全国重点实验室， Clustering Complex Data Under Dynamic Environment
-- *2024/12*: 广东工业大学，动态环境下的复杂数据聚类分析
-- *2023/11*: 南方科技大学，Learning from Complex Data with Cross-Coupled Heterogeneous Attributes
-- *2021/04*: 广东工业大学，以投稿和审稿人视角浅谈人工智能科研
-
-<span class='anchor' id="internships"></span>
-
-# 💻 工作经历
-- *2026/01 至今*: 广东工业大学，计算机学院，特聘教授
-- *2024/12 - 2025/12*: 香港浸会大学，计算机科学系，访问研究学者
-- *2023/12 - 2026/01*: 广东工业大学，计算机学院，副教授
-- *2022/09 - 2023/12*: 广东工业大学，计算机学院，特聘副教授
-- *2020/10 - 2022/09*: 广东工业大学，计算机学院，讲师
-- *2019/09 - 2021/02*: 香港浸会大学，计算机科学系，博士后
 <br>
 <br>
 <br>

@@ -480,7 +480,20 @@ TPAMI'22</span>
 
 
 
-
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    setTimeout(function() {
+      var links = document.querySelectorAll('a');
+      links.forEach(function(link) {
+        if (link.href.includes('#about-me') || link.classList.contains('navbar-brand')) {
+          var cleanLink = link.cloneNode(true); 
+          cleanLink.href = 'https://yqzhang-zz.github.io/zh/'; 
+          link.parentNode.replaceChild(cleanLink, link); 
+        }
+      });
+    }, 800); 
+  });
+</script>
 
 
 

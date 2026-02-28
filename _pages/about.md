@@ -178,6 +178,16 @@ Yiu-ming Cheung<sup>&#x2709;</sup> and **Yiqun Zhang**<br>
   <div style="flex-grow: 1; height: 2px; background-color: #4a4a4a;"></div>
 </div>
 
+[A014] <span style="background-color: #e3f2fd; color: #1976d2; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
+CVPR'26</span> 
+[SECOS: Semantic Capture for Rigorous Classification in Open-World Semi-Supervised Learning](#)<br>
+Hezhao Liu, Jiacheng Yang, Junlong Gao, Mengke Li, **Yiqun Zhang**, Shreyank N Gowda and Yang Lu<sup>&#x2709;</sup>
+
+[A013] <span style="background-color: #e3f2fd; color: #1976d2; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
+CVPR'26</span> 
+[Fine-Tuning Impairs the Balancedness of Foundation Models in Long-tailed Personalized Federated Learning](#)<br>
+Shihao Hou, Chikai Shang, Zhiheng Yang, Jiacheng Yang, Xinyi Shang, Junlong Gao, **Yiqun Zhang** and Yang Lu<sup>&#x2709;</sup>
+
 [A012] <span style="background-color: #e3f2fd; color: #1976d2; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
 SIGMOD'26</span> 
 [Categorical Data Clustering via Value Order Estimated Distance Metric Learning](https://dl.acm.org/doi/abs/10.1145/3769772)<br>

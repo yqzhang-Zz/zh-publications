@@ -155,7 +155,7 @@ TCYB'22</span> 
 [J003] <span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
 ISCLS'21</span> 
 [Discovery of Genetic Biomarkers for Alzheimer’s Disease Using Adaptive Convolutional Neural Networks Ensemble and Genome-Wide Association Studies](https://drive.google.com/file/d/1gmzfBbjG2oixYwcAwb73tClGIhnp2jC9/view)<br>
-An Zeng, Huabin Rong, Dan Pan<sup>&#x2709;</sup><br>, Longfei Jia, **Yiqun Zhang**, Fengyi Zhao and Shaoliang Peng<br>
+An Zeng, Huabin Rong, Dan Pan<sup>&#x2709;</sup>, Longfei Jia, **Yiqun Zhang**, Fengyi Zhao and Shaoliang Peng<br>
 <span style="color: #0b5394; font-size: 0.9em; font-weight: bold;">SCI 1区 | 影响因子: 3.9 | 研究生成果</span>
 
 [J002] <span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">

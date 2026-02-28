@@ -339,10 +339,15 @@ Lang Zhao, **Yiqun Zhang**<sup>&#x2709;</sup>, Xiaopeng Luo, Yue Zhang, Yiu-ming
   <div style="flex-grow: 1; height: 2px; background-color: #4a4a4a;"></div>
 </div>
 
-[C012] <span style="background-color: #e3f2fd; color: #1976d2; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
+[C013] <span style="background-color: #e3f2fd; color: #1976d2; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
 PRICAI'25</span> 
 [MEET-Sepsis: Multi-Endogenous-View Enhanced Time-Series Representation Learning for Early Sepsis Prediction](https://arxiv.org/abs/2510.15985)<br>
 Zexi Tan, Tao Xie, Binbin Sun, Xiang Zhang, **Yiqun Zhang**<sup>&#x2709;</sup> and Yiu-ming Cheung
+
+[C013] <span style="background-color: #e3f2fd; color: #1976d2; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
+PRCV'25</span> 
+[FedCD: A Hybrid Federated Learning Framework for Adaptive Training Under Data Heterogeneity](https://link.springer.com/chapter/10.1007/978-981-95-5702-8_21)<br>
+Weide Zhan, Baoyao Yang<sup>&#x2709;</sup>, Zhixiang Fang, Dongzhe Li, Yali Ma and **Yiqun Zhang**
 
 [C011] <span style="background-color: #e3f2fd; color: #1976d2; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
 ISBRA'25</span> 
@@ -407,10 +412,20 @@ IJCNN'16</span> 
   <div style="flex-grow: 1; height: 2px; background-color: #4a4a4a;"></div>
 </div>
 
-[N005] <span style="background-color: #e3f2fd; color: #1976d2; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
+[N007] <span style="background-color: #e3f2fd; color: #1976d2; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
+PEASA'25</span> 
+[AI in the Era of Large Language Models: Current State, Applications, Limitations, and Future](https://www.peasa.eu/site/article/view/68)<br>
+**Yiqun Zhang** and Yiu-ming Cheung<sup>&#x2709;</sup>
+
+[N006] <span style="background-color: #e3f2fd; color: #1976d2; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
 DOCS'24</span> 
 [Federated Clustering with Unknown Number of Clusters](#)<br>
 Rong Zou, Yunfan Zhang, **Yiqun Zhang**, Yang Lu, Mengke Li and Yiu-ming Cheung<sup>&#x2709;</sup>
+
+[N005] <span style="background-color: #e3f2fd; color: #1976d2; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
+DOCS'24</span> 
+[Multi-Layer Attention Fusion and Edge-Guided Structural Enrichment Completion Network for Leaf Point Cloud](https://ieeexplore.ieee.org/abstract/document/10561642)<br>
+Qingqing Liao, An Zeng, Yuzhu Ji<sup>&#x2709;</sup> and **Yiqun Zhang**
 
 [N004] <span style="background-color: #e3f2fd; color: #1976d2; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
 DOCS'22</span> 

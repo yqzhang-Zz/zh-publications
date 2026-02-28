@@ -107,3 +107,44 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+/* 1. 给最外层的导航栏统一铺上深蓝底色，并加上高级阴影 */
+.masthead {
+    background-color: #1A365D !important;
+    border-bottom: none !important;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.15) !important;
+}
+
+/* 2. 消除内部组件（产生白色色块的元凶）的自带背景，使其透明 */
+.masthead__inner-wrap,
+.masthead__menu,
+.greedy-nav,
+.greedy-nav__toggle {
+    background-color: transparent !important;
+    border: none !important;
+}
+
+/* 3. 强制把所有的导航文字、站点标题、图标变成纯白色 */
+.masthead__menu-item a,
+.site-title,
+.greedy-nav a,
+.greedy-nav button,
+.greedy-nav .fas,
+.greedy-nav .navicon {
+    color: #FFFFFF !important;
+}
+
+/* 4. 修复移动端/小屏幕下的折叠下拉菜单，确保它弹出时是有底色的（否则会透明重叠） */
+.greedy-nav .hidden-links {
+    background-color: #1A365D !important;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2) !important;
+}
+
+/* 修复折叠菜单（下拉菜单）鼠标悬停时对比度不足的问题 */
+.greedy-nav .hidden-links a:hover,
+.greedy-nav .hidden-links li a:hover,
+.masthead__menu ul.hidden-links > li > a:hover {
+    background: #4A90E2 !important; /* 悬停时底色变成稍亮的深蓝 */
+    background-color: #4A90E2 !important;
+    color: #FFFFFF !important; /* 确保文字依然是清晰的纯白 */
+}

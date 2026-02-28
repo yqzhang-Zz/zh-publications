@@ -258,7 +258,7 @@ AAAI'20</span> 
 
 [B015] <span style="background-color: #e3f2fd; color: #1976d2; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
 DASFAA'26</span> 
-[HyReaL: Clustering Attributed Graph via Hyper-Complex Space Representation Learning](#)<br>
+[HyReaL: Clustering Attributed Graph via Hyper-Complex Space Representation Learning](https://arxiv.org/abs/2411.14727)<br>
 Junyang Chen, Yang Lu, Mengke Li, Cuie Yang, **Yiqun Zhang**<sup>&#x2709;</sup> and Yiu-ming Cheung
 
 [B014] <span style="background-color: #e3f2fd; color: #1976d2; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
@@ -268,67 +268,67 @@ Shujie Qiu, Jie Yang, Jiaqi Yu, **Yiqun Zhang**, Yuzhu Ji<sup>&#x2709;</sup> and
 
 [B013] <span style="background-color: #e3f2fd; color: #1976d2; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
 ICASSP'26</span> 
-[CADM: Cluster-customized Adaptive Distance Metric for Categorical Data Clustering](#)<br>
+[CADM: Cluster-customized Adaptive Distance Metric for Categorical Data Clustering](https://arxiv.org/abs/2511.05826)<br>
 Taixi Chen, Yiu-ming Cheung<sup>&#x2709;</sup> and **Yiqun Zhang**
 
 [B012] <span style="background-color: #e3f2fd; color: #1976d2; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
 BIBM'25</span> 
-[DE3S: Dual-Enhanced Soft-Sparse-Shape Learning for Medical Early Time-Series Classification](#)<br>
+[DE3S: Dual-Enhanced Soft-Sparse-Shape Learning for Medical Early Time-Series Classification](https://arxiv.org/abs/2510.12214)<br>
 Tao Xie, Zexi Tan, Haoyi Xiao, **Yiqun Zhang**<sup>&#x2709;</sup> and Binbin Sun
 
 [B011] <span style="background-color: #e3f2fd; color: #1976d2; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
 ECAI'25</span> 
-[FairFed++: Closing the Fairness Gap in Federated Learning through Self-Evolving Clustered Optimization](#)<br>
+[FairFed++: Closing the Fairness Gap in Federated Learning through Self-Evolving Clustered Optimization](https://ebooks.iospress.nl/volumearticle/75876)<br>
 Zhixiang Fang, Baoyao Yang<sup>&#x2709;</sup>, Weide Zhan, Yanchao Tang and **Yiqun Zhang**
 
 [B010] <span style="background-color: #e3f2fd; color: #1976d2; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
 ICASSP'25</span> 
-[Robust Qualitative Data Clustering via Learnable Multi-Metric Space Fusion](#)<br>
+[Robust Qualitative Data Clustering via Learnable Multi-Metric Space Fusion](https://ieeexplore.ieee.org/document/10889806)<br>
 Sen Feng, Mingjie Zhao, Zhanpei Huang, Yuzhu Ji, **Yiqun Zhang**<sup>&#x2709;</sup> and Yiu-ming Cheung
 
 [B009] <span style="background-color: #e3f2fd; color: #1976d2; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
 ICASSP'25</span> 
-[Weighted Density for The Win: Accurate Subspace Density Clustering](#)<br>
+[Weighted Density for The Win: Accurate Subspace Density Clustering](https://ieeexplore.ieee.org/document/10890745)<br>
 Maixuan Peng, Yuyang Wu, **Yiqun Zhang**<sup>&#x2709;</sup>, Yang Lu, Mengke Li and Yiu-ming Cheung
 
 [B008] <span style="background-color: #e3f2fd; color: #1976d2; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
 ICASSP'25</span> 
-[SmartNet: One-shot Talking Head Synthesis via Subtle Motion and Appearance Compensation](#)<br>
+[SmartNet: One-shot Talking Head Synthesis via Subtle Motion and Appearance Compensation](https://ieeexplore.ieee.org/abstract/document/10887604)<br>
 Wei Hu, Yuzhu Ji<sup>&#x2709;</sup>, An Zeng, Dan Pan, **Yiqun Zhang** and Haijun Zhang
 
 [B007] <span style="background-color: #e3f2fd; color: #1976d2; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
 ECAI'24</span> 
-[Learning Order Forest for Qualitative-Attribute Data Clustering](#)<br>
+[Learning Order Forest for Qualitative-Attribute Data Clustering](https://ebooks.iospress.nl/volumearticle/69804)<br>
 Mingjie Zhao, Sen Feng, **Yiqun Zhang**<sup>&#x2709;</sup>, Mengke Li, Yang Lu and Yiu-ming Cheung
 
 [B006] <span style="background-color: #e3f2fd; color: #1976d2; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
 ECAI'24</span> 
-[CPNet: 3D Semantic Relation and Geometry Context Prior Network for Multi-organ Segmentation](#)<br>
+[CPNet: 3D Semantic Relation and Geometry Context Prior Network for Multi-organ Segmentation](https://ebooks.iospress.nl/volumearticle/69578)<br>
 Yuzhu Ji, Mingshan Sun<sup>&#x2709;</sup>, **Yiqun Zhang** and Haijun Zhang
 
 [B005] <span style="background-color: #e3f2fd; color: #1976d2; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
 BIBM'24</span> 
-[MGOD: Multi-Granular Outlier Detection with Clustlier Analysis](#)<br>
+[MGOD: Multi-Granular Outlier Detection with Clustlier Analysis](https://ieeexplore.ieee.org/abstract/document/10821743)<br>
 Qingsheng Chen, Mingjie Zhao, Yuzhu Ji, Xiaopeng Luo, **Yiqun Zhang**<sup>&#x2709;</sup> and Yue Zhang
 
 [B004] <span style="background-color: #e3f2fd; color: #1976d2; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
 BIBM'24</span> 
-[Efficient Topology-Driven Clustering for Imbalanced Streaming Biomedical Data Analysis](#)<br>
+[Efficient Topology-Driven Clustering for Imbalanced Streaming Biomedical Data Analysis](https://ieeexplore.ieee.org/abstract/document/10822727)<br>
 Xiaopeng Luo, **Yiqun Zhang**<sup>&#x2709;</sup>, Yuzhu Ji, Peng Liu and Taoting Xiao
 
 [B003] <span style="background-color: #e3f2fd; color: #1976d2; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
 ICDCS'24</span> 
-[Robust Categorical Data Clustering Guided by Multi-Granular Competitive Learning](#)<br>
+[Robust Categorical Data Clustering Guided by Multi-Granular Competitive Learning](https://arxiv.org/abs/2601.16491)<br>
 Shenghong Cai, **Yiqun Zhang**<sup>&#x2709;</sup>, Xiaopeng Luo, Yiu-ming Cheung, Hong Jia and Peng Liu
 
 [B002] <span style="background-color: #e3f2fd; color: #1976d2; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
 ECAI'23</span> 
-[Time-Series Data Imputation via Realistic Masking-Guided Tri-Attention Bi-GRU](#)<br>
+[Time-Series Data Imputation via Realistic Masking-Guided Tri-Attention Bi-GRU](https://ebooks.iospress.nl/volumearticle/64557)<br>
 Zhipeng Zhang, **Yiqun Zhang**<sup>&#x2709;</sup>, An Zeng, Dan Pan, Yuzhu Ji, Zhipeng Zhang and Jing Lin
 
 [B001] <span style="background-color: #e3f2fd; color: #1976d2; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
 BIBM'23</span> 
-[Selecting Heterogeneous Features based on Unified Density-Guided Neighborhood Relation for Complex Biomedical Data Analysis](#)<br>
+[Selecting Heterogeneous Features based on Unified Density-Guided Neighborhood Relation for Complex Biomedical Data Analysis](https://www.comp.hkbu.edu.hk/~ymc/papers/conference/BIBM23-paper.pdf)<br>
 Lang Zhao, **Yiqun Zhang**<sup>&#x2709;</sup>, Xiaopeng Luo, Yue Zhang, Yiu-ming Cheung and Kangshun Li
 
 

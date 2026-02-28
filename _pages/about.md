@@ -450,7 +450,7 @@ ICDMW'14</span> 
 <br>
 <br>
 
-Note: This list exclusively features English-language publications that have been officially indexed by SCI and EI.
+Note: This list exclusively features publications that are either written in English or officially indexed by SCI/EI.
 
 <br>
 <br>

@@ -2,7 +2,7 @@
 main:
 
   - title: "<i class='fas fa-globe'></i> EN"
-    url: "https://yqzhang-zz.github.io/zh"
+    url: "https://yqzhang-zz.github.io"
 
   - title: "关于我"
     url: "/zh/#about-me"

@@ -447,6 +447,7 @@ ICDMW'14</span> 
 [Discretizing Numerical Attributes in Decision Tree for Big Data Analysis](#)<br>
 **Yiqun Zhang** and Yiu-ming Cheung<sup>&#x2709;</sup>
 
+Note: This list exclusively features English-language publications that have been officially indexed by SCI and EI.
 
 <br>
 <br>

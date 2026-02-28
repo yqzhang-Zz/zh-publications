@@ -341,62 +341,62 @@ Lang Zhao, **Yiqun Zhang**<sup>&#x2709;</sup>, Xiaopeng Luo, Yue Zhang, Yiu-ming
 
 [C012] <span style="background-color: #e3f2fd; color: #1976d2; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
 PRICAI'25</span> 
-[MEET-Sepsis: Multi-Endogenous-View Enhanced Time-Series Representation Learning for Early Sepsis Prediction](#)<br>
+[MEET-Sepsis: Multi-Endogenous-View Enhanced Time-Series Representation Learning for Early Sepsis Prediction](https://arxiv.org/abs/2510.15985)<br>
 Zexi Tan, Tao Xie, Binbin Sun, Xiang Zhang, **Yiqun Zhang**<sup>&#x2709;</sup> and Yiu-ming Cheung
 
 [C011] <span style="background-color: #e3f2fd; color: #1976d2; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
 ISBRA'25</span> 
-[EEG-TFNet: Spatiotemporal and Spectral Feature Integration for EEG-Based AD Detection](#)<br>
+[EEG-TFNet: Spatiotemporal and Spectral Feature Integration for EEG-Based AD Detection](https://link.springer.com/chapter/10.1007/978-981-95-0698-9_16)<br>
 An Zeng, Zhao Guo, Dan Pan, **Yiqun Zhang** and Jun Liu
 
 [C010] <span style="background-color: #e3f2fd; color: #1976d2; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
 ICIC'25</span> 
-[DeSAD: Density Clustering-Guided Streaming Data Anomaly Detection](#)<br>
+[DeSAD: Density Clustering-Guided Streaming Data Anomaly Detection](https://link.springer.com/chapter/10.1007/978-981-96-9884-4_17)<br>
 Yue Zhang, Xuchuang Ding, Xiang Zhang, Wei Ai, Gengwen Huang and **Yiqun Zhang**<sup>&#x2709;</sup>
 
 [C009] <span style="background-color: #e3f2fd; color: #1976d2; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
 ICPR'24</span> 
-[Towards Unbiased Minimal Cluster Analysis of Categorical-and-Numerical Attribute Data](#)<br>
+[Towards Unbiased Minimal Cluster Analysis of Categorical-and-Numerical Attribute Data](https://link.springer.com/chapter/10.1007/978-3-031-78166-7_17)<br>
 Yunfan Zhang, Xiaopeng Luo, Qingsheng Chen, Rong Zou, **Yiqun Zhang**<sup>&#x2709;</sup> and Yiu-ming Cheung
 
 [C008] <span style="background-color: #e3f2fd; color: #1976d2; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
 PRCV'24</span> 
-[FedHC: Learning Imbalanced Clusters via Federated Hierarchical Clustering](#)<br>
+[FedHC: Learning Imbalanced Clusters via Federated Hierarchical Clustering](https://link.springer.com/chapter/10.1007/978-981-97-8487-5_35)<br>
 Yue Zhang<sup>&#x2709;</sup>, Xinfa Liao, Qingsheng Chen, Hao-Tian Wu and **Yiqun Zhang**
 
 [C007] <span style="background-color: #e3f2fd; color: #1976d2; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
 PRCV'24</span> 
-[FedGC: Federated Learning on Non-IID Data via Learning from Good Clients](#)<br>
+[FedGC: Federated Learning on Non-IID Data via Learning from Good Clients](https://link.springer.com/chapter/10.1007/978-981-97-8487-5_13)<br>
 Xu Ji, Haotian Wu<sup>&#x2709;</sup>, Ting Cui, **Yiqun Zhang** and Lingling Xu
 
 [C006] <span style="background-color: #e3f2fd; color: #1976d2; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
 IJCNN'24</span> 
-[Clustering by Learning the Ordinal Relationships of Qualitative Attribute Values](#)<br>
+[Clustering by Learning the Ordinal Relationships of Qualitative Attribute Values](https://ieeexplore.ieee.org/abstract/document/10650134)<br>
 Pengkai Wang, Yunfan Zhang, **Yiqun Zhang**<sup>&#x2709;</sup>, Yang Lu, Mengke Li and Yiu-ming Cheung
 
 [C005] <span style="background-color: #e3f2fd; color: #1976d2; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
 PRCV'23</span> 
-[Unsupervised Concept Drift Detection via Imbalanced Cluster Discriminator Learning](#)<br>
+[Unsupervised Concept Drift Detection via Imbalanced Cluster Discriminator Learning](https://www.researchgate.net/profile/Yiqun-Zhang-8/publication/376796605_Unsupervised_Concept_Drift_Detection_via_Imbalanced_Cluster_Discriminator_Learning/links/659cb8776f6e450f19d7949f/Unsupervised-Concept-Drift-Detection-via-Imbalanced-Cluster-Discriminator-Learning.pdf)<br>
 Mingjie Zhao, **Yiqun Zhang**<sup>&#x2709;</sup>, Yuzhu Ji and Yang Lu
 
 [C004] <span style="background-color: #e3f2fd; color: #1976d2; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
 PRCV'23</span> 
-[Learning Hierarchical Representations in Temporal and Frequency Domains for Time Series Forecasting](#)<br>
+[Learning Hierarchical Representations in Temporal and Frequency Domains for Time Series Forecasting](https://link.springer.com/chapter/10.1007/978-981-99-8546-3_8)<br>
 Zhipeng Zhang, **Yiqun Zhang**<sup>&#x2709;</sup>, An Zeng, Dan Pan and Xiaobo Zhang
 
 [C003] <span style="background-color: #e3f2fd; color: #1976d2; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
 PRCV'23</span> 
-[CFNet: A Coarse-to-Fine Framework for Coronary Artery Segmentation](#)<br>
-Shiting He, Yuzhu Ji<sup>&#x2709;</sup>, **Yiqun Zhang**, An Zeng, Dan Pan, Jing Lin and Xiaobo Zhang
+[CFNet: A Coarse-to-Fine Framework for Coronary Artery Segmentation](https://www.researchgate.net/profile/Yiqun-Zhang-8/publication/376808574_CFNet_A_Coarse-to-Fine_Framework_for_Coronary_Artery_Segmentation/links/65c47fc51bed776ae337740f/CFNet-A-Coarse-to-Fine-Framework-for-Coronary-Artery-Segmentation.pdf)<br>
+Shi-ting He, Yuzhu Ji<sup>&#x2709;</sup>, **Yiqun Zhang**, An Zeng, Dan Pan, Jing Lin and Xiaobo Zhang
 
 [C002] <span style="background-color: #e3f2fd; color: #1976d2; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
 DSAA'22</span> 
-[Heterogeneous Drift Learning: Classification of Mix-Attribute Data with Concept Drifts](#)<br>
+[Heterogeneous Drift Learning: Classification of Mix-Attribute Data with Concept Drifts](https://www.researchgate.net/profile/Yiqun-Zhang-8/publication/368366763_Heterogeneous_Drift_Learning_Classification_of_Mix-Attribute_Data_with_Concept_Drifts/links/63e77e09e2e1515b6b8b8551/Heterogeneous-Drift-Learning-Classification-of-Mix-Attribute-Data-with-Concept-Drifts.pdf)<br>
 Lang Zhao, **Yiqun Zhang**<sup>&#x2709;</sup>, Yuzhu Ji, An Zeng, Fangqing Gu and Xiaopeng Luo
 
 [C001] <span style="background-color: #e3f2fd; color: #1976d2; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
 IJCNN'16</span> 
-[Quality Preserved Data Summarization for Fast Hierarchical Clustering](#)<br>
+[Quality Preserved Data Summarization for Fast Hierarchical Clustering](https://www.researchgate.net/profile/Yiqun-Zhang-8/publication/309778403_Quality_preserved_data_summarization_for_fast_hierarchical_clustering/links/635bb5c26e0d367d91d55a00/Quality-preserved-data-summarization-for-fast-hierarchical-clustering.pdf)<br>
 **Yiqun Zhang**, Yiu-ming Cheung and Yang Liu
 
 

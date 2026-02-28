@@ -54,7 +54,7 @@ TNNLS'25</span> 
 TIP'25</span> 
 [CmdVIT: A Voluntary Facial Expression Recognition Model for Complex Mental Disorders](https://ieeexplore.ieee.org/abstract/document/11003429)<br>
 Jiayu Ye, Yanhong Yu, Qingxiang Wang, Guolong Liu, Wentao Li, An Zeng<sup>&#x2709;</sup>, **Yiqun Zhang**, Yang Liu and Yunshao Zheng<br>
-<span style="color: #0b5394; font-size: 0.9em; font-weight: bold;">SCI 1区 | Top期刊 | 影响因子: 10.8 | 博士生成果</span>
+<span style="color: #0b5394; font-size: 0.9em; font-weight: bold;">SCI 1区 | Top期刊 | 影响因子: 13.7 | 博士生成果</span>
 
 [J019] <span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
 TCE'25</span> 

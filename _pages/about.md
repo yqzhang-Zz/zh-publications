@@ -137,7 +137,7 @@ TNNLS'23</span> 
 [J006] <span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
 TNNLS'23</span> 
 [Allosteric Feature Collaboration for Model-Heterogeneous Federated Learning](https://ieeexplore.ieee.org/abstract/document/10373104)<br>
-Baoyao Yang, Pong Chi Yuen<sup>&#x2709;</sup><br>, **Yiqun Zhang** and An Zeng<br>
+Baoyao Yang, Pong Chi Yuen<sup>&#x2709;</sup>, **Yiqun Zhang** and An Zeng<br>
 <span style="color: #0b5394; font-size: 0.9em; font-weight: bold;">SCI 1区 | Top期刊 | 影响因子: 8.9</span>
 
 [J005] <span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">

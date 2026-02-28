@@ -195,57 +195,57 @@ SIGMOD'26</span> 
 
 [A011] <span style="background-color: #e3f2fd; color: #1976d2; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
 AAAI'26</span> 
-[Mask the Redundancy: Evolving Masking Representation Learning for Multivariate Time-Series Clustering](#)<br>
+[Mask the Redundancy: Evolving Masking Representation Learning for Multivariate Time-Series Clustering](https://arxiv.org/abs/2511.17008)<br>
 Zexi Tan, Xiaopeng Luo, Yunlin Liu and **Yiqun Zhang**<sup>&#x2709;</sup>
 
 [A010] <span style="background-color: #e3f2fd; color: #1976d2; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
 AAAI'26</span> 
-[Break the Tie: Learning Cluster-Customized Category Relationships for Categorical Data Clustering](#)<br>
+[Break the Tie: Learning Cluster-Customized Category Relationships for Categorical Data Clustering](https://arxiv.org/abs/2511.09049)<br>
 Mingjie Zhao, Zhanpei Huang, Yang Lu, Mengke Li, **Yiqun Zhang**<sup>&#x2709;</sup>, Weifeng Su and Yiu-ming Cheung
 
 [A009] <span style="background-color: #e3f2fd; color: #1976d2; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
 ICCV'25</span> 
-[PRO-VPT: Distribution-Adaptive Visual Prompt Tuning via Prompt Relocation](#)<br>
+[PRO-VPT: Distribution-Adaptive Visual Prompt Tuning via Prompt Relocation](https://openaccess.thecvf.com/content/ICCV2025/html/Shang_PRO-VPT_Distribution-Adaptive_Visual_Prompt_Tuning_via_Prompt_Relocation_ICCV_2025_paper.html)<br>
 Chikai Shang, Mengke Li, **Yiqun Zhang**, Zhen Chen, Jinlin Wu, Fangqing Gu, Yang Lu<sup>&#x2709;</sup> and Yiu-ming Cheung
 
 [A008] <span style="background-color: #e3f2fd; color: #1976d2; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
 ACMMM'25</span> 
-[FATE: A Prompt-Tuning-Based Semi-Supervised Learning Framework for Extremely Limited Labeled Data](#)<br>
+[FATE: A Prompt-Tuning-Based Semi-Supervised Learning Framework for Extremely Limited Labeled Data](https://dl.acm.org/doi/abs/10.1145/3746027.3754998)<br>
 Hezhao Liu, Yang Lu<sup>&#x2709;</sup>, Mengke Li, **Yiqun Zhang**, Shreyank N Gowda, Chen Gong and Hanzi Wang
 
 [A007] <span style="background-color: #e3f2fd; color: #1976d2; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
 IJCAI'25</span> 
-[SeqPose: An End-to-End Framework to Unify Single-frame and Video-based RGB Category-Level Pose Estimation](#)<br>
+[SeqPose: An End-to-End Framework to Unify Single-frame and Video-based RGB Category-Level Pose Estimation](https://dl.acm.org/doi/abs/10.24963/ijcai.2025/137)<br>
 Yuzhu Ji, Mingshan Sun, Jianyang Shi, Xiaoke Jiang, **Yiqun Zhang**<sup>&#x2709;</sup> and Haijun Zhang
 
 [A006] <span style="background-color: #e3f2fd; color: #1976d2; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
 CVPR'25</span> 
-[Mind the Gap: Confidence Discrepancy Can Guide Federated Semi-Supervised Learning Across Pseudo-Mismatch](#)<br>
+[Mind the Gap: Confidence Discrepancy Can Guide Federated Semi-Supervised Learning Across Pseudo-Mismatch](https://openaccess.thecvf.com/content/CVPR2025/html/Liu_Mind_the_Gap_Confidence_Discrepancy_Can_Guide_Federated_Semi-Supervised_Learning_CVPR_2025_paper.html)<br>
 Yijie Liu, Xinyi Shang, **Yiqun Zhang**, Yang Lu<sup>&#x2709;</sup>, Chen Gong, Jing-Hao Xue and Hanzi Wang
 
 [A005] <span style="background-color: #e3f2fd; color: #1976d2; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
 AAAI'25</span> 
-[Asynchronous Federated Clustering with Unknown Number of Clusters](#)<br>
+[Asynchronous Federated Clustering with Unknown Number of Clusters](https://ojs.aaai.org/index.php/AAAI/article/view/34429)<br>
 Yunfan Zhang, **Yiqun Zhang**<sup>&#x2709;</sup>, Yang Lu, Mengke Li, Xi Chen and Yiu-ming Cheung
 
 [A004] <span style="background-color: #e3f2fd; color: #1976d2; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
 NeurIPS'24</span> 
-[Improving Visual Prompt Tuning by Gaussian Neighborhood Minimization for Long-Tailed Visual Recognition](#)<br>
+[Improving Visual Prompt Tuning by Gaussian Neighborhood Minimization for Long-Tailed Visual Recognition](https://proceedings.neurips.cc/paper_files/paper/2024/hash/bc667ac84ef58f2b5022da97a465cbab-Abstract-Conference.html)<br>
 Mengke Li, Ye Liu, Yang Lu, **Yiqun Zhang**, Yiu-ming Cheung and Hui Huang<sup>&#x2709;</sup>
 
 [A003] <span style="background-color: #e3f2fd; color: #1976d2; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
 KDD'24</span> 
-[QGRL: Quaternion Graph Representation Learning for Heterogeneous Feature Data Clustering](#)<br>
+[QGRL: Quaternion Graph Representation Learning for Heterogeneous Feature Data Clustering](https://dl.acm.org/doi/abs/10.1145/3637528.3671839)<br>
 Junyang Chen, Yuzhu Ji, Rong Zou, **Yiqun Zhang**<sup>&#x2709;</sup> and Yiu-ming Cheung<sup>&#x2709;</sup>
 
 [A002] <span style="background-color: #e3f2fd; color: #1976d2; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
 IJCAI-ECAI'22</span> 
-[Het2Hom: Representation of Heterogeneous Attributes into Homogeneous Concept Spaces for Categorical-and-Numerical-Attribute Data Clustering](#)<br>
+[Het2Hom: Representation of Heterogeneous Attributes into Homogeneous Concept Spaces for Categorical-and-Numerical-Attribute Data Clustering](https://www.ijcai.org/proceedings/2022/0522)<br>
 **Yiqun Zhang**, Yiu-ming Cheung<sup>&#x2709;</sup> and An Zeng
 
 [A001] <span style="background-color: #e3f2fd; color: #1976d2; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
 AAAI'20</span> 
-[An Ordinal Data Clustering Algorithm with Automated Distance Learning](#)<br>
+[An Ordinal Data Clustering Algorithm with Automated Distance Learning](https://ojs.aaai.org/index.php/AAAI/article/view/6168)<br>
 **Yiqun Zhang** and Yiu-ming Cheung<sup>&#x2709;</sup>
 
 

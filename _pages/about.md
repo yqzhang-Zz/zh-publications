@@ -162,7 +162,7 @@ An Zeng, Huabin Rong, Dan Pan<sup>&#x2709;</sup>, Longfei Jia, **Yiqun Zhang**, 
 TNNLS'20</span> 
 [A Unified Entropy-Based Distance Metric for Ordinal-and-Nominal-Attribute Data Clustering](https://www.comp.hkbu.edu.hk/~ymc/papers/journal/TNNLS-2019-2899381.pdf)<br>
 **Yiqun Zhang**, Yiu-ming Cheung<sup>&#x2709;</sup> and Kay Chen Tan<br>
-<span style="color: #0b5394; font-size: 0.9em; font-weight: bold;">SCI 1区 | Top期刊 | 影响因子: 8.9 | IEEE CIS (HK) Competition’20 最佳论文</span>
+<span style="color: #0b5394; font-size: 0.9em; font-weight: bold;">SCI 1区 | Top期刊 | 影响因子: 8.9 | IEEE CIS (HK) Competition’20 最佳论文奖</span>
 
 [J001] <span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
 TNNLS'19</span> 

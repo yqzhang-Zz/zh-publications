@@ -11,7 +11,7 @@ main:
     url: "/zh/#news"
 
   - title: "论文"
-    url: "/zh/#publications"
+    url: "/zh-publications/#publications"
 
   - title: "荣誉与获奖"
     url: "/zh/#honors-and-awards"

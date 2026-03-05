@@ -449,7 +449,7 @@ PEASA'25</span> 
 
 [N006] <span style="background-color: #e3f2fd; color: #0b5394; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
 DOCS'24</span> 
-[Federated Clustering with Unknown Number of Clusters](#)<br>
+[Federated Clustering with Unknown Number of Clusters](https://ieeexplore.ieee.org/abstract/document/10704350)<br>
 Rong Zou, Yunfan Zhang, **Yiqun Zhang**, Yang Lu, Mengke Li and Yiu-ming Cheung<sup>&#x2709;</sup><br>
 <span style="color: #0b5394; font-size: 0.9em; font-weight: bold;">博士生成果 | IEEE DOCS'24 最佳论文奖</span>
 
@@ -461,24 +461,24 @@ Qingqing Liao, An Zeng, Yuzhu Ji<sup>&#x2709;</sup> and **Yiqun Zhang**<br>
 
 [N004] <span style="background-color: #e3f2fd; color: #0b5394; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
 DOCS'22</span> 
-[Causal Discovery of Medical Test Parameters Based on Improved PC Algorithm](#)<br>
+[Causal Discovery of Medical Test Parameters Based on Improved PC Algorithm](https://ieeexplore.ieee.org/abstract/document/9967738)<br>
 Xueyao Qiu, Fangqing Gu<sup>&#x2709;</sup> and **Yiqun Zhang**<br>
 <span style="color: #0b5394; font-size: 0.9em; font-weight: bold;">研究生成果</span>
 
 [N003] <span style="background-color: #e3f2fd; color: #0b5394; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
 ISMIS'18</span> 
-[Exploiting Order Information Embedded in Ordered Categories for Ordinal Data Clustering](#)<br>
+[Exploiting Order Information Embedded in Ordered Categories for Ordinal Data Clustering](https://www.researchgate.net/publication/328128487_Exploiting_Order_Information_Embedded_in_Ordered_Categories_for_Ordinal_Data_Clustering_24th_International_Symposium_ISMIS_2018_Limassol_Cyprus_October_29-31_2018_Proceedings)<br>
 **Yiqun Zhang** and Yiu-ming Cheung<sup>&#x2709;</sup><br>
 <span style="color: #0b5394; font-size: 0.9em; font-weight: bold;">Springer ISMIS'18 最佳学生论文奖</span>
 
 [N002] <span style="background-color: #e3f2fd; color: #0b5394; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
 ICACI'18</span> 
-[A Fast Hierarchical Clustering Approach Based on Partition and Merging Scheme](#)<br>
+[A Fast Hierarchical Clustering Approach Based on Partition and Merging Scheme](https://www.researchgate.net/publication/325703661_A_fast_hierarchical_clustering_approach_based_on_partition_and_merging_scheme)<br>
 **Yiqun Zhang** and Yiu-ming Cheung<sup>&#x2709;</sup>
 
 [N001] <span style="background-color: #e3f2fd; color: #0b5394; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
 ICDMW'14</span> 
-[Discretizing Numerical Attributes in Decision Tree for Big Data Analysis](#)<br>
+[Discretizing Numerical Attributes in Decision Tree for Big Data Analysis](https://www.researchgate.net/publication/282303497_Discretizing_Numerical_Attributes_in_Decision_Tree_for_Big_Data_Analysis)<br>
 **Yiqun Zhang** and Yiu-ming Cheung<sup>&#x2709;</sup>
 
 <br>

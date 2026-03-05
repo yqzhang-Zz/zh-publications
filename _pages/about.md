@@ -483,7 +483,7 @@ ICDMW'14</span> 
 
 <br>
 <br>
-
+注：此处仅展示英文论文及被SCI/EI检索的论文。<br>
 Note: This list exclusively features publications that are either written in English or officially indexed by SCI/EI.
 <br>
 <br>

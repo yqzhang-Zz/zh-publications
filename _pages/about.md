@@ -64,7 +64,7 @@ Yuzhu Ji, Wei Hu, Guoji Gan, Zhiquan Long, **Yiqun Zhang**<sup>&#x2709;</sup>, A
 
 [J018] <span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
 IoTJ'25</span> 
-[Hierarchical Reference Sets for Robust Unsupervised Detection of Scattered and Clustered Outliers](/zh-publications/papers/IoTJ-GOLD-Paper)<br>
+[Hierarchical Reference Sets for Robust Unsupervised Detection of Scattered and Clustered Outliers](papers/IoTJ-GOLD-Paper.pdf)<br>
 **Yiqun Zhang**, Zexi Tan, Xiaopeng Luo<sup>&#x2709;</sup> and Yunlin Liu<br>
 <span style="color: #0b5394; font-size: 0.9em; font-weight: bold;">SCI 1区 | Top期刊 | 影响因子: 8.9</span>
 

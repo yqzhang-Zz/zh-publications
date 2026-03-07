@@ -244,11 +244,11 @@ Mengke Li, Ye Liu, Yang Lu, **Yiqun Zhang**, Yiu-ming Cheung and Hui Huang<sup>&
 [A003] <span style="background-color: #e3f2fd; color: #0b5394; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
 KDD'24</span> 
 [QGRL: Quaternion Graph Representation Learning for Heterogeneous Feature Data Clustering](https://dl.acm.org/doi/abs/10.1145/3637528.3671839)<br>
-Junyang Chen, Yuzhu Ji, Rong Zou, **Yiqun Zhang**<sup>&#x2709;</sup> and Yiu-ming Cheung<sup>&#x2709;</sup><br>
+Junyang Chen, Yuzhu Ji, Rong Zou, **Yiqun Zhang**<sup>&#x2709;</sup> and Yiu-ming Cheung<br>
 <span style="color: #0b5394; font-size: 0.9em; font-weight: bold;">本科科研生成果</span>
 
 [A002] <span style="background-color: #e3f2fd; color: #0b5394; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
-IJCAI-ECAI'22</span> 
+IJCAI'22</span> 
 [Het2Hom: Representation of Heterogeneous Attributes into Homogeneous Concept Spaces for Categorical-and-Numerical-Attribute Data Clustering](https://www.ijcai.org/proceedings/2022/0522)<br>
 **Yiqun Zhang**, Yiu-ming Cheung<sup>&#x2709;</sup> and An Zeng
 
@@ -367,7 +367,7 @@ PRICAI'25</span> 
 Zexi Tan, Tao Xie, Binbin Sun, Xiang Zhang, **Yiqun Zhang**<sup>&#x2709;</sup> and Yiu-ming Cheung<br>
 <span style="color: #0b5394; font-size: 0.9em; font-weight: bold;">本科科研生成果</span>
 
-[C013] <span style="background-color: #e3f2fd; color: #0b5394; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
+[C012] <span style="background-color: #e3f2fd; color: #0b5394; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
 PRCV'25</span> 
 [FedCD: A Hybrid Federated Learning Framework for Adaptive Training Under Data Heterogeneity](https://link.springer.com/chapter/10.1007/978-981-95-5702-8_21)<br>
 Weide Zhan, Baoyao Yang<sup>&#x2709;</sup>, Zhixiang Fang, Dongzhe Li, Yali Ma and **Yiqun Zhang**<br>
@@ -376,7 +376,7 @@ Weide Zhan, Baoyao Yang<sup>&#x2709;</sup>, Zhixiang Fang, Dongzhe Li, Yali Ma a
 [C011] <span style="background-color: #e3f2fd; color: #0b5394; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
 ISBRA'25</span> 
 [EEG-TFNet: Spatiotemporal and Spectral Feature Integration for EEG-Based AD Detection](https://link.springer.com/chapter/10.1007/978-981-95-0698-9_16)<br>
-An Zeng, Zhao Guo, Dan Pan, **Yiqun Zhang** and Jun Liu
+An Zeng, Zhao Guo, Dan Pan<sup>&#x2709;</sup>, **Yiqun Zhang** and Jun Liu
 
 [C010] <span style="background-color: #e3f2fd; color: #0b5394; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
 ICIC'25</span> 
@@ -432,7 +432,7 @@ Lang Zhao, **Yiqun Zhang**<sup>&#x2709;</sup>, Yuzhu Ji, An Zeng, Fangqing Gu an
 [C001] <span style="background-color: #e3f2fd; color: #0b5394; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
 IJCNN'16</span> 
 [Quality Preserved Data Summarization for Fast Hierarchical Clustering](https://www.researchgate.net/profile/Yiqun-Zhang-8/publication/309778403_Quality_preserved_data_summarization_for_fast_hierarchical_clustering/links/635bb5c26e0d367d91d55a00/Quality-preserved-data-summarization-for-fast-hierarchical-clustering.pdf)<br>
-**Yiqun Zhang**, Yiu-ming Cheung and Yang Liu
+**Yiqun Zhang**, Yiu-ming Cheung<sup>&#x2709;</sup> and Yang Liu
 
 
 

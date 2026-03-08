@@ -82,7 +82,7 @@ TAI'25</span> 
 
 [J015] <span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
 INS'25</span> 
-[Federated Hierarchical Clustering with Automatic Selection of Optimal Cluster Numbers](https://www.sciencedirect.com/science/article/abs/pii/S0020025525010941)<br>
+[Federated Hierarchical Clustering with Automatic Selection of Optimal Cluster Numbers](papers/INS-Fed-Auto-k-HC.pdf)<br>
 Yue Zhang, Chuanlong Qiu, Xinfa Liao and **Yiqun Zhang**<sup>&#x2709;</sup><br>
 <span style="color: #0b5394; font-size: 0.9em; font-weight: bold;">SCI 1区 | 影响因子: 6.8 | 研究生成果</span>
 

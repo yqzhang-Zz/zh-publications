@@ -70,7 +70,7 @@ IoTJ'25</span> 
 
 [J017] <span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
 TETCI'25</span> 
-[Learning Unbiased Cluster Descriptors for Interpretable Imbalanced Concept Drift Detection](https://ieeexplore.ieee.org/abstract/document/11134305)<br>
+[Learning Unbiased Cluster Descriptors for Interpretable Imbalanced Concept Drift Detection](https://arxiv.org/abs/2603.06757)<br>
 **Yiqun Zhang**, Zhanpei Huang, Mingjie Zhao, Chuyao Zhang, Yang Lu, Yuzhu Ji<sup>&#x2709;</sup>, Fangqing Gu and An Zeng<br>
 <span style="color: #0b5394; font-size: 0.9em; font-weight: bold;">SCI 1区 | 影响因子: 6.5</span>
 

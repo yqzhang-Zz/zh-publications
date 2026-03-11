@@ -303,13 +303,13 @@ Sen Feng, Mingjie Zhao, Zhanpei Huang, Yuzhu Ji, **Yiqun Zhang**<sup>&#x2709;</s
 
 [B009] <span style="background-color: #e3f2fd; color: #0b5394; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
 ICASSP'25</span> 
-[Weighted Density for The Win: Accurate Subspace Density Clustering](https://ieeexplore.ieee.org/document/10890745)<br>
+[Weighted Density for The Win: Accurate Subspace Density Clustering](papers/IICASSP25-WDSC.pdf)<br>
 Maixuan Peng, Yuyang Wu, **Yiqun Zhang**<sup>&#x2709;</sup>, Yang Lu, Mengke Li and Yiu-ming Cheung<br>
 <span style="color: #0b5394; font-size: 0.9em; font-weight: bold;">本科科研生成果</span>
 
 [B008] <span style="background-color: #e3f2fd; color: #0b5394; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
 ICASSP'25</span> 
-[SmartNet: One-shot Talking Head Synthesis via Subtle Motion and Appearance Compensation](https://ieeexplore.ieee.org/abstract/document/10887604)<br>
+[SmartNet: One-shot Talking Head Synthesis via Subtle Motion and Appearance Compensation](papers/ICASSP25-MSF.pdf)<br>
 Wei Hu, Yuzhu Ji<sup>&#x2709;</sup>, An Zeng, Dan Pan, **Yiqun Zhang** and Haijun Zhang<br>
 <span style="color: #0b5394; font-size: 0.9em; font-weight: bold;">研究生成果</span>
 
@@ -326,13 +326,13 @@ Yuzhu Ji, Mingshan Sun<sup>&#x2709;</sup>, **Yiqun Zhang** and Haijun Zhang
 
 [B005] <span style="background-color: #e3f2fd; color: #0b5394; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
 BIBM'24</span> 
-[MGOD: Multi-Granular Outlier Detection with Clustlier Analysis]((papers/BIBM24-MGOD.pdf))<br>
+[MGOD: Multi-Granular Outlier Detection with Clustlier Analysis](papers/BIBM24-MGOD.pdf)<br>
 Qingsheng Chen, Mingjie Zhao, Yuzhu Ji, Xiaopeng Luo, **Yiqun Zhang**<sup>&#x2709;</sup> and Yue Zhang<br>
 <span style="color: #0b5394; font-size: 0.9em; font-weight: bold;">研究生成果</span>
 
 [B004] <span style="background-color: #e3f2fd; color: #0b5394; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
 BIBM'24</span> 
-[Efficient Topology-Driven Clustering for Imbalanced Streaming Biomedical Data Analysis]((papers/BIBM24-TSSC.pdf))<br>
+[Efficient Topology-Driven Clustering for Imbalanced Streaming Biomedical Data Analysis](papers/BIBM24-TSSC.pdf)<br>
 Xiaopeng Luo, **Yiqun Zhang**<sup>&#x2709;</sup>, Yuzhu Ji, Peng Liu and Taoting Xiao
 
 [B003] <span style="background-color: #e3f2fd; color: #0b5394; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
@@ -380,18 +380,18 @@ An Zeng, Zhao Guo, Dan Pan<sup>&#x2709;</sup>, **Yiqun Zhang** and Jun Liu
 
 [C010] <span style="background-color: #e3f2fd; color: #0b5394; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
 ICIC'25</span> 
-[DeSAD: Density Clustering-Guided Streaming Data Anomaly Detection](https://link.springer.com/chapter/10.1007/978-981-96-9884-4_17)<br>
+[DeSAD: Density Clustering-Guided Streaming Data Anomaly Detection](papers/ICIC-25-DeSAD.pdf)<br>
 Yue Zhang, Xuchuang Ding, Xiang Zhang, Wei Ai, Gengwen Huang and **Yiqun Zhang**<sup>&#x2709;</sup>
 
 [C009] <span style="background-color: #e3f2fd; color: #0b5394; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
 ICPR'24</span> 
-[Towards Unbiased Minimal Cluster Analysis of Categorical-and-Numerical Attribute Data]((papers/ICPR-Mic2Mac.pdf))<br>
+[Towards Unbiased Minimal Cluster Analysis of Categorical-and-Numerical Attribute Data](papers/ICPR-Mic2Mac.pdf)<br>
 Yunfan Zhang, Xiaopeng Luo, Qingsheng Chen, Rong Zou, **Yiqun Zhang**<sup>&#x2709;</sup> and Yiu-ming Cheung<br>
 <span style="color: #0b5394; font-size: 0.9em; font-weight: bold;">本科科研生成果</span>
 
 [C008] <span style="background-color: #e3f2fd; color: #0b5394; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
 PRCV'24</span> 
-[FedHC: Learning Imbalanced Clusters via Federated Hierarchical Clustering](https://link.springer.com/chapter/10.1007/978-981-97-8487-5_35)<br>
+[FedHC: Learning Imbalanced Clusters via Federated Hierarchical Clustering](papers/PRCV_24_FedHC_CR.pdf)<br>
 Yue Zhang<sup>&#x2709;</sup>, Xinfa Liao, Qingsheng Chen, Hao-Tian Wu and **Yiqun Zhang**
 
 [C007] <span style="background-color: #e3f2fd; color: #0b5394; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
@@ -401,7 +401,7 @@ Xu Ji, Haotian Wu<sup>&#x2709;</sup>, Ting Cui, **Yiqun Zhang** and Lingling Xu
 
 [C006] <span style="background-color: #e3f2fd; color: #0b5394; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
 IJCNN'24</span> 
-[Clustering by Learning the Ordinal Relationships of Qualitative Attribute Values](https://ieeexplore.ieee.org/abstract/document/10650134)<br>
+[Clustering by Learning the Ordinal Relationships of Qualitative Attribute Values](papers/IJCNN24-CLORD.pdf)<br>
 Pengkai Wang, Yunfan Zhang, **Yiqun Zhang**<sup>&#x2709;</sup>, Yang Lu, Mengke Li and Yiu-ming Cheung<br>
 <span style="color: #0b5394; font-size: 0.9em; font-weight: bold;">本科科研生成果</span>
 
@@ -413,7 +413,7 @@ Mingjie Zhao, **Yiqun Zhang**<sup>&#x2709;</sup>, Yuzhu Ji and Yang Lu<br>
 
 [C004] <span style="background-color: #e3f2fd; color: #0b5394; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
 PRCV'23</span> 
-[Learning Hierarchical Representations in Temporal and Frequency Domains for Time Series Forecasting](https://link.springer.com/chapter/10.1007/978-981-99-8546-3_8)<br>
+[Learning Hierarchical Representations in Temporal and Frequency Domains for Time Series Forecasting](papers/PRCV-23-LHRTF.pdf)<br>
 Zhipeng Zhang, **Yiqun Zhang**<sup>&#x2709;</sup>, An Zeng, Dan Pan and Xiaobo Zhang<br>
 <span style="color: #0b5394; font-size: 0.9em; font-weight: bold;">研究生成果</span>
 
@@ -449,7 +449,7 @@ PEASA'25</span> 
 
 [N006] <span style="background-color: #e3f2fd; color: #0b5394; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
 DOCS'24</span> 
-[Federated Clustering with Unknown Number of Clusters]((papers/DOCS-24-FedCCL.pdf))<br>
+[Federated Clustering with Unknown Number of Clusters](papers/DOCS-24-FedCCL.pdf)<br>
 Rong Zou, Yunfan Zhang, **Yiqun Zhang**, Yang Lu, Mengke Li and Yiu-ming Cheung<sup>&#x2709;</sup><br>
 <span style="color: #0b5394; font-size: 0.9em; font-weight: bold;">博士生成果 | IEEE DOCS'24 最佳论文奖</span>
 

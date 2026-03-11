@@ -88,7 +88,7 @@ Yue Zhang, Chuanlong Qiu, Xinfa Liao and **Yiqun Zhang**<sup>&#x2709;</sup><br>
 
 [J014] <span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
 ESWA'25</span> 
-[Learning Unified Distance Metric for Heterogeneous Attribute Data Clustering](https://www.sciencedirect.com/science/article/abs/pii/S0957417425003604)<br>
+[Learning Unified Distance Metric for Heterogeneous Attribute Data Clustering](https://arxiv.org/abs/2603.04458)<br>
 **Yiqun Zhang**, Mingjie Zhao, Yizhou Chen, Yang Lu<sup>&#x2709;</sup> and Yiu-ming Cheung<br>
 <span style="color: #0b5394; font-size: 0.9em; font-weight: bold;">ESI高被引论文 | SCI 1区 | Top期刊 | 影响因子: 7.5</span>
 
@@ -326,13 +326,13 @@ Yuzhu Ji, Mingshan Sun<sup>&#x2709;</sup>, **Yiqun Zhang** and Haijun Zhang
 
 [B005] <span style="background-color: #e3f2fd; color: #0b5394; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
 BIBM'24</span> 
-[MGOD: Multi-Granular Outlier Detection with Clustlier Analysis](https://ieeexplore.ieee.org/abstract/document/10821743)<br>
+[MGOD: Multi-Granular Outlier Detection with Clustlier Analysis]((papers/BIBM24-MGOD.pdf))<br>
 Qingsheng Chen, Mingjie Zhao, Yuzhu Ji, Xiaopeng Luo, **Yiqun Zhang**<sup>&#x2709;</sup> and Yue Zhang<br>
 <span style="color: #0b5394; font-size: 0.9em; font-weight: bold;">研究生成果</span>
 
 [B004] <span style="background-color: #e3f2fd; color: #0b5394; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
 BIBM'24</span> 
-[Efficient Topology-Driven Clustering for Imbalanced Streaming Biomedical Data Analysis](https://ieeexplore.ieee.org/abstract/document/10822727)<br>
+[Efficient Topology-Driven Clustering for Imbalanced Streaming Biomedical Data Analysis]((papers/BIBM24-TSSC.pdf))<br>
 Xiaopeng Luo, **Yiqun Zhang**<sup>&#x2709;</sup>, Yuzhu Ji, Peng Liu and Taoting Xiao
 
 [B003] <span style="background-color: #e3f2fd; color: #0b5394; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
@@ -385,7 +385,7 @@ Yue Zhang, Xuchuang Ding, Xiang Zhang, Wei Ai, Gengwen Huang and **Yiqun Zhang**
 
 [C009] <span style="background-color: #e3f2fd; color: #0b5394; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
 ICPR'24</span> 
-[Towards Unbiased Minimal Cluster Analysis of Categorical-and-Numerical Attribute Data](https://link.springer.com/chapter/10.1007/978-3-031-78166-7_17)<br>
+[Towards Unbiased Minimal Cluster Analysis of Categorical-and-Numerical Attribute Data]((papers/ICPR-Mic2Mac.pdf))<br>
 Yunfan Zhang, Xiaopeng Luo, Qingsheng Chen, Rong Zou, **Yiqun Zhang**<sup>&#x2709;</sup> and Yiu-ming Cheung<br>
 <span style="color: #0b5394; font-size: 0.9em; font-weight: bold;">本科科研生成果</span>
 
@@ -449,7 +449,7 @@ PEASA'25</span> 
 
 [N006] <span style="background-color: #e3f2fd; color: #0b5394; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
 DOCS'24</span> 
-[Federated Clustering with Unknown Number of Clusters](https://ieeexplore.ieee.org/abstract/document/10704350)<br>
+[Federated Clustering with Unknown Number of Clusters]((papers/DOCS-24-FedCCL.pdf))<br>
 Rong Zou, Yunfan Zhang, **Yiqun Zhang**, Yang Lu, Mengke Li and Yiu-ming Cheung<sup>&#x2709;</sup><br>
 <span style="color: #0b5394; font-size: 0.9em; font-weight: bold;">博士生成果 | IEEE DOCS'24 最佳论文奖</span>
 

@@ -78,7 +78,7 @@ TETCI'25</span> 
 TAI'25</span> 
 [Trending Applications of Large Language Models: A User Perspective Survey](https://ieeexplore.ieee.org/abstract/document/11199892)<br>
 **Yiqun Zhang**, Mingjie Zhao, Yunfan Zhang and Yiu-ming Cheung<sup>&#x2709;</sup><br>
-<span style="color: #0b5394; font-size: 0.9em; font-weight: bold;">综述论文</span>
+<span style="color: #0b5394; font-size: 0.9em; font-weight: bold;">综述论文 | [中文版](papers/TAI-LLM-Survey1-Chinese-Version.pdf)</span>
 
 [J015] <span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
 INS'25</span> 

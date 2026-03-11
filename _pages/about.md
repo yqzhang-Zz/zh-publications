@@ -297,19 +297,19 @@ Zhixiang Fang, Baoyao Yang<sup>&#x2709;</sup>, Weide Zhan, Yanchao Tang and **Yi
 
 [B010] <span style="background-color: #e3f2fd; color: #0b5394; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
 ICASSP'25</span> 
-[Robust Qualitative Data Clustering via Learnable Multi-Metric Space Fusion](https://ieeexplore.ieee.org/document/10889806)<br>
+[Robust Qualitative Data Clustering via Learnable Multi-Metric Space Fusion](papers/ICASSP25-MSF.pdf)<br>
 Sen Feng, Mingjie Zhao, Zhanpei Huang, Yuzhu Ji, **Yiqun Zhang**<sup>&#x2709;</sup> and Yiu-ming Cheung<br>
 <span style="color: #0b5394; font-size: 0.9em; font-weight: bold;">研究生成果</span>
 
 [B009] <span style="background-color: #e3f2fd; color: #0b5394; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
 ICASSP'25</span> 
-[Weighted Density for The Win: Accurate Subspace Density Clustering](papers/IICASSP25-WDSC.pdf)<br>
+[Weighted Density for The Win: Accurate Subspace Density Clustering](papers/ICASSP25-WDSC.pdf)<br>
 Maixuan Peng, Yuyang Wu, **Yiqun Zhang**<sup>&#x2709;</sup>, Yang Lu, Mengke Li and Yiu-ming Cheung<br>
 <span style="color: #0b5394; font-size: 0.9em; font-weight: bold;">本科科研生成果</span>
 
 [B008] <span style="background-color: #e3f2fd; color: #0b5394; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
 ICASSP'25</span> 
-[SmartNet: One-shot Talking Head Synthesis via Subtle Motion and Appearance Compensation](papers/ICASSP25-MSF.pdf)<br>
+[SmartNet: One-shot Talking Head Synthesis via Subtle Motion and Appearance Compensation](https://ieeexplore.ieee.org/abstract/document/10887604)<br>
 Wei Hu, Yuzhu Ji<sup>&#x2709;</sup>, An Zeng, Dan Pan, **Yiqun Zhang** and Haijun Zhang<br>
 <span style="color: #0b5394; font-size: 0.9em; font-weight: bold;">研究生成果</span>
 

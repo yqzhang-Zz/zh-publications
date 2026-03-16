@@ -34,7 +34,7 @@ Jiayu Ye, An Zeng<sup>&#x2709;</sup>, Dan Pan, Junhao Chen, Jingliang Zhao, **Yi
 
 [J023] <span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
 IoTJ'26</span> 
-[One-Shot Federated Clustering of Non-Independent Completely Distributed Data](https://arxiv.org/pdf/2601.17512)<br>
+[One-Shot Federated Clustering of Non-Independent Completely Distributed Data](https://arxiv.org/abs/2601.17512)<br>
 **Yiqun Zhang**, Shenghong Cai, Zihua Yang, Sen Feng, Yuzhu Ji<sup>&#x2709;</sup> and Haijun Zhang<br>
 <span style="color: #0b5394; font-size: 0.9em; font-weight: bold;">SCI 1区 | Top期刊 | 影响因子: 8.9</span>
 
@@ -46,7 +46,7 @@ TCYB'25</span> 
 
 [J021] <span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 10px; vertical-align: middle; line-height: 1.2;">
 TNNLS'25</span> 
-[Learning Self-Growth Maps for Fast and Accurate Imbalanced Streaming Data Clustering](https://arxiv.org/pdf/2404.09243)<br>
+[Learning Self-Growth Maps for Fast and Accurate Imbalanced Streaming Data Clustering](https://arxiv.org/abs/2404.09243)<br>
 **Yiqun Zhang**, Sen Feng, Pengkai Wang, Zexi Tan, Xiaopeng Luo, Yuzhu Ji, Rong Zou and Yiu-ming Cheung<sup>&#x2709;</sup><br>
 <span style="color: #0b5394; font-size: 0.9em; font-weight: bold;">ESI高被引论文 | SCI 1区 | Top期刊 | 影响因子: 8.9</span>
 

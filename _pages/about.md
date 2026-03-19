@@ -442,6 +442,16 @@ IJCNN'16</span> 
   <div style="flex-grow: 1; height: 2px; background-color: #4a4a4a;"></div>
 </div>
 
+[N009] <span style="background-color: #e3f2fd; color: #0b5394; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
+CIS'25</span> 
+[Detecting Autism Spectrum Disorder with Deep Eye Movement Features](https://ieeexplore.ieee.org/document/11433745)<br>
+Zhanpei Huang, Taochen Chen, Fangqing Gu and **Yiqun Zhang**<sup>&#x2709;</sup><br>
+
+[N008] <span style="background-color: #e3f2fd; color: #0b5394; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
+CIS'25</span> 
+[An AI Education Framework based on LLM-Knowledge Graph for Personalized Learning](https://ieeexplore.ieee.org/document/11433876)<br>
+Zihao Liang, Yiou Wang, Mingjie Zhao, Sen Feng, Yunfan Zhang and **Yiqun Zhang**<sup>&#x2709;</sup><br>
+
 [N007] <span style="background-color: #e3f2fd; color: #0b5394; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
 PEASA'25</span> 
 [AI in the Era of Large Language Models: Current State, Applications, Limitations, and Future](https://www.peasa.eu/site/article/view/68)<br>

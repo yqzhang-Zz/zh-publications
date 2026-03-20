@@ -197,13 +197,13 @@ SIGMOD'26</span> 
 
 [A011] <span style="background-color: #e3f2fd; color: #0b5394; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
 AAAI'26</span> 
-[Mask the Redundancy: Evolving Masking Representation Learning for Multivariate Time-Series Clustering](https://arxiv.org/abs/2511.17008)<br>
+[Mask the Redundancy: Evolving Masking Representation Learning for Multivariate Time-Series Clustering](https://ojs.aaai.org/index.php/AAAI/article/view/39777)<br>
 Zexi Tan, Xiaopeng Luo, Yunlin Liu and **Yiqun Zhang**<sup>&#x2709;</sup><br>
 <span style="color: #0b5394; font-size: 0.9em; font-weight: bold;">本科科研生成果</span>
 
 [A010] <span style="background-color: #e3f2fd; color: #0b5394; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
 AAAI'26</span> 
-[Break the Tie: Learning Cluster-Customized Category Relationships for Categorical Data Clustering](https://arxiv.org/abs/2511.09049)<br>
+[Break the Tie: Learning Cluster-Customized Category Relationships for Categorical Data Clustering](https://ojs.aaai.org/index.php/AAAI/article/view/40104)<br>
 Mingjie Zhao, Zhanpei Huang, Yang Lu, Mengke Li, **Yiqun Zhang**<sup>&#x2709;</sup>, Weifeng Su and Yiu-ming Cheung<br>
 <span style="color: #0b5394; font-size: 0.9em; font-weight: bold;">研究生成果</span>
 

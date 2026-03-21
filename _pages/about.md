@@ -361,6 +361,16 @@ Lang Zhao, **Yiqun Zhang**<sup>&#x2709;</sup>, Xiaopeng Luo, Yue Zhang, Yiu-ming
   <div style="flex-grow: 1; height: 2px; background-color: #4a4a4a;"></div>
 </div>
 
+[C015] <span style="background-color: #e3f2fd; color: #0b5394; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
+IJCNN'26</span> 
+[FMoE: Frequency-Guided Multi-Period MoE Modeling for Time Series Forecasting](#)<br>
+Taochen Chen, Jialiang Chen, **Yiqun Zhang**<sup>&#x2709;</sup>, Mengke Li, Yang Lu and Yiu-ming Cheung<br>
+
+[C014] <span style="background-color: #e3f2fd; color: #0b5394; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
+IJCNN'26</span> 
+[PIN-LoRA: Positive-Incentive Noise Aggregation for Federated Long-Tailed Learning](#)<br>
+Chenghao Jin, Shihao Hou, Jiacheng Yang, Mengke Li, **Yiqun Zhang**, Yang Lu<sup>&#x2709;</sup> and Yiu-ming Cheung<br>
+
 [C013] <span style="background-color: #e3f2fd; color: #0b5394; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
 PRICAI'25</span> 
 [MEET-Sepsis: Multi-Endogenous-View Enhanced Time-Series Representation Learning for Early Sepsis Prediction](https://arxiv.org/abs/2510.15985)<br>

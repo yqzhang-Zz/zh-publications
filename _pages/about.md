@@ -363,8 +363,9 @@ Lang Zhao, **Yiqun Zhang**<sup>&#x2709;</sup>, Xiaopeng Luo, Yue Zhang, Yiu-ming
 
 [C016] <span style="background-color: #e3f2fd; color: #0b5394; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
 ICPR'26</span> 
-[Bridging the Semantic Gap for Categorical Data Clustering via Large Language Models](https://arxiv.org/abs/2601.01162) <a href="https://github.com/develop-yang/ARISE" target="_blank" style="color: #0b5394; font-size: 0.85em; font-weight: bold; margin-left: 6px;">[Code]</a><br>
+[Bridging the Semantic Gap for Categorical Data Clustering via Large Language Models](papers/ICPR-26-ARISE.pdf) <a href="https://github.com/develop-yang/ARISE" target="_blank" style="color: #0b5394; text-decoration: none; font-weight: bold; font-size: 0.85em; margin-left: 6px; white-space: nowrap;">[<i class="fab fa-github"></i> Code]</a><br>
 Zihua Yang, Xin Liao, **Yiqun Zhang**<sup>&#x2709;</sup> and Yiu-ming Cheung<br>
+<span style="color: #0b5394; font-size: 0.9em; font-weight: bold;">本科生成果</span>
 
 [C015] <span style="background-color: #e3f2fd; color: #0b5394; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
 IJCNN'26</span> 

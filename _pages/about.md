@@ -26,7 +26,7 @@ redirect_from:
   <div style="flex-grow: 1; height: 2px; background-color: #4a4a4a;"></div>
 </div>
 
-[!-- J024 TMM 2026 NIDC Jiayu Ye --]
+<!-- J024 TMM 2026 NIDC Jiayu Ye -->
 <div style="display: flex; margin-bottom: 1.5em; text-align: left;">
   <div style="flex: 0 0 3.6em; color: #64748b; font-weight: bold; font-size: 1em; padding-top: 2px;">[J024]</div>
   <div style="flex: 1;">
@@ -36,7 +36,7 @@ redirect_from:
   </div>
 </div>
 
-[!-- J023 IoTJ 2026 One-Shot Yiqun Zhang --]
+<!-- J023 IoTJ 2026 One-Shot Yiqun Zhang -->
 <div style="display: flex; margin-bottom: 1.5em; text-align: left;">
   <div style="flex: 0 0 3.6em; color: #64748b; font-weight: bold; font-size: 1em; padding-top: 2px;">[J023]</div>
   <div style="flex: 1;">
@@ -46,7 +46,7 @@ redirect_from:
   </div>
 </div>
 
-[!-- J022 TCYB 2025 Online Yiqun Zhang --]
+<!-- J022 TCYB 2025 Online Yiqun Zhang -->
 <div style="display: flex; margin-bottom: 1.5em; text-align: left;">
   <div style="flex: 0 0 3.6em; color: #64748b; font-weight: bold; font-size: 1em; padding-top: 2px;">[J022]</div>
   <div style="flex: 1;">
@@ -56,7 +56,7 @@ redirect_from:
   </div>
 </div>
 
-[!-- J021 TNNLS 2025 Learning Yiqun Zhang --]
+<!-- J021 TNNLS 2025 Learning Yiqun Zhang -->
 <div style="display: flex; margin-bottom: 1.5em; text-align: left;">
   <div style="flex: 0 0 3.6em; color: #64748b; font-weight: bold; font-size: 1em; padding-top: 2px;">[J021]</div>
   <div style="flex: 1;">
@@ -66,7 +66,7 @@ redirect_from:
   </div>
 </div>
 
-[!-- J020 TIP 2025 CmdVIT Jiayu Ye --]
+<!-- J020 TIP 2025 CmdVIT Jiayu Ye -->
 <div style="display: flex; margin-bottom: 1.5em; text-align: left;">
   <div style="flex: 0 0 3.6em; color: #64748b; font-weight: bold; font-size: 1em; padding-top: 2px;">[J020]</div>
   <div style="flex: 1;">
@@ -76,7 +76,7 @@ redirect_from:
   </div>
 </div>
 
-[!-- J019 TCE 2025 SMACNet Yuzhu Ji --]
+<!-- J019 TCE 2025 SMACNet Yuzhu Ji -->
 <div style="display: flex; margin-bottom: 1.5em; text-align: left;">
   <div style="flex: 0 0 3.6em; color: #64748b; font-weight: bold; font-size: 1em; padding-top: 2px;">[J019]</div>
   <div style="flex: 1;">
@@ -86,7 +86,7 @@ redirect_from:
   </div>
 </div>
 
-[!-- J018 IoTJ 2025 Hierarchical Yiqun Zhang --]
+<!-- J018 IoTJ 2025 Hierarchical Yiqun Zhang -->
 <div style="display: flex; margin-bottom: 1.5em; text-align: left;">
   <div style="flex: 0 0 3.6em; color: #64748b; font-weight: bold; font-size: 1em; padding-top: 2px;">[J018]</div>
   <div style="flex: 1;">
@@ -96,7 +96,7 @@ redirect_from:
   </div>
 </div>
 
-[!-- J017 TETCI 2025 Learning Yiqun Zhang --]
+<!-- J017 TETCI 2025 Learning Yiqun Zhang -->
 <div style="display: flex; margin-bottom: 1.5em; text-align: left;">
   <div style="flex: 0 0 3.6em; color: #64748b; font-weight: bold; font-size: 1em; padding-top: 2px;">[J017]</div>
   <div style="flex: 1;">
@@ -106,7 +106,7 @@ redirect_from:
   </div>
 </div>
 
-[!-- J016 TAI 2025 Trending Yiqun Zhang --]
+<!-- J016 TAI 2025 Trending Yiqun Zhang -->
 <div style="display: flex; margin-bottom: 1.5em; text-align: left;">
   <div style="flex: 0 0 3.6em; color: #64748b; font-weight: bold; font-size: 1em; padding-top: 2px;">[J016]</div>
   <div style="flex: 1;">
@@ -116,7 +116,7 @@ redirect_from:
   </div>
 </div>
 
-[!-- J015 INS 2025 Federated Yue Zhang --]
+<!-- J015 INS 2025 Federated Yue Zhang -->
 <div style="display: flex; margin-bottom: 1.5em; text-align: left;">
   <div style="flex: 0 0 3.6em; color: #64748b; font-weight: bold; font-size: 1em; padding-top: 2px;">[J015]</div>
   <div style="flex: 1;">
@@ -126,7 +126,7 @@ redirect_from:
   </div>
 </div>
 
-[!-- J014 ESWA 2025 Learning Yiqun Zhang --]
+<!-- J014 ESWA 2025 Learning Yiqun Zhang -->
 <div style="display: flex; margin-bottom: 1.5em; text-align: left;">
   <div style="flex: 0 0 3.6em; color: #64748b; font-weight: bold; font-size: 1em; padding-top: 2px;">[J014]</div>
   <div style="flex: 1;">
@@ -136,7 +136,7 @@ redirect_from:
   </div>
 </div>
 
-[!-- J013 NEUCOM 2025 SDENK Rong Zou --]
+<!-- J013 NEUCOM 2025 SDENK Rong Zou -->
 <div style="display: flex; margin-bottom: 1.5em; text-align: left;">
   <div style="flex: 0 0 3.6em; color: #64748b; font-weight: bold; font-size: 1em; padding-top: 2px;">[J013]</div>
   <div style="flex: 1;">
@@ -146,7 +146,7 @@ redirect_from:
   </div>
 </div>
 
-[!-- J012 CAIS 2025 Adaptive Yunfan Zhang --]
+<!-- J012 CAIS 2025 Adaptive Yunfan Zhang -->
 <div style="display: flex; margin-bottom: 1.5em; text-align: left;">
   <div style="flex: 0 0 3.6em; color: #64748b; font-weight: bold; font-size: 1em; padding-top: 2px;">[J012]</div>
   <div style="flex: 1;">
@@ -156,7 +156,7 @@ redirect_from:
   </div>
 </div>
 
-[!-- J011 EXSY 2025 Towards Chuyao Zhang --]
+<!-- J011 EXSY 2025 Towards Chuyao Zhang -->
 <div style="display: flex; margin-bottom: 1.5em; text-align: left;">
   <div style="flex: 0 0 3.6em; color: #64748b; font-weight: bold; font-size: 1em; padding-top: 2px;">[J011]</div>
   <div style="flex: 1;">
@@ -166,7 +166,7 @@ redirect_from:
   </div>
 </div>
 
-[!-- J010 IJWMIP 2025 Efficient Mei Yin --]
+<!-- J010 IJWMIP 2025 Efficient Mei Yin -->
 <div style="display: flex; margin-bottom: 1.5em; text-align: left;">
   <div style="flex: 0 0 3.6em; color: #64748b; font-weight: bold; font-size: 1em; padding-top: 2px;">[J010]</div>
   <div style="flex: 1;">
@@ -176,7 +176,7 @@ redirect_from:
   </div>
 </div>
 
-[!-- J009 TETCI 2025 MssNet Jiayu Ye --]
+<!-- J009 TETCI 2025 MssNet Jiayu Ye -->
 <div style="display: flex; margin-bottom: 1.5em; text-align: left;">
   <div style="flex: 0 0 3.6em; color: #64748b; font-weight: bold; font-size: 1em; padding-top: 2px;">[J009]</div>
   <div style="flex: 1;">
@@ -186,7 +186,7 @@ redirect_from:
   </div>
 </div>
 
-[!-- J008 JBHI 2024 MAD-Former Jiayu Ye --]
+<!-- J008 JBHI 2024 MAD-Former Jiayu Ye -->
 <div style="display: flex; margin-bottom: 1.5em; text-align: left;">
   <div style="flex: 0 0 3.6em; color: #64748b; font-weight: bold; font-size: 1em; padding-top: 2px;">[J008]</div>
   <div style="flex: 1;">
@@ -196,7 +196,7 @@ redirect_from:
   </div>
 </div>
 
-[!-- J007 TNNLS 2023 Graph-based Yiqun Zhang --]
+<!-- J007 TNNLS 2023 Graph-based Yiqun Zhang -->
 <div style="display: flex; margin-bottom: 1.5em; text-align: left;">
   <div style="flex: 0 0 3.6em; color: #64748b; font-weight: bold; font-size: 1em; padding-top: 2px;">[J007]</div>
   <div style="flex: 1;">
@@ -206,7 +206,7 @@ redirect_from:
   </div>
 </div>
 
-[!-- J006 TNNLS 2023 Allosteric Baoyao Yang --]
+<!-- J006 TNNLS 2023 Allosteric Baoyao Yang -->
 <div style="display: flex; margin-bottom: 1.5em; text-align: left;">
   <div style="flex: 0 0 3.6em; color: #64748b; font-weight: bold; font-size: 1em; padding-top: 2px;">[J006]</div>
   <div style="flex: 1;">
@@ -216,7 +216,7 @@ redirect_from:
   </div>
 </div>
 
-[!-- J005 TPAMI 2022 Learnable Yiqun Zhang --]
+<!-- J005 TPAMI 2022 Learnable Yiqun Zhang -->
 <div style="display: flex; margin-bottom: 1.5em; text-align: left;">
   <div style="flex: 0 0 3.6em; color: #64748b; font-weight: bold; font-size: 1em; padding-top: 2px;">[J005]</div>
   <div style="flex: 1;">
@@ -226,7 +226,7 @@ redirect_from:
   </div>
 </div>
 
-[!-- J004 TCYB 2022 A Yiqun Zhang --]
+<!-- J004 TCYB 2022 A Yiqun Zhang -->
 <div style="display: flex; margin-bottom: 1.5em; text-align: left;">
   <div style="flex: 0 0 3.6em; color: #64748b; font-weight: bold; font-size: 1em; padding-top: 2px;">[J004]</div>
   <div style="flex: 1;">
@@ -236,7 +236,7 @@ redirect_from:
   </div>
 </div>
 
-[!-- J003 ISCLS 2021 Discovery An Zeng --]
+<!-- J003 ISCLS 2021 Discovery An Zeng -->
 <div style="display: flex; margin-bottom: 1.5em; text-align: left;">
   <div style="flex: 0 0 3.6em; color: #64748b; font-weight: bold; font-size: 1em; padding-top: 2px;">[J003]</div>
   <div style="flex: 1;">
@@ -246,7 +246,7 @@ redirect_from:
   </div>
 </div>
 
-[!-- J002 TNNLS 2020 A Yiqun Zhang --]
+<!-- J002 TNNLS 2020 A Yiqun Zhang -->
 <div style="display: flex; margin-bottom: 1.5em; text-align: left;">
   <div style="flex: 0 0 3.6em; color: #64748b; font-weight: bold; font-size: 1em; padding-top: 2px;">[J002]</div>
   <div style="flex: 1;">
@@ -256,7 +256,7 @@ redirect_from:
   </div>
 </div>
 
-[!-- J001 TNNLS 2019 Fast Yiu-ming Cheung --]
+<!-- J001 TNNLS 2019 Fast Yiu-ming Cheung -->
 <div style="display: flex; margin-bottom: 1.5em; text-align: left;">
   <div style="flex: 0 0 3.6em; color: #64748b; font-weight: bold; font-size: 1em; padding-top: 2px;">[J001]</div>
   <div style="flex: 1;">

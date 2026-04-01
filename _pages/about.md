@@ -361,6 +361,11 @@ Lang Zhao, **Yiqun Zhang**<sup>&#x2709;</sup>, Xiaopeng Luo, Yue Zhang, Yiu-ming
   <div style="flex-grow: 1; height: 2px; background-color: #4a4a4a;"></div>
 </div>
 
+[C016] <span style="background-color: #e3f2fd; color: #0b5394; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
+ICPR'26</span> 
+[Bridging the Semantic Gap for Categorical Data Clustering via Large Language Models](https://arxiv.org/abs/2601.01162) <a href="https://github.com/develop-yang/ARISE" target="_blank" style="color: #0b5394; font-size: 0.85em; font-weight: bold; margin-left: 6px;">[Code]</a><br>
+Zihua Yang, Xin Liao, **Yiqun Zhang**<sup>&#x2709;</sup> and Yiu-ming Cheung<br>
+
 [C015] <span style="background-color: #e3f2fd; color: #0b5394; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
 IJCNN'26</span> 
 [FMoE: Frequency-Guided Multi-Period MoE Modeling for Time Series Forecasting](#)<br>

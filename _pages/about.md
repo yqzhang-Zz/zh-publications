@@ -365,12 +365,13 @@ Lang Zhao, **Yiqun Zhang**<sup>&#x2709;</sup>, Xiaopeng Luo, Yue Zhang, Yiu-ming
 ICPR'26</span> 
 [Bridging the Semantic Gap for Categorical Data Clustering via Large Language Models](papers/ICPR-26-ARISE.pdf) <a href="https://github.com/develop-yang/ARISE" target="_blank" style="color: #0b5394; text-decoration: none; font-weight: bold; font-size: 0.85em; margin-left: 6px; white-space: nowrap;">[<i class="fab fa-github"></i> Code]</a><br>
 Zihua Yang, Xin Liao, **Yiqun Zhang**<sup>&#x2709;</sup> and Yiu-ming Cheung<br>
-<span style="color: #0b5394; font-size: 0.9em; font-weight: bold;">本科生成果</span>
+<span style="color: #0b5394; font-size: 0.9em; font-weight: bold;">本科科研生成果</span>
 
 [C015] <span style="background-color: #e3f2fd; color: #0b5394; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
 IJCNN'26</span> 
 [FMoE: Frequency-Guided Multi-Period MoE Modeling for Time Series Forecasting](#)<br>
 Taochen Chen, Jialiang Chen, **Yiqun Zhang**<sup>&#x2709;</sup>, Mengke Li, Yang Lu and Yiu-ming Cheung<br>
+<span style="color: #0b5394; font-size: 0.9em; font-weight: bold;">研究生成果</span>
 
 [C014] <span style="background-color: #e3f2fd; color: #0b5394; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
 IJCNN'26</span> 
@@ -462,11 +463,13 @@ IJCNN'16</span> 
 CIS'25</span> 
 [Detecting Autism Spectrum Disorder with Deep Eye Movement Features](https://ieeexplore.ieee.org/document/11433745)<br>
 Zhanpei Huang, Taochen Chen, Fangqing Gu and **Yiqun Zhang**<sup>&#x2709;</sup><br>
+<span style="color: #0b5394; font-size: 0.9em; font-weight: bold;">研究生成果</span>
 
 [N008] <span style="background-color: #e3f2fd; color: #0b5394; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
 CIS'25</span> 
 [An AI Education Framework based on LLM-Knowledge Graph for Personalized Learning](https://ieeexplore.ieee.org/document/11433876)<br>
 Zihao Liang, Yiou Wang, Mingjie Zhao, Sen Feng, Yunfan Zhang and **Yiqun Zhang**<sup>&#x2709;</sup><br>
+<span style="color: #0b5394; font-size: 0.9em; font-weight: bold;">研究生成果</span>
 
 [N007] <span style="background-color: #e3f2fd; color: #0b5394; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
 PEASA'25</span> 

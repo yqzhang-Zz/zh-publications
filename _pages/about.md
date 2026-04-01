@@ -272,61 +272,147 @@ redirect_from:
   <h3 style="background-color: #4a4a4a; color: #ffffff; padding: 2px 8px; margin: 0; font-size: 1em; font-weight: 600; border-radius: 3px 3px 0 0; line-height: 1.2;">会议论文（CCF-A）</h3>
   <div style="flex-grow: 1; height: 2px; background-color: #4a4a4a;"></div>
 </div>
-[A014] <span style="background-color: #e3f2fd; color: #0b5394; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">CVPR'26</span> SECOS: Semantic Capture for Rigorous Classification in Open-World Semi-Supervised Learning<br>
-Hezhao Liu, Jiacheng Yang, Junlong Gao, Mengke Li, **Yiqun Zhang**, Shreyank N Gowda and Yang Lu<sup>&#x2709;</sup><br>
-<span style="color: #0b5394; font-size: 0.9em; font-weight: bold;">研究生成果 | </span><a href="#" target="_blank" style="color: #0b5394; border: 1px solid #0b5394; border-radius: 4px; padding: 1px 6px; text-decoration: none; font-weight: bold; font-size: 0.8em; margin-right: 6px; white-space: nowrap;"><i class="fas fa-file-pdf"></i> Paper</a>
 
-[A013] <span style="background-color: #e3f2fd; color: #0b5394; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">CVPR'26</span> Fine-Tuning Impairs the Balancedness of Foundation Models in Long-tailed Personalized Federated Learning<br>
-Shihao Hou, Chikai Shang, Zhiheng Yang, Jiacheng Yang, Xinyi Shang, Junlong Gao, **Yiqun Zhang** and Yang Lu<sup>&#x2709;</sup><br>
-<span style="color: #0b5394; font-size: 0.9em; font-weight: bold;">研究生成果 | </span><a href="#" target="_blank" style="color: #0b5394; border: 1px solid #0b5394; border-radius: 4px; padding: 1px 6px; text-decoration: none; font-weight: bold; font-size: 0.8em; margin-right: 6px; white-space: nowrap;"><i class="fas fa-file-pdf"></i> Paper</a>
 
-[A012] <span style="background-color: #e3f2fd; color: #0b5394; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">SIGMOD'26</span> Categorical Data Clustering via Value Order Estimated Distance Metric Learning<br>
-**Yiqun Zhang**, Mingjie Zhao, Hong Jia, Mengke Li, Yang Lu and Yiu-ming Cheung<sup>&#x2709;</sup><br>
-<a href="https://dl.acm.org/doi/abs/10.1145/3769772" target="_blank" style="color: #0b5394; border: 1px solid #0b5394; border-radius: 4px; padding: 1px 6px; text-decoration: none; font-weight: bold; font-size: 0.8em; margin-right: 6px; white-space: nowrap;"><i class="fas fa-file-pdf"></i> Paper</a> <a href="https://github.com/csmjzhao/OCL_Source_Code" target="_blank" style="color: #0b5394; border: 1px solid #0b5394; border-radius: 4px; padding: 1px 6px; text-decoration: none; font-weight: bold; font-size: 0.8em; white-space: nowrap;"><i class="fab fa-github"></i> Code</a>
+<!-- A014 CVPR 2026 SECOS Hezhao Liu -->
+<div style="display: flex; margin-bottom: 1.5em; text-align: left;">
+  <div style="flex: 0 0 3.6em; color: #64748b; font-weight: bold; font-size: 1em; padding-top: 2px;">[A014]</div>
+  <div style="flex: 1;">
+    <span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 8px; vertical-align: middle; line-height: 1.2;">CVPR'26</span> SECOS: Semantic Capture for Rigorous Classification in Open-World Semi-Supervised Learning<br>
+    Hezhao Liu, Jiacheng Yang, Junlong Gao, Mengke Li, <strong>Yiqun Zhang</strong>, Shreyank N Gowda and Yang Lu<sup>&#x2709;</sup><br>
+    <span style="color: #0b5394; font-size: 0.9em; font-weight: bold;">研究生成果 | </span><a href="#" target="_blank" style="color: #0b5394; border: 1px solid #0b5394; border-radius: 4px; padding: 1px 6px; text-decoration: none; font-weight: bold; font-size: 0.8em; margin-right: 6px; white-space: nowrap;"><i class="fas fa-file-pdf"></i> Paper</a>
+  </div>
+</div>
 
-[A011] <span style="background-color: #e3f2fd; color: #0b5394; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">AAAI'26</span> Mask the Redundancy: Evolving Masking Representation Learning for Multivariate Time-Series Clustering<br>
-Zexi Tan, Xiaopeng Luo, Yunlin Liu and **Yiqun Zhang**<sup>&#x2709;</sup><br>
-<span style="color: #0b5394; font-size: 0.9em; font-weight: bold;">本科科研生成果 | </span><a href="https://ojs.aaai.org/index.php/AAAI/article/view/39777" target="_blank" style="color: #0b5394; border: 1px solid #0b5394; border-radius: 4px; padding: 1px 6px; text-decoration: none; font-weight: bold; font-size: 0.8em; margin-right: 6px; white-space: nowrap;"><i class="fas fa-file-pdf"></i> Paper</a> <a href="https://github.com/yueliangy/EMTC" target="_blank" style="color: #0b5394; border: 1px solid #0b5394; border-radius: 4px; padding: 1px 6px; text-decoration: none; font-weight: bold; font-size: 0.8em; white-space: nowrap;"><i class="fab fa-github"></i> Code</a>
+<!-- A013 CVPR 2026 Fine-Tuning Shihao Hou -->
+<div style="display: flex; margin-bottom: 1.5em; text-align: left;">
+  <div style="flex: 0 0 3.6em; color: #64748b; font-weight: bold; font-size: 1em; padding-top: 2px;">[A013]</div>
+  <div style="flex: 1;">
+    <span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 8px; vertical-align: middle; line-height: 1.2;">CVPR'26</span> Fine-Tuning Impairs the Balancedness of Foundation Models in Long-tailed Personalized Federated Learning<br>
+    Shihao Hou, Chikai Shang, Zhiheng Yang, Jiacheng Yang, Xinyi Shang, Junlong Gao, <strong>Yiqun Zhang</strong> and Yang Lu<sup>&#x2709;</sup><br>
+    <span style="color: #0b5394; font-size: 0.9em; font-weight: bold;">研究生成果 | </span><a href="#" target="_blank" style="color: #0b5394; border: 1px solid #0b5394; border-radius: 4px; padding: 1px 6px; text-decoration: none; font-weight: bold; font-size: 0.8em; margin-right: 6px; white-space: nowrap;"><i class="fas fa-file-pdf"></i> Paper</a>
+  </div>
+</div>
 
-[A010] <span style="background-color: #e3f2fd; color: #0b5394; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">AAAI'26</span> Break the Tie: Learning Cluster-Customized Category Relationships for Categorical Data Clustering<br>
-Mingjie Zhao, Zhanpei Huang, Yang Lu, Mengke Li, **Yiqun Zhang**<sup>&#x2709;</sup>, Weifeng Su and Yiu-ming Cheung<br>
-<span style="color: #0b5394; font-size: 0.9em; font-weight: bold;">研究生成果 | </span><a href="https://ojs.aaai.org/index.php/AAAI/article/view/40104" target="_blank" style="color: #0b5394; border: 1px solid #0b5394; border-radius: 4px; padding: 1px 6px; text-decoration: none; font-weight: bold; font-size: 0.8em; margin-right: 6px; white-space: nowrap;"><i class="fas fa-file-pdf"></i> Paper</a> <a href="https://arxiv.org/abs/2511.09049" target="_blank" style="color: #0b5394; border: 1px solid #0b5394; border-radius: 4px; padding: 1px 6px; text-decoration: none; font-weight: bold; font-size: 0.8em; margin-right: 6px; white-space: nowrap;"><i class="fas fa-file-pdf"></i> Extended Version</a> <a href="https://github.com/ZHAO-Mingjie/SCOF" target="_blank" style="color: #0b5394; border: 1px solid #0b5394; border-radius: 4px; padding: 1px 6px; text-decoration: none; font-weight: bold; font-size: 0.8em; white-space: nowrap;"><i class="fab fa-github"></i> Code & Datasets</a>
+<!-- A012 SIGMOD 2026 Categorical Yiqun Zhang -->
+<div style="display: flex; margin-bottom: 1.5em; text-align: left;">
+  <div style="flex: 0 0 3.6em; color: #64748b; font-weight: bold; font-size: 1em; padding-top: 2px;">[A012]</div>
+  <div style="flex: 1;">
+    <span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 8px; vertical-align: middle; line-height: 1.2;">SIGMOD'26</span> Categorical Data Clustering via Value Order Estimated Distance Metric Learning<br>
+    <strong>Yiqun Zhang</strong>, Mingjie Zhao, Hong Jia, Mengke Li, Yang Lu and Yiu-ming Cheung<sup>&#x2709;</sup><br>
+    <a href="https://dl.acm.org/doi/abs/10.1145/3769772" target="_blank" style="color: #0b5394; border: 1px solid #0b5394; border-radius: 4px; padding: 1px 6px; text-decoration: none; font-weight: bold; font-size: 0.8em; margin-right: 6px; white-space: nowrap;"><i class="fas fa-file-pdf"></i> Paper</a> <a href="https://github.com/csmjzhao/OCL_Source_Code" target="_blank" style="color: #0b5394; border: 1px solid #0b5394; border-radius: 4px; padding: 1px 6px; text-decoration: none; font-weight: bold; font-size: 0.8em; white-space: nowrap;"><i class="fab fa-github"></i> Code</a>
+  </div>
+</div>
 
-[A009] <span style="background-color: #e3f2fd; color: #0b5394; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">ICCV'25</span> PRO-VPT: Distribution-Adaptive Visual Prompt Tuning via Prompt Relocation<br>
-Chikai Shang, Mengke Li, **Yiqun Zhang**, Zhen Chen, Jinlin Wu, Fangqing Gu, Yang Lu<sup>&#x2709;</sup> and Yiu-ming Cheung<br>
-<span style="color: #0b5394; font-size: 0.9em; font-weight: bold;">研究生成果 | </span><a href="https://openaccess.thecvf.com/content/ICCV2025/html/Shang_PRO-VPT_Distribution-Adaptive_Visual_Prompt_Tuning_via_Prompt_Relocation_ICCV_2025_paper.html" target="_blank" style="color: #0b5394; border: 1px solid #0b5394; border-radius: 4px; padding: 1px 6px; text-decoration: none; font-weight: bold; font-size: 0.8em; margin-right: 6px; white-space: nowrap;"><i class="fas fa-file-pdf"></i> Paper</a>
+<!-- A011 AAAI 2026 Mask Zexi Tan -->
+<div style="display: flex; margin-bottom: 1.5em; text-align: left;">
+  <div style="flex: 0 0 3.6em; color: #64748b; font-weight: bold; font-size: 1em; padding-top: 2px;">[A011]</div>
+  <div style="flex: 1;">
+    <span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 8px; vertical-align: middle; line-height: 1.2;">AAAI'26</span> Mask the Redundancy: Evolving Masking Representation Learning for Multivariate Time-Series Clustering<br>
+    Zexi Tan, Xiaopeng Luo, Yunlin Liu and <strong>Yiqun Zhang</strong><sup>&#x2709;</sup><br>
+    <span style="color: #0b5394; font-size: 0.9em; font-weight: bold;">本科科研生成果 | </span><a href="https://ojs.aaai.org/index.php/AAAI/article/view/39777" target="_blank" style="color: #0b5394; border: 1px solid #0b5394; border-radius: 4px; padding: 1px 6px; text-decoration: none; font-weight: bold; font-size: 0.8em; margin-right: 6px; white-space: nowrap;"><i class="fas fa-file-pdf"></i> Paper</a> <a href="https://github.com/yueliangy/EMTC" target="_blank" style="color: #0b5394; border: 1px solid #0b5394; border-radius: 4px; padding: 1px 6px; text-decoration: none; font-weight: bold; font-size: 0.8em; white-space: nowrap;"><i class="fab fa-github"></i> Code</a>
+  </div>
+</div>
 
-[A008] <span style="background-color: #e3f2fd; color: #0b5394; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">ACMMM'25</span> FATE: A Prompt-Tuning-Based Semi-Supervised Learning Framework for Extremely Limited Labeled Data<br>
-Hezhao Liu, Yang Lu<sup>&#x2709;</sup>, Mengke Li, **Yiqun Zhang**, Shreyank N Gowda, Chen Gong and Hanzi Wang<br>
-<span style="color: #0b5394; font-size: 0.9em; font-weight: bold;">研究生成果 | </span><a href="https://dl.acm.org/doi/abs/10.1145/3746027.3754998" target="_blank" style="color: #0b5394; border: 1px solid #0b5394; border-radius: 4px; padding: 1px 6px; text-decoration: none; font-weight: bold; font-size: 0.8em; margin-right: 6px; white-space: nowrap;"><i class="fas fa-file-pdf"></i> Paper</a>
+<!-- A010 AAAI 2026 Break Mingjie Zhao -->
+<div style="display: flex; margin-bottom: 1.5em; text-align: left;">
+  <div style="flex: 0 0 3.6em; color: #64748b; font-weight: bold; font-size: 1em; padding-top: 2px;">[A010]</div>
+  <div style="flex: 1;">
+    <span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 8px; vertical-align: middle; line-height: 1.2;">AAAI'26</span> Break the Tie: Learning Cluster-Customized Category Relationships for Categorical Data Clustering<br>
+    Mingjie Zhao, Zhanpei Huang, Yang Lu, Mengke Li, <strong>Yiqun Zhang</strong><sup>&#x2709;</sup>, Weifeng Su and Yiu-ming Cheung<br>
+    <span style="color: #0b5394; font-size: 0.9em; font-weight: bold;">研究生成果 | </span><a href="https://ojs.aaai.org/index.php/AAAI/article/view/40104" target="_blank" style="color: #0b5394; border: 1px solid #0b5394; border-radius: 4px; padding: 1px 6px; text-decoration: none; font-weight: bold; font-size: 0.8em; margin-right: 6px; white-space: nowrap;"><i class="fas fa-file-pdf"></i> Paper</a> <a href="https://arxiv.org/abs/2511.09049" target="_blank" style="color: #0b5394; border: 1px solid #0b5394; border-radius: 4px; padding: 1px 6px; text-decoration: none; font-weight: bold; font-size: 0.8em; margin-right: 6px; white-space: nowrap;"><i class="fas fa-file-pdf"></i> Extended Version</a> <a href="https://github.com/ZHAO-Mingjie/SCOF" target="_blank" style="color: #0b5394; border: 1px solid #0b5394; border-radius: 4px; padding: 1px 6px; text-decoration: none; font-weight: bold; font-size: 0.8em; white-space: nowrap;"><i class="fab fa-github"></i> Code & Datasets</a>
+  </div>
+</div>
 
-[A007] <span style="background-color: #e3f2fd; color: #0b5394; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">IJCAI'25</span> SeqPose: An End-to-End Framework to Unify Single-frame and Video-based RGB Category-Level Pose Estimation<br>
-Yuzhu Ji, Mingshan Sun, Jianyang Shi, Xiaoke Jiang, **Yiqun Zhang**<sup>&#x2709;</sup> and Haijun Zhang<br>
-<a href="https://dl.acm.org/doi/abs/10.24963/ijcai.2025/137" target="_blank" style="color: #0b5394; border: 1px solid #0b5394; border-radius: 4px; padding: 1px 6px; text-decoration: none; font-weight: bold; font-size: 0.8em; margin-right: 6px; white-space: nowrap;"><i class="fas fa-file-pdf"></i> Paper</a>
+<!-- A009 ICCV 2025 PRO-VPT Chikai Shang -->
+<div style="display: flex; margin-bottom: 1.5em; text-align: left;">
+  <div style="flex: 0 0 3.6em; color: #64748b; font-weight: bold; font-size: 1em; padding-top: 2px;">[A009]</div>
+  <div style="flex: 1;">
+    <span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 8px; vertical-align: middle; line-height: 1.2;">ICCV'25</span> PRO-VPT: Distribution-Adaptive Visual Prompt Tuning via Prompt Relocation<br>
+    Chikai Shang, Mengke Li, <strong>Yiqun Zhang</strong>, Zhen Chen, Jinlin Wu, Fangqing Gu, Yang Lu<sup>&#x2709;</sup> and Yiu-ming Cheung<br>
+    <span style="color: #0b5394; font-size: 0.9em; font-weight: bold;">研究生成果 | </span><a href="https://openaccess.thecvf.com/content/ICCV2025/html/Shang_PRO-VPT_Distribution-Adaptive_Visual_Prompt_Tuning_via_Prompt_Relocation_ICCV_2025_paper.html" target="_blank" style="color: #0b5394; border: 1px solid #0b5394; border-radius: 4px; padding: 1px 6px; text-decoration: none; font-weight: bold; font-size: 0.8em; margin-right: 6px; white-space: nowrap;"><i class="fas fa-file-pdf"></i> Paper</a>
+  </div>
+</div>
 
-[A006] <span style="background-color: #e3f2fd; color: #0b5394; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">CVPR'25</span> Mind the Gap: Confidence Discrepancy Can Guide Federated Semi-Supervised Learning Across Pseudo-Mismatch<br>
-Yijie Liu, Xinyi Shang, **Yiqun Zhang**, Yang Lu<sup>&#x2709;</sup>, Chen Gong, Jing-Hao Xue and Hanzi Wang<br>
-<span style="color: #0b5394; font-size: 0.9em; font-weight: bold;">研究生成果 | </span><a href="https://openaccess.thecvf.com/content/CVPR2025/html/Liu_Mind_the_Gap_Confidence_Discrepancy_Can_Guide_Federated_Semi-Supervised_Learning_CVPR_2025_paper.html" target="_blank" style="color: #0b5394; border: 1px solid #0b5394; border-radius: 4px; padding: 1px 6px; text-decoration: none; font-weight: bold; font-size: 0.8em; margin-right: 6px; white-space: nowrap;"><i class="fas fa-file-pdf"></i> Paper</a>
+<!-- A008 ACMMM 2025 FATE Hezhao Liu -->
+<div style="display: flex; margin-bottom: 1.5em; text-align: left;">
+  <div style="flex: 0 0 3.6em; color: #64748b; font-weight: bold; font-size: 1em; padding-top: 2px;">[A008]</div>
+  <div style="flex: 1;">
+    <span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 8px; vertical-align: middle; line-height: 1.2;">ACMMM'25</span> FATE: A Prompt-Tuning-Based Semi-Supervised Learning Framework for Extremely Limited Labeled Data<br>
+    Hezhao Liu, Yang Lu<sup>&#x2709;</sup>, Mengke Li, <strong>Yiqun Zhang</strong>, Shreyank N Gowda, Chen Gong and Hanzi Wang<br>
+    <span style="color: #0b5394; font-size: 0.9em; font-weight: bold;">研究生成果 | </span><a href="https://dl.acm.org/doi/abs/10.1145/3746027.3754998" target="_blank" style="color: #0b5394; border: 1px solid #0b5394; border-radius: 4px; padding: 1px 6px; text-decoration: none; font-weight: bold; font-size: 0.8em; margin-right: 6px; white-space: nowrap;"><i class="fas fa-file-pdf"></i> Paper</a>
+  </div>
+</div>
 
-[A005] <span style="background-color: #e3f2fd; color: #0b5394; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">AAAI'25</span> Asynchronous Federated Clustering with Unknown Number of Clusters<br>
-Yunfan Zhang, **Yiqun Zhang**<sup>&#x2709;</sup>, Yang Lu, Mengke Li, Xi Chen and Yiu-ming Cheung<br>
-<span style="color: #0b5394; font-size: 0.9em; font-weight: bold;">本科科研生成果 | “挑战杯”（大挑）省赛特等奖、国赛三等奖作品 | </span><a href="https://ojs.aaai.org/index.php/AAAI/article/view/34429" target="_blank" style="color: #0b5394; border: 1px solid #0b5394; border-radius: 4px; padding: 1px 6px; text-decoration: none; font-weight: bold; font-size: 0.8em; margin-right: 6px; white-space: nowrap;"><i class="fas fa-file-pdf"></i> Paper</a> <a href="https://github.com/Yunfan-Zhang/AFCL" target="_blank" style="color: #0b5394; border: 1px solid #0b5394; border-radius: 4px; padding: 1px 6px; text-decoration: none; font-weight: bold; font-size: 0.8em; white-space: nowrap;"><i class="fab fa-github"></i> Code</a>
+<!-- A007 IJCAI 2025 SeqPose Yuzhu Ji -->
+<div style="display: flex; margin-bottom: 1.5em; text-align: left;">
+  <div style="flex: 0 0 3.6em; color: #64748b; font-weight: bold; font-size: 1em; padding-top: 2px;">[A007]</div>
+  <div style="flex: 1;">
+    <span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 8px; vertical-align: middle; line-height: 1.2;">IJCAI'25</span> SeqPose: An End-to-End Framework to Unify Single-frame and Video-based RGB Category-Level Pose Estimation<br>
+    Yuzhu Ji, Mingshan Sun, Jianyang Shi, Xiaoke Jiang, <strong>Yiqun Zhang</strong><sup>&#x2709;</sup> and Haijun Zhang<br>
+    <a href="https://dl.acm.org/doi/abs/10.24963/ijcai.2025/137" target="_blank" style="color: #0b5394; border: 1px solid #0b5394; border-radius: 4px; padding: 1px 6px; text-decoration: none; font-weight: bold; font-size: 0.8em; margin-right: 6px; white-space: nowrap;"><i class="fas fa-file-pdf"></i> Paper</a>
+  </div>
+</div>
 
-[A004] <span style="background-color: #e3f2fd; color: #0b5394; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">NeurIPS'24</span> Improving Visual Prompt Tuning by Gaussian Neighborhood Minimization for Long-Tailed Visual Recognition<br>
-Mengke Li, Ye Liu, Yang Lu, **Yiqun Zhang**, Yiu-ming Cheung and Hui Huang<sup>&#x2709;</sup><br>
-<a href="https://proceedings.neurips.cc/paper_files/paper/2024/hash/bc667ac84ef58f2b5022da97a465cbab-Abstract-Conference.html" target="_blank" style="color: #0b5394; border: 1px solid #0b5394; border-radius: 4px; padding: 1px 6px; text-decoration: none; font-weight: bold; font-size: 0.8em; margin-right: 6px; white-space: nowrap;"><i class="fas fa-file-pdf"></i> Paper</a>
+<!-- A006 CVPR 2025 Mind Yijie Liu -->
+<div style="display: flex; margin-bottom: 1.5em; text-align: left;">
+  <div style="flex: 0 0 3.6em; color: #64748b; font-weight: bold; font-size: 1em; padding-top: 2px;">[A006]</div>
+  <div style="flex: 1;">
+    <span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 8px; vertical-align: middle; line-height: 1.2;">CVPR'25</span> Mind the Gap: Confidence Discrepancy Can Guide Federated Semi-Supervised Learning Across Pseudo-Mismatch<br>
+    Yijie Liu, Xinyi Shang, <strong>Yiqun Zhang</strong>, Yang Lu<sup>&#x2709;</sup>, Chen Gong, Jing-Hao Xue and Hanzi Wang<br>
+    <span style="color: #0b5394; font-size: 0.9em; font-weight: bold;">研究生成果 | </span><a href="https://openaccess.thecvf.com/content/CVPR2025/html/Liu_Mind_the_Gap_Confidence_Discrepancy_Can_Guide_Federated_Semi-Supervised_Learning_CVPR_2025_paper.html" target="_blank" style="color: #0b5394; border: 1px solid #0b5394; border-radius: 4px; padding: 1px 6px; text-decoration: none; font-weight: bold; font-size: 0.8em; margin-right: 6px; white-space: nowrap;"><i class="fas fa-file-pdf"></i> Paper</a>
+  </div>
+</div>
 
-[A003] <span style="background-color: #e3f2fd; color: #0b5394; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">KDD'24</span> QGRL: Quaternion Graph Representation Learning for Heterogeneous Feature Data Clustering<br>
-Junyang Chen, Yuzhu Ji, Rong Zou, **Yiqun Zhang**<sup>&#x2709;</sup> and Yiu-ming Cheung<br>
-<span style="color: #0b5394; font-size: 0.9em; font-weight: bold;">本科科研生成果 | </span><a href="https://dl.acm.org/doi/abs/10.1145/3637528.3671839" target="_blank" style="color: #0b5394; border: 1px solid #0b5394; border-radius: 4px; padding: 1px 6px; text-decoration: none; font-weight: bold; font-size: 0.8em; margin-right: 6px; white-space: nowrap;"><i class="fas fa-file-pdf"></i> Paper</a> <a href="https://github.com/Juny-Chen/QGRL.git" target="_blank" style="color: #0b5394; border: 1px solid #0b5394; border-radius: 4px; padding: 1px 6px; text-decoration: none; font-weight: bold; font-size: 0.8em; white-space: nowrap;"><i class="fab fa-github"></i> Code</a>
+<!-- A005 AAAI 2025 Asynchronous Yunfan Zhang -->
+<div style="display: flex; margin-bottom: 1.5em; text-align: left;">
+  <div style="flex: 0 0 3.6em; color: #64748b; font-weight: bold; font-size: 1em; padding-top: 2px;">[A005]</div>
+  <div style="flex: 1;">
+    <span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 8px; vertical-align: middle; line-height: 1.2;">AAAI'25</span> Asynchronous Federated Clustering with Unknown Number of Clusters<br>
+    Yunfan Zhang, <strong>Yiqun Zhang</strong><sup>&#x2709;</sup>, Yang Lu, Mengke Li, Xi Chen and Yiu-ming Cheung<br>
+    <span style="color: #0b5394; font-size: 0.9em; font-weight: bold;">本科科研生成果 | “挑战杯”（大挑）省赛特等奖、国赛三等奖作品 | </span><a href="https://ojs.aaai.org/index.php/AAAI/article/view/34429" target="_blank" style="color: #0b5394; border: 1px solid #0b5394; border-radius: 4px; padding: 1px 6px; text-decoration: none; font-weight: bold; font-size: 0.8em; margin-right: 6px; white-space: nowrap;"><i class="fas fa-file-pdf"></i> Paper</a> <a href="https://github.com/Yunfan-Zhang/AFCL" target="_blank" style="color: #0b5394; border: 1px solid #0b5394; border-radius: 4px; padding: 1px 6px; text-decoration: none; font-weight: bold; font-size: 0.8em; white-space: nowrap;"><i class="fab fa-github"></i> Code</a>
+  </div>
+</div>
 
-[A002] <span style="background-color: #e3f2fd; color: #0b5394; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">IJCAI'22</span> Het2Hom: Representation of Heterogeneous Attributes into Homogeneous Concept Spaces for Categorical-and-Numerical-Attribute Data Clustering<br>
-**Yiqun Zhang**, Yiu-ming Cheung<sup>&#x2709;</sup> and An Zeng<br>
-<a href="https://www.ijcai.org/proceedings/2022/0522" target="_blank" style="color: #0b5394; border: 1px solid #0b5394; border-radius: 4px; padding: 1px 6px; text-decoration: none; font-weight: bold; font-size: 0.8em; margin-right: 6px; white-space: nowrap;"><i class="fas fa-file-pdf"></i> Paper</a> <a href="https://www.comp.hkbu.edu.hk/~ymc/papers/conference/source-code/ijcai22_code.zip" target="_blank" style="color: #0b5394; border: 1px solid #0b5394; border-radius: 4px; padding: 1px 6px; text-decoration: none; font-weight: bold; font-size: 0.8em; white-space: nowrap;"><i class="fas fa-file-archive"></i> Code</a>
+<!-- A004 NeurIPS 2024 Improving Mengke Li -->
+<div style="display: flex; margin-bottom: 1.5em; text-align: left;">
+  <div style="flex: 0 0 3.6em; color: #64748b; font-weight: bold; font-size: 1em; padding-top: 2px;">[A004]</div>
+  <div style="flex: 1;">
+    <span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 8px; vertical-align: middle; line-height: 1.2;">NeurIPS'24</span> Improving Visual Prompt Tuning by Gaussian Neighborhood Minimization for Long-Tailed Visual Recognition<br>
+    Mengke Li, Ye Liu, Yang Lu, <strong>Yiqun Zhang</strong>, Yiu-ming Cheung and Hui Huang<sup>&#x2709;</sup><br>
+    <a href="https://proceedings.neurips.cc/paper_files/paper/2024/hash/bc667ac84ef58f2b5022da97a465cbab-Abstract-Conference.html" target="_blank" style="color: #0b5394; border: 1px solid #0b5394; border-radius: 4px; padding: 1px 6px; text-decoration: none; font-weight: bold; font-size: 0.8em; margin-right: 6px; white-space: nowrap;"><i class="fas fa-file-pdf"></i> Paper</a>
+  </div>
+</div>
 
-[A001] <span style="background-color: #e3f2fd; color: #0b5394; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">AAAI'20</span> An Ordinal Data Clustering Algorithm with Automated Distance Learning<br>
-**Yiqun Zhang** and Yiu-ming Cheung<sup>&#x2709;</sup><br>
-<a href="https://ojs.aaai.org/index.php/AAAI/article/view/6168" target="_blank" style="color: #0b5394; border: 1px solid #0b5394; border-radius: 4px; padding: 1px 6px; text-decoration: none; font-weight: bold; font-size: 0.8em; margin-right: 6px; white-space: nowrap;"><i class="fas fa-file-pdf"></i> Paper</a> <a href="https://www.comp.hkbu.edu.hk/~ymc/papers/conference/source-code/AAAI20-code.zip" target="_blank" style="color: #0b5394; border: 1px solid #0b5394; border-radius: 4px; padding: 1px 6px; text-decoration: none; font-weight: bold; font-size: 0.8em; white-space: nowrap;"><i class="fas fa-file-archive"></i> Code</a>
+<!-- A003 KDD 2024 QGRL Junyang Chen -->
+<div style="display: flex; margin-bottom: 1.5em; text-align: left;">
+  <div style="flex: 0 0 3.6em; color: #64748b; font-weight: bold; font-size: 1em; padding-top: 2px;">[A003]</div>
+  <div style="flex: 1;">
+    <span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 8px; vertical-align: middle; line-height: 1.2;">KDD'24</span> QGRL: Quaternion Graph Representation Learning for Heterogeneous Feature Data Clustering<br>
+    Junyang Chen, Yuzhu Ji, Rong Zou, <strong>Yiqun Zhang</strong><sup>&#x2709;</sup> and Yiu-ming Cheung<br>
+    <span style="color: #0b5394; font-size: 0.9em; font-weight: bold;">本科科研生成果 | </span><a href="https://dl.acm.org/doi/abs/10.1145/3637528.3671839" target="_blank" style="color: #0b5394; border: 1px solid #0b5394; border-radius: 4px; padding: 1px 6px; text-decoration: none; font-weight: bold; font-size: 0.8em; margin-right: 6px; white-space: nowrap;"><i class="fas fa-file-pdf"></i> Paper</a> <a href="https://github.com/Juny-Chen/QGRL.git" target="_blank" style="color: #0b5394; border: 1px solid #0b5394; border-radius: 4px; padding: 1px 6px; text-decoration: none; font-weight: bold; font-size: 0.8em; white-space: nowrap;"><i class="fab fa-github"></i> Code</a>
+  </div>
+</div>
+
+<!-- A002 IJCAI 2022 Het2Hom Yiqun Zhang -->
+<div style="display: flex; margin-bottom: 1.5em; text-align: left;">
+  <div style="flex: 0 0 3.6em; color: #64748b; font-weight: bold; font-size: 1em; padding-top: 2px;">[A002]</div>
+  <div style="flex: 1;">
+    <span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 8px; vertical-align: middle; line-height: 1.2;">IJCAI'22</span> Het2Hom: Representation of Heterogeneous Attributes into Homogeneous Concept Spaces for Categorical-and-Numerical-Attribute Data Clustering<br>
+    <strong>Yiqun Zhang</strong>, Yiu-ming Cheung<sup>&#x2709;</sup> and An Zeng<br>
+    <a href="https://www.ijcai.org/proceedings/2022/0522" target="_blank" style="color: #0b5394; border: 1px solid #0b5394; border-radius: 4px; padding: 1px 6px; text-decoration: none; font-weight: bold; font-size: 0.8em; margin-right: 6px; white-space: nowrap;"><i class="fas fa-file-pdf"></i> Paper</a> <a href="https://www.comp.hkbu.edu.hk/~ymc/papers/conference/source-code/ijcai22_code.zip" target="_blank" style="color: #0b5394; border: 1px solid #0b5394; border-radius: 4px; padding: 1px 6px; text-decoration: none; font-weight: bold; font-size: 0.8em; white-space: nowrap;"><i class="fas fa-file-archive"></i> Code</a>
+  </div>
+</div>
+
+<!-- A001 AAAI 2020 An Yiqun Zhang -->
+<div style="display: flex; margin-bottom: 1.5em; text-align: left;">
+  <div style="flex: 0 0 3.6em; color: #64748b; font-weight: bold; font-size: 1em; padding-top: 2px;">[A001]</div>
+  <div style="flex: 1;">
+    <span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 8px; vertical-align: middle; line-height: 1.2;">AAAI'20</span> An Ordinal Data Clustering Algorithm with Automated Distance Learning<br>
+    <strong>Yiqun Zhang</strong> and Yiu-ming Cheung<sup>&#x2709;</sup><br>
+    <a href="https://ojs.aaai.org/index.php/AAAI/article/view/6168" target="_blank" style="color: #0b5394; border: 1px solid #0b5394; border-radius: 4px; padding: 1px 6px; text-decoration: none; font-weight: bold; font-size: 0.8em; margin-right: 6px; white-space: nowrap;"><i class="fas fa-file-pdf"></i> Paper</a> <a href="https://www.comp.hkbu.edu.hk/~ymc/papers/conference/source-code/AAAI20-code.zip" target="_blank" style="color: #0b5394; border: 1px solid #0b5394; border-radius: 4px; padding: 1px 6px; text-decoration: none; font-weight: bold; font-size: 0.8em; white-space: nowrap;"><i class="fas fa-file-archive"></i> Code</a>
+  </div>
+</div>
 
 <div style="display: flex; align-items: flex-end; margin-top: 35px; margin-bottom: 15px;">
   <h3 style="background-color: #4a4a4a; color: #ffffff; padding: 2px 8px; margin: 0; font-size: 1em; font-weight: 600; border-radius: 3px 3px 0 0; line-height: 1.2;">会议论文（CCF-B）</h3>

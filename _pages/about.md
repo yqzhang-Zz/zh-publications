@@ -377,6 +377,7 @@ Taochen Chen, Jialiang Chen, **Yiqun Zhang**<sup>&#x2709;</sup>, Mengke Li, Yang
 IJCNN'26</span> 
 [PIN-LoRA: Positive-Incentive Noise Aggregation for Federated Long-Tailed Learning](#)<br>
 Chenghao Jin, Shihao Hou, Jiacheng Yang, Mengke Li, **Yiqun Zhang**, Yang Lu<sup>&#x2709;</sup> and Yiu-ming Cheung<br>
+<span style="color: #0b5394; font-size: 0.9em; font-weight: bold;">研究生成果</span>
 
 [C013] <span style="background-color: #e3f2fd; color: #0b5394; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
 PRICAI'25</span> 
@@ -415,6 +416,7 @@ Yue Zhang<sup>&#x2709;</sup>, Xinfa Liao, Qingsheng Chen, Hao-Tian Wu and **Yiqu
 PRCV'24</span> 
 [FedGC: Federated Learning on Non-IID Data via Learning from Good Clients](https://link.springer.com/chapter/10.1007/978-981-97-8487-5_13)<br>
 Xu Ji, Haotian Wu<sup>&#x2709;</sup>, Ting Cui, **Yiqun Zhang** and Lingling Xu
+<span style="color: #0b5394; font-size: 0.9em; font-weight: bold;">研究生成果</span>
 
 [C006] <span style="background-color: #e3f2fd; color: #0b5394; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
 IJCNN'24</span> 

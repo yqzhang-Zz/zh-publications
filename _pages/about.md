@@ -234,7 +234,7 @@ Yijie Liu, Xinyi Shang, **Yiqun Zhang**, Yang Lu<sup>&#x2709;</sup>, Chen Gong, 
 AAAI'25</span> 
 [Asynchronous Federated Clustering with Unknown Number of Clusters](https://ojs.aaai.org/index.php/AAAI/article/view/34429)<br>
 Yunfan Zhang, **Yiqun Zhang**<sup>&#x2709;</sup>, Yang Lu, Mengke Li, Xi Chen and Yiu-ming Cheung<br>
-<span style="color: #0b5394; font-size: 0.9em; font-weight: bold;">本科科研生成果 | 第十八届“挑战杯”（大挑）省赛特等奖获奖作品</span>
+<span style="color: #0b5394; font-size: 0.9em; font-weight: bold;">本科科研生成果 | “挑战杯”（大挑）省赛特等奖国赛三等奖作品</span>
 
 [A004] <span style="background-color: #e3f2fd; color: #0b5394; padding: 2px 6px; border-radius: 4px; font-weight: bold; font-size: 0.9em; margin-right: 6px;">
 NeurIPS'24</span> 

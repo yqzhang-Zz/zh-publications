@@ -49,33 +49,33 @@ redirect_from:
   </div>
 </div>
 
-<!-- J022 TAI 2025 Trending Yiqun Zhang -->
+<!-- J022 TAI 2026 Trending Yiqun Zhang -->
 <div style="display: flex; margin-bottom: 1.5em; text-align: left;">
   <div style="flex: 0 0 3.6em; color: #64748b; font-weight: bold; font-size: 1em; padding-top: 2px;">[J022]</div>
   <div style="flex: 1;">
-    <span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 8px; vertical-align: middle; line-height: 1.2;">TAI'25</span> Trending Applications of Large Language Models: A User Perspective Survey<br>
+    <span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 8px; vertical-align: middle; line-height: 1.2;">TAI'26</span> Trending Applications of Large Language Models: A User Perspective Survey<br>
     <strong>Yiqun Zhang</strong>, Mingjie Zhao, Yunfan Zhang and Yiu-ming Cheung<sup>&#x2709;</sup><br>
     <span style="color: #0b5394; font-size: 0.9em; font-weight: bold;">影响因子: 8.1 | 综述论文 | </span><a href="https://ieeexplore.ieee.org/abstract/document/11199892" target="_blank" style="color: #0b5394; border: 1px solid #0b5394; border-radius: 4px; padding: 1px 6px; text-decoration: none; font-weight: bold; font-size: 0.8em; margin-right: 6px; white-space: nowrap;"><i class="fas fa-file-pdf"></i> Paper</a> <a href="papers/TAI-LLM-Survey1-Chinese-Version.pdf" target="_blank" style="color: #0b5394; border: 1px solid #0b5394; border-radius: 4px; padding: 1px 6px; text-decoration: none; font-weight: bold; font-size: 0.8em; white-space: nowrap;"><i class="fas fa-language"></i> 中文版</a>
   </div>
 </div>
 
-<!-- J021 IoTJ 2025 Hierarchical Yiqun Zhang -->
+<!-- J021 IoTJ 2026 Hierarchical Yiqun Zhang -->
 <div style="display: flex; margin-bottom: 1.5em; text-align: left;">
   <div style="flex: 0 0 3.6em; color: #64748b; font-weight: bold; font-size: 1em; padding-top: 2px;">[J021]</div>
   <div style="flex: 1;">
-    <span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 8px; vertical-align: middle; line-height: 1.2;">IoTJ'25</span> Hierarchical Reference Sets for Robust Unsupervised Detection of Scattered and Clustered Outliers<br>
+    <span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 8px; vertical-align: middle; line-height: 1.2;">IoTJ'26</span> Hierarchical Reference Sets for Robust Unsupervised Detection of Scattered and Clustered Outliers<br>
     <strong>Yiqun Zhang</strong>, Zexi Tan, Xiaopeng Luo<sup>&#x2709;</sup> and Yunlin Liu<br>
     <span style="color: #0b5394; font-size: 0.9em; font-weight: bold;">SCI 1区 | Top期刊 | 影响因子: 8.9 | </span><a href="https://arxiv.org/abs/2603.12847" target="_blank" style="color: #0b5394; border: 1px solid #0b5394; border-radius: 4px; padding: 1px 6px; text-decoration: none; font-weight: bold; font-size: 0.8em; margin-right: 6px; white-space: nowrap;"><i class="fas fa-file-pdf"></i> Paper</a> <a href="https://github.com/gordonlok/DROD" target="_blank" style="color: #0b5394; border: 1px solid #0b5394; border-radius: 4px; padding: 1px 6px; text-decoration: none; font-weight: bold; font-size: 0.8em; white-space: nowrap;"><i class="fab fa-github"></i> Code</a>
   </div>
 </div>
 
-<!-- J020 TETCI 2025 Learning Yiqun Zhang -->
+<!-- J020 TETCI 2026 Learning Yiqun Zhang -->
 <div style="display: flex; margin-bottom: 1.5em; text-align: left;">
   <div style="flex: 0 0 3.6em; color: #64748b; font-weight: bold; font-size: 1em; padding-top: 2px;">[J020]</div>
   <div style="flex: 1;">
-    <span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 8px; vertical-align: middle; line-height: 1.2;">TETCI'25</span> Learning Unbiased Cluster Descriptors for Interpretable Imbalanced Concept Drift Detection<br>
+    <span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 8px; vertical-align: middle; line-height: 1.2;">TETCI'26</span> Learning Unbiased Cluster Descriptors for Interpretable Imbalanced Concept Drift Detection<br>
     <strong>Yiqun Zhang</strong>, Zhanpei Huang, Mingjie Zhao, Chuyao Zhang, Yang Lu, Yuzhu Ji<sup>&#x2709;</sup>, Fangqing Gu and An Zeng<br>
-    <span style="color: #0b5394; font-size: 0.9em; font-weight: bold;">SCI 1区 | 影响因子: 6.5 | </span><a href="https://arxiv.org/abs/2603.06757" target="_blank" style="color: #0b5394; border: 1px solid #0b5394; border-radius: 4px; padding: 1px 6px; text-decoration: none; font-weight: bold; font-size: 0.8em; margin-right: 6px; white-space: nowrap;"><i class="fas fa-file-pdf"></i> Paper</a> <a href="https://github.com/YOUR_GITHUB_NAME/YOUR_REPO_NAME" target="_blank" style="color: #0b5394; border: 1px solid #0b5394; border-radius: 4px; padding: 1px 6px; text-decoration: none; font-weight: bold; font-size: 0.8em; white-space: nowrap;"><i class="fab fa-github"></i> Code</a>
+    <span style="color: #0b5394; font-size: 0.9em; font-weight: bold;">SCI 1区 | 影响因子: 6.5 | </span><a href="https://arxiv.org/abs/2603.06757" target="_blank" style="color: #0b5394; border: 1px solid #0b5394; border-radius: 4px; padding: 1px 6px; text-decoration: none; font-weight: bold; font-size: 0.8em; margin-right: 6px; white-space: nowrap;"><i class="fas fa-file-pdf"></i> Paper</a> <a href="papers/ICD3_Code.zip" target="_blank" style="color: #0b5394; border: 1px solid #0b5394; border-radius: 4px; padding: 1px 6px; text-decoration: none; font-weight: bold; font-size: 0.8em; white-space: nowrap;"><i class="fab fa-github"></i> Code</a>
   </div>
 </div>
 

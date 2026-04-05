@@ -26,6 +26,9 @@ redirect_from:
   <div style="flex-grow: 1; height: 2px; background-color: #4a4a4a;"></div>
 </div>
 
+
+
+
 <!-- J024 TMM 2026 NIDC Jiayu Ye -->
 <div style="display: flex; margin-bottom: 1.5em; text-align: left;">
   <div style="flex: 0 0 3.6em; color: #64748b; font-weight: bold; font-size: 1em; padding-top: 2px;">[J024]</div>
@@ -46,49 +49,19 @@ redirect_from:
   </div>
 </div>
 
-<!-- J022 TCYB 2025 Online Yiqun Zhang -->
+<!-- J022 TAI 2025 Trending Yiqun Zhang -->
 <div style="display: flex; margin-bottom: 1.5em; text-align: left;">
   <div style="flex: 0 0 3.6em; color: #64748b; font-weight: bold; font-size: 1em; padding-top: 2px;">[J022]</div>
   <div style="flex: 1;">
-    <span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 8px; vertical-align: middle; line-height: 1.2;">TCYB'25</span> Online Heterogeneous Feature Selection<br>
-    <strong>Yiqun Zhang</strong>, Xinxi Chen, Lang Zhao, Yuzhu Ji, Peng Liu and Yiu-ming Cheung<sup>&#x2709;</sup><br>
-    <span style="color: #0b5394; font-size: 0.9em; font-weight: bold;">SCI 1区 | Top期刊 | 影响因子: 10.5 | </span><a href="https://ieeexplore.ieee.org/abstract/document/11274409" target="_blank" style="color: #0b5394; border: 1px solid #0b5394; border-radius: 4px; padding: 1px 6px; text-decoration: none; font-weight: bold; font-size: 0.8em; white-space: nowrap;"><i class="fas fa-file-pdf"></i> Paper</a>
+    <span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 8px; vertical-align: middle; line-height: 1.2;">TAI'25</span> Trending Applications of Large Language Models: A User Perspective Survey<br>
+    <strong>Yiqun Zhang</strong>, Mingjie Zhao, Yunfan Zhang and Yiu-ming Cheung<sup>&#x2709;</sup><br>
+    <span style="color: #0b5394; font-size: 0.9em; font-weight: bold;">影响因子: 8.1 | 综述论文 | </span><a href="https://ieeexplore.ieee.org/abstract/document/11199892" target="_blank" style="color: #0b5394; border: 1px solid #0b5394; border-radius: 4px; padding: 1px 6px; text-decoration: none; font-weight: bold; font-size: 0.8em; margin-right: 6px; white-space: nowrap;"><i class="fas fa-file-pdf"></i> Paper</a> <a href="papers/TAI-LLM-Survey1-Chinese-Version.pdf" target="_blank" style="color: #0b5394; border: 1px solid #0b5394; border-radius: 4px; padding: 1px 6px; text-decoration: none; font-weight: bold; font-size: 0.8em; white-space: nowrap;"><i class="fas fa-language"></i> 中文版</a>
   </div>
 </div>
 
-<!-- J021 TNNLS 2025 Learning Yiqun Zhang -->
+<!-- J021 IoTJ 2025 Hierarchical Yiqun Zhang -->
 <div style="display: flex; margin-bottom: 1.5em; text-align: left;">
   <div style="flex: 0 0 3.6em; color: #64748b; font-weight: bold; font-size: 1em; padding-top: 2px;">[J021]</div>
-  <div style="flex: 1;">
-    <span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 8px; vertical-align: middle; line-height: 1.2;">TNNLS'25</span> Learning Self-Growth Maps for Fast and Accurate Imbalanced Streaming Data Clustering<br>
-    <strong>Yiqun Zhang</strong>, Sen Feng, Pengkai Wang, Zexi Tan, Xiaopeng Luo, Yuzhu Ji, Rong Zou and Yiu-ming Cheung<sup>&#x2709;</sup><br>
-    <span style="color: #0b5394; font-size: 0.9em; font-weight: bold;">ESI高被引论文 | SCI 1区 | Top期刊 | 影响因子: 8.9 | </span><a href="https://www.comp.hkbu.edu.hk/~ymc/papers/journal/TNNLS-2025-3563769.pdf" target="_blank" style="color: #0b5394; border: 1px solid #0b5394; border-radius: 4px; padding: 1px 6px; text-decoration: none; font-weight: bold; font-size: 0.8em; margin-right: 6px; white-space: nowrap;"><i class="fas fa-file-pdf"></i> Paper</a> <a href="https://www.comp.hkbu.edu.hk/~ymc/papers/journal/Source_code/TNNLS-2025-3563769-code.zip" target="_blank" style="color: #0b5394; border: 1px solid #0b5394; border-radius: 4px; padding: 1px 6px; text-decoration: none; font-weight: bold; font-size: 0.8em; white-space: nowrap;"><i class="fas fa-file-archive"></i> Code</a>
-  </div>
-</div>
-
-<!-- J020 TIP 2025 CmdVIT Jiayu Ye -->
-<div style="display: flex; margin-bottom: 1.5em; text-align: left;">
-  <div style="flex: 0 0 3.6em; color: #64748b; font-weight: bold; font-size: 1em; padding-top: 2px;">[J020]</div>
-  <div style="flex: 1;">
-    <span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 8px; vertical-align: middle; line-height: 1.2;">TIP'25</span> CmdVIT: A Voluntary Facial Expression Recognition Model for Complex Mental Disorders<br>
-    Jiayu Ye, Yanhong Yu, Qingxiang Wang, Guolong Liu, Wentao Li, An Zeng<sup>&#x2709;</sup>, <strong>Yiqun Zhang</strong>, Yang Liu and Yunshao Zheng<br>
-    <span style="color: #0b5394; font-size: 0.9em; font-weight: bold;">SCI 1区 | Top期刊 | 影响因子: 13.7 | 博士生成果 | </span><a href="https://ieeexplore.ieee.org/abstract/document/11003429" target="_blank" style="color: #0b5394; border: 1px solid #0b5394; border-radius: 4px; padding: 1px 6px; text-decoration: none; font-weight: bold; font-size: 0.8em; white-space: nowrap;"><i class="fas fa-file-pdf"></i> Paper</a>
-  </div>
-</div>
-
-<!-- J019 TCE 2025 SMACNet Yuzhu Ji -->
-<div style="display: flex; margin-bottom: 1.5em; text-align: left;">
-  <div style="flex: 0 0 3.6em; color: #64748b; font-weight: bold; font-size: 1em; padding-top: 2px;">[J019]</div>
-  <div style="flex: 1;">
-    <span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 8px; vertical-align: middle; line-height: 1.2;">TCE'25</span> SMACNet: A Unified Framework for One-shot Talking Head Synthesis via Subtle Motion and Appearance Compensation<br>
-    Yuzhu Ji, Wei Hu, Guoji Gan, Zhiquan Long, <strong>Yiqun Zhang</strong><sup>&#x2709;</sup>, An Zeng and Haijun Zhang<br>
-    <span style="color: #0b5394; font-size: 0.9em; font-weight: bold;">SCI 1区 | 影响因子: 10.9 | </span><a href="https://ieeexplore.ieee.org/abstract/document/11114961" target="_blank" style="color: #0b5394; border: 1px solid #0b5394; border-radius: 4px; padding: 1px 6px; text-decoration: none; font-weight: bold; font-size: 0.8em; white-space: nowrap;"><i class="fas fa-file-pdf"></i> Paper</a>
-  </div>
-</div>
-
-<!-- J018 IoTJ 2025 Hierarchical Yiqun Zhang -->
-<div style="display: flex; margin-bottom: 1.5em; text-align: left;">
-  <div style="flex: 0 0 3.6em; color: #64748b; font-weight: bold; font-size: 1em; padding-top: 2px;">[J018]</div>
   <div style="flex: 1;">
     <span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 8px; vertical-align: middle; line-height: 1.2;">IoTJ'25</span> Hierarchical Reference Sets for Robust Unsupervised Detection of Scattered and Clustered Outliers<br>
     <strong>Yiqun Zhang</strong>, Zexi Tan, Xiaopeng Luo<sup>&#x2709;</sup> and Yunlin Liu<br>
@@ -96,9 +69,9 @@ redirect_from:
   </div>
 </div>
 
-<!-- J017 TETCI 2025 Learning Yiqun Zhang -->
+<!-- J020 TETCI 2025 Learning Yiqun Zhang -->
 <div style="display: flex; margin-bottom: 1.5em; text-align: left;">
-  <div style="flex: 0 0 3.6em; color: #64748b; font-weight: bold; font-size: 1em; padding-top: 2px;">[J017]</div>
+  <div style="flex: 0 0 3.6em; color: #64748b; font-weight: bold; font-size: 1em; padding-top: 2px;">[J020]</div>
   <div style="flex: 1;">
     <span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 8px; vertical-align: middle; line-height: 1.2;">TETCI'25</span> Learning Unbiased Cluster Descriptors for Interpretable Imbalanced Concept Drift Detection<br>
     <strong>Yiqun Zhang</strong>, Zhanpei Huang, Mingjie Zhao, Chuyao Zhang, Yang Lu, Yuzhu Ji<sup>&#x2709;</sup>, Fangqing Gu and An Zeng<br>
@@ -106,13 +79,43 @@ redirect_from:
   </div>
 </div>
 
-<!-- J016 TAI 2025 Trending Yiqun Zhang -->
+<!-- J019 TCYB 2025 Online Yiqun Zhang -->
+<div style="display: flex; margin-bottom: 1.5em; text-align: left;">
+  <div style="flex: 0 0 3.6em; color: #64748b; font-weight: bold; font-size: 1em; padding-top: 2px;">[J019]</div>
+  <div style="flex: 1;">
+    <span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 8px; vertical-align: middle; line-height: 1.2;">TCYB'25</span> Online Heterogeneous Feature Selection<br>
+    <strong>Yiqun Zhang</strong>, Xinxi Chen, Lang Zhao, Yuzhu Ji, Peng Liu and Yiu-ming Cheung<sup>&#x2709;</sup><br>
+    <span style="color: #0b5394; font-size: 0.9em; font-weight: bold;">SCI 1区 | Top期刊 | 影响因子: 10.5 | </span><a href="https://ieeexplore.ieee.org/abstract/document/11274409" target="_blank" style="color: #0b5394; border: 1px solid #0b5394; border-radius: 4px; padding: 1px 6px; text-decoration: none; font-weight: bold; font-size: 0.8em; white-space: nowrap;"><i class="fas fa-file-pdf"></i> Paper</a>
+  </div>
+</div>
+
+<!-- J018 TNNLS 2025 Learning Yiqun Zhang -->
+<div style="display: flex; margin-bottom: 1.5em; text-align: left;">
+  <div style="flex: 0 0 3.6em; color: #64748b; font-weight: bold; font-size: 1em; padding-top: 2px;">[J018]</div>
+  <div style="flex: 1;">
+    <span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 8px; vertical-align: middle; line-height: 1.2;">TNNLS'25</span> Learning Self-Growth Maps for Fast and Accurate Imbalanced Streaming Data Clustering<br>
+    <strong>Yiqun Zhang</strong>, Sen Feng, Pengkai Wang, Zexi Tan, Xiaopeng Luo, Yuzhu Ji, Rong Zou and Yiu-ming Cheung<sup>&#x2709;</sup><br>
+    <span style="color: #0b5394; font-size: 0.9em; font-weight: bold;">ESI高被引论文 | SCI 1区 | Top期刊 | 影响因子: 8.9 | </span><a href="https://www.comp.hkbu.edu.hk/~ymc/papers/journal/TNNLS-2025-3563769.pdf" target="_blank" style="color: #0b5394; border: 1px solid #0b5394; border-radius: 4px; padding: 1px 6px; text-decoration: none; font-weight: bold; font-size: 0.8em; margin-right: 6px; white-space: nowrap;"><i class="fas fa-file-pdf"></i> Paper</a> <a href="https://www.comp.hkbu.edu.hk/~ymc/papers/journal/Source_code/TNNLS-2025-3563769-code.zip" target="_blank" style="color: #0b5394; border: 1px solid #0b5394; border-radius: 4px; padding: 1px 6px; text-decoration: none; font-weight: bold; font-size: 0.8em; white-space: nowrap;"><i class="fas fa-file-archive"></i> Code</a>
+  </div>
+</div>
+
+<!-- J017 TIP 2025 CmdVIT Jiayu Ye -->
+<div style="display: flex; margin-bottom: 1.5em; text-align: left;">
+  <div style="flex: 0 0 3.6em; color: #64748b; font-weight: bold; font-size: 1em; padding-top: 2px;">[J017]</div>
+  <div style="flex: 1;">
+    <span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 8px; vertical-align: middle; line-height: 1.2;">TIP'25</span> CmdVIT: A Voluntary Facial Expression Recognition Model for Complex Mental Disorders<br>
+    Jiayu Ye, Yanhong Yu, Qingxiang Wang, Guolong Liu, Wentao Li, An Zeng<sup>&#x2709;</sup>, <strong>Yiqun Zhang</strong>, Yang Liu and Yunshao Zheng<br>
+    <span style="color: #0b5394; font-size: 0.9em; font-weight: bold;">SCI 1区 | Top期刊 | 影响因子: 13.7 | 博士生成果 | </span><a href="https://ieeexplore.ieee.org/abstract/document/11003429" target="_blank" style="color: #0b5394; border: 1px solid #0b5394; border-radius: 4px; padding: 1px 6px; text-decoration: none; font-weight: bold; font-size: 0.8em; white-space: nowrap;"><i class="fas fa-file-pdf"></i> Paper</a>
+  </div>
+</div>
+
+<!-- J016 TCE 2025 SMACNet Yuzhu Ji -->
 <div style="display: flex; margin-bottom: 1.5em; text-align: left;">
   <div style="flex: 0 0 3.6em; color: #64748b; font-weight: bold; font-size: 1em; padding-top: 2px;">[J016]</div>
   <div style="flex: 1;">
-    <span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 8px; vertical-align: middle; line-height: 1.2;">TAI'25</span> Trending Applications of Large Language Models: A User Perspective Survey<br>
-    <strong>Yiqun Zhang</strong>, Mingjie Zhao, Yunfan Zhang and Yiu-ming Cheung<sup>&#x2709;</sup><br>
-    <span style="color: #0b5394; font-size: 0.9em; font-weight: bold;">影响因子: 8.1 | 综述论文 | </span><a href="https://ieeexplore.ieee.org/abstract/document/11199892" target="_blank" style="color: #0b5394; border: 1px solid #0b5394; border-radius: 4px; padding: 1px 6px; text-decoration: none; font-weight: bold; font-size: 0.8em; margin-right: 6px; white-space: nowrap;"><i class="fas fa-file-pdf"></i> Paper</a> <a href="papers/TAI-LLM-Survey1-Chinese-Version.pdf" target="_blank" style="color: #0b5394; border: 1px solid #0b5394; border-radius: 4px; padding: 1px 6px; text-decoration: none; font-weight: bold; font-size: 0.8em; white-space: nowrap;"><i class="fas fa-language"></i> 中文版</a>
+    <span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 8px; vertical-align: middle; line-height: 1.2;">TCE'25</span> SMACNet: A Unified Framework for One-shot Talking Head Synthesis via Subtle Motion and Appearance Compensation<br>
+    Yuzhu Ji, Wei Hu, Guoji Gan, Zhiquan Long, <strong>Yiqun Zhang</strong><sup>&#x2709;</sup>, An Zeng and Haijun Zhang<br>
+    <span style="color: #0b5394; font-size: 0.9em; font-weight: bold;">SCI 1区 | 影响因子: 10.9 | </span><a href="https://ieeexplore.ieee.org/abstract/document/11114961" target="_blank" style="color: #0b5394; border: 1px solid #0b5394; border-radius: 4px; padding: 1px 6px; text-decoration: none; font-weight: bold; font-size: 0.8em; white-space: nowrap;"><i class="fas fa-file-pdf"></i> Paper</a>
   </div>
 </div>
 
@@ -577,7 +580,7 @@ redirect_from:
   <div style="flex-grow: 1; height: 2px; background-color: #4a4a4a;"></div>
 </div>
 
-<!-- C016 ICPR 2026 Bridging Zihua Yang -->
+<!-- C016 ICPR 2026 Bridging Zihua Yang 
 <div style="display: flex; margin-bottom: 1.5em; text-align: left;">
   <div style="flex: 0 0 3.6em; color: #64748b; font-weight: bold; font-size: 1em; padding-top: 2px;">[C016]</div>
   <div style="flex: 1;">
@@ -586,6 +589,7 @@ redirect_from:
     <span style="color: #0b5394; font-size: 0.9em; font-weight: bold;">本科科研生成果 | </span><a href="https://arxiv.org/abs/2601.01162" target="_blank" style="color: #0b5394; border: 1px solid #0b5394; border-radius: 4px; padding: 1px 6px; text-decoration: none; font-weight: bold; font-size: 0.8em; margin-right: 6px; white-space: nowrap;"><i class="fas fa-file-pdf"></i> Paper</a> <a href="https://github.com/develop-yang/ARISE" target="_blank" style="color: #0b5394; border: 1px solid #0b5394; border-radius: 4px; padding: 1px 6px; text-decoration: none; font-weight: bold; font-size: 0.8em; white-space: nowrap;"><i class="fab fa-github"></i> Code</a>
   </div>
 </div>
+-->
 
 <!-- C015 IJCNN 2026 FMoE Taochen Chen -->
 <div style="display: flex; margin-bottom: 1.5em; text-align: left;">

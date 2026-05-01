@@ -276,6 +276,15 @@ redirect_from:
   <div style="flex-grow: 1; height: 2px; background-color: #4a4a4a;"></div>
 </div>
 
+<!-- A015 ICML 2026 CARE Mengke Li -->
+<div style="display: flex; margin-bottom: 1.5em; text-align: left;">
+  <div style="flex: 0 0 3.6em; color: #64748b; font-weight: bold; font-size: 1em; padding-top: 2px;">[A014]</div>
+  <div style="flex: 1;">
+    <span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 8px; vertical-align: middle; line-height: 1.2;">ICML'26</span> CARE: Class-Adaptive Expert Consensus for Reliable Learning with Long-Tailed Noisy Labels<br>
+    Mengke Li, Haiquan Ling, Lihao Chen, Yang Lu, <strong>Yiqun Zhang</strong> and Hui Huang<sup>&#x2709;</sup><br>
+    <a href="https://dl.acm.org/doi/abs/10.24963/ijcai.2025/137" target="_blank" style="color: #0b5394; border: 1px solid #0b5394; border-radius: 4px; padding: 1px 6px; text-decoration: none; font-weight: bold; font-size: 0.8em; margin-right: 6px; white-space: nowrap;"><i class="fas fa-file-pdf"></i> Paper</a>
+  </div>
+</div>
 
 <!-- A014 CVPR 2026 SECOS Hezhao Liu -->
 <div style="display: flex; margin-bottom: 1.5em; text-align: left;">

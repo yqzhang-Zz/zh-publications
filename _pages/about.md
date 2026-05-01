@@ -396,11 +396,11 @@ redirect_from:
   </div>
 </div>
 
-<!-- A003 KDD 2024 QGRL Junyang Chen -->
+<!-- A003 SIGKDD 2024 QGRL Junyang Chen -->
 <div style="display: flex; margin-bottom: 1.5em; text-align: left;">
   <div style="flex: 0 0 3.6em; color: #64748b; font-weight: bold; font-size: 1em; padding-top: 2px;">[A003]</div>
   <div style="flex: 1;">
-    <span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 8px; vertical-align: middle; line-height: 1.2;">KDD'24</span> QGRL: Quaternion Graph Representation Learning for Heterogeneous Feature Data Clustering<br>
+    <span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 8px; vertical-align: middle; line-height: 1.2;">SIGKDD'24</span> QGRL: Quaternion Graph Representation Learning for Heterogeneous Feature Data Clustering<br>
     Junyang Chen, Yuzhu Ji, Rong Zou, <strong>Yiqun Zhang</strong><sup>&#x2709;</sup> and Yiu-ming Cheung<br>
     <span style="color: #0b5394; font-size: 0.9em; font-weight: bold;">本科科研生成果 | </span><a href="https://dl.acm.org/doi/abs/10.1145/3637528.3671839" target="_blank" style="color: #0b5394; border: 1px solid #0b5394; border-radius: 4px; padding: 1px 6px; text-decoration: none; font-weight: bold; font-size: 0.8em; margin-right: 6px; white-space: nowrap;"><i class="fas fa-file-pdf"></i> Paper</a> <a href="https://github.com/Juny-Chen/QGRL.git" target="_blank" style="color: #0b5394; border: 1px solid #0b5394; border-radius: 4px; padding: 1px 6px; text-decoration: none; font-weight: bold; font-size: 0.8em; white-space: nowrap;"><i class="fab fa-github"></i> Code</a>
   </div>

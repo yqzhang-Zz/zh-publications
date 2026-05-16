@@ -276,7 +276,7 @@ redirect_from:
   <div style="flex-grow: 1; height: 2px; background-color: #4a4a4a;"></div>
 </div>
 
-[!-- A016 SIGKDD 2026 AnchorMoE Tao Xie --]
+<!-- A016 SIGKDD 2026 AnchorMoE Tao Xie -->
 <div style="display: flex; margin-bottom: 1.5em; text-align: left;">
   <div style="flex: 0 0 3.6em; color: #64748b; font-weight: bold; font-size: 1em; padding-top: 2px;">[A016]</div>
   <div style="flex: 1;">

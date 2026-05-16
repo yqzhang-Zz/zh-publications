@@ -599,7 +599,7 @@ redirect_from:
   <div style="flex-grow: 1; height: 2px; background-color: #4a4a4a;"></div>
 </div>
 
-<!-- C016 ICPR 2026 Bridging Zihua Yang 
+<!-- C016 ICPR 2026 Bridging Zihua Yang -->
 <div style="display: flex; margin-bottom: 1.5em; text-align: left;">
   <div style="flex: 0 0 3.6em; color: #64748b; font-weight: bold; font-size: 1em; padding-top: 2px;">[C016]</div>
   <div style="flex: 1;">
@@ -608,7 +608,6 @@ redirect_from:
     <span style="color: #0b5394; font-size: 0.9em; font-weight: bold;">本科科研生成果 | </span><a href="https://arxiv.org/abs/2601.01162" target="_blank" style="color: #0b5394; border: 1px solid #0b5394; border-radius: 4px; padding: 1px 6px; text-decoration: none; font-weight: bold; font-size: 0.8em; margin-right: 6px; white-space: nowrap;"><i class="fas fa-file-pdf"></i> Paper</a> <a href="https://github.com/develop-yang/ARISE" target="_blank" style="color: #0b5394; border: 1px solid #0b5394; border-radius: 4px; padding: 1px 6px; text-decoration: none; font-weight: bold; font-size: 0.8em; white-space: nowrap;"><i class="fab fa-github"></i> Code</a>
   </div>
 </div>
--->
 
 <!-- C015 IJCNN 2026 FMoE Taochen Chen -->
 <div style="display: flex; margin-bottom: 1.5em; text-align: left;">

@@ -26,8 +26,15 @@ redirect_from:
   <div style="flex-grow: 1; height: 2px; background-color: #4a4a4a;"></div>
 </div>
 
-
-
+<!-- J025 TAI 2026 Ask AI Yiqun Zhang -->
+<div style="display: flex; margin-bottom: 1.5em; text-align: left;">
+  <div style="flex: 0 0 3.6em; color: #64748b; font-weight: bold; font-size: 1em; padding-top: 2px;">[J025]</div>
+  <div style="flex: 1;">
+    <span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 8px; vertical-align: middle; line-height: 1.2;">TAI'26</span> How to Ask the AI: A User Perspective Survey for Large Language Model Prompting<br>
+    <strong>Yiqun Zhang</strong>, Yunfan Zhang, Mingjie Zhao, Sen Feng and Yiu-ming Cheung<sup>&#x2709;</sup><br>
+    <span style="color: #0b5394; font-size: 0.9em; font-weight: bold;">综述论文 | </span><a href="https://ieeexplore.ieee.org/abstract/document/11199892" target="_blank" style="color: #0b5394; border: 1px solid #0b5394; border-radius: 4px; padding: 1px 6px; text-decoration: none; font-weight: bold; font-size: 0.8em; margin-right: 6px; white-space: nowrap;"><i class="fas fa-file-pdf"></i> Paper</a> 
+  </div>
+</div>
 
 <!-- J024 TMM 2026 NIDC Jiayu Ye -->
 <div style="display: flex; margin-bottom: 1.5em; text-align: left;">
@@ -55,7 +62,7 @@ redirect_from:
   <div style="flex: 1;">
     <span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 8px; vertical-align: middle; line-height: 1.2;">TAI'26</span> Trending Applications of Large Language Models: A User Perspective Survey<br>
     <strong>Yiqun Zhang</strong>, Mingjie Zhao, Yunfan Zhang and Yiu-ming Cheung<sup>&#x2709;</sup><br>
-    <span style="color: #0b5394; font-size: 0.9em; font-weight: bold;">影响因子: 8.1 | 综述论文 | </span><a href="https://ieeexplore.ieee.org/abstract/document/11199892" target="_blank" style="color: #0b5394; border: 1px solid #0b5394; border-radius: 4px; padding: 1px 6px; text-decoration: none; font-weight: bold; font-size: 0.8em; margin-right: 6px; white-space: nowrap;"><i class="fas fa-file-pdf"></i> Paper</a> <a href="papers/TAI-LLM-Survey1-Chinese-Version.pdf" target="_blank" style="color: #0b5394; border: 1px solid #0b5394; border-radius: 4px; padding: 1px 6px; text-decoration: none; font-weight: bold; font-size: 0.8em; white-space: nowrap;"><i class="fas fa-language"></i> 中文版</a>
+    <span style="color: #0b5394; font-size: 0.9em; font-weight: bold;">综述论文 | </span><a href="https://ieeexplore.ieee.org/abstract/document/11199892" target="_blank" style="color: #0b5394; border: 1px solid #0b5394; border-radius: 4px; padding: 1px 6px; text-decoration: none; font-weight: bold; font-size: 0.8em; margin-right: 6px; white-space: nowrap;"><i class="fas fa-file-pdf"></i> Paper</a> <a href="papers/TAI-LLM-Survey1-Chinese-Version.pdf" target="_blank" style="color: #0b5394; border: 1px solid #0b5394; border-radius: 4px; padding: 1px 6px; text-decoration: none; font-weight: bold; font-size: 0.8em; white-space: nowrap;"><i class="fas fa-language"></i> 中文版</a>
   </div>
 </div>
 

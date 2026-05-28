@@ -441,6 +441,16 @@ redirect_from:
   <div style="flex-grow: 1; height: 2px; background-color: #4a4a4a;"></div>
 </div>
 
+<!-- B016 ECML-PKDD 2026 Imputation Chuyao Zhang -->
+<div style="display: flex; margin-bottom: 1.5em; text-align: left;">
+  <div style="flex: 0 0 3.6em; color: #64748b; font-weight: bold; font-size: 1em; padding-top: 2px;">[B016]</div>
+  <div style="flex: 1;">
+    <span style="display: inline-block; background-color: #e3f2fd; color: #0b5394; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 8px; vertical-align: middle; line-height: 1.2;">ECML-PKDD'26</span> Imputation Meets Clustering: Exploiting Latent Subgroup Structure for Missing Data Recovery<br>
+    Chuyao Zhang, E Li, Taochen Chen, <strong>Yiqun Zhang</strong><sup>&#x2709;</sup>, Yuzhu Ji, Shuping Zhao, Peng Liu and Yiu-ming Cheung<br>
+    <span style="color: #0b5394; font-size: 0.9em; font-weight: bold;">研究生成果 | </span><a href="#" target="_blank" style="color: #0b5394; border: 1px solid #0b5394; border-radius: 4px; padding: 1px 6px; text-decoration: none; font-weight: bold; font-size: 0.8em; white-space: nowrap;"><i class="fas fa-file-pdf"></i> Paper</a>
+  </div>
+</div>
+
 <!-- B015 DASFAA 2026 HyReaL Junyang Chen -->
 <div style="display: flex; margin-bottom: 1.5em; text-align: left;">
   <div style="flex: 0 0 3.6em; color: #64748b; font-weight: bold; font-size: 1em; padding-top: 2px;">[B015]</div>

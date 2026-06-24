@@ -1,3 +1,5 @@
+# _data/conference_meta.yml
+
 - id: "C065"
   venue: "SIGKDD'26"
   conf_key: "KDD"
@@ -7,7 +9,7 @@
   link: "#"
   bib: |-
     @inproceedings{xie2026anchormoe,
-      author = {Xie, Tao and Tan, Zexi and Xiao, Haoyi and Li, Mengke and Zhang, Yiqun and Lu, Yang and Yang, Cuie and Cheung, Yiu-ming},
+      author = {Xie, Tao and Tan, Zexi and Xiao, Haoyi and Li, Mengke Ext and Zhang, Yiqun and Lu, Yang and Yang, Cuie and Cheung, Yiu-ming},
       title = {AnchorMoE: Interpretable Time Series Classification via Anchor-Routed MoE},
       booktitle = {Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining},
       year = {2026}

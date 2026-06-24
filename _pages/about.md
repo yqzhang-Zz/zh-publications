@@ -98,7 +98,7 @@ redirect_from:
 
 
 <div style="display: flex; align-items: flex-end; margin-top: 35px; margin-bottom: 15px;">
-  <h3 style="background-color: #4a4a4a; color: #ffffff; padding: 2px 8px; margin: 0; font-size: 1em; font-weight: 600; border-radius: 3px 3px 0 0; line-height: 1.2;">会议论文（CCF-A）</h3>
+  <h3 style="background-color: #4a4a4a; color: #ffffff; padding: 2px 8px; margin: 0; font-size: 1em; font-weight: 600; border-radius: 3px 3px 0 0; line-height: 1.2;">会议论文</h3>
   <div style="flex-grow: 1; height: 2px; background-color: #4a4a4a;"></div>
 </div>
 
@@ -119,7 +119,19 @@ redirect_from:
     <div style="margin-top: 4px;">
       
       {% assign meta_parts = "" %}
+      {% assign c_meta = site.data.conference_meta[conf.conf_key] %}
+      
+      {% if c_meta.ccf and c_meta.ccf != "-" %}
+        {% assign meta_parts = meta_parts | append: "CCF-" | append: c_meta.ccf %}
+      {% endif %}
+      
+      {% if c_meta.core and c_meta.core != "-" %}
+        {% if meta_parts != "" %}{% assign meta_parts = meta_parts | append: " | " %}{% endif %}
+        {% assign meta_parts = meta_parts | append: "CORE " | append: c_meta.core %}
+      {% endif %}
+      
       {% if conf.tag != "" and conf.tag != nil %}
+        {% if meta_parts != "" %}{% assign meta_parts = meta_parts | append: " | " %}{% endif %}
         {% assign meta_parts = meta_parts | append: conf.tag %}
       {% endif %}
 

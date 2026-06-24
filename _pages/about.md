@@ -27,30 +27,27 @@ redirect_from:
 </div>
 
 {% for paper in site.data.journal_papers %}
-<div class="paper-item">
-  <div class="paper-id">[{{ paper.id }}]</div>
-  <div class="paper-info">
+<div style="display: flex; margin-bottom: 1.5em; text-align: left;">
+  <div style="flex: 0 0 3.6em; color: #64748b; font-weight: bold; font-size: 1em; padding-top: 2px;">[{{ paper.id }}]</div>
+  <div style="flex: 1;">
+    <span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 8px; vertical-align: middle; line-height: 1.2;">{{ paper.venue }}</span> {{ paper.title }}<br>
+    {{ paper.authors }}<br>
     
-    <div><span class="paper-badge">{{ paper.venue }}</span> {{ paper.title }}</div>
+    <span style="color: #0b5394; font-size: 0.9em; font-weight: bold;">
+      JCR {{ site.data.journal_meta[paper.journal_key].jcr }} | IF: {{ site.data.journal_meta[paper.journal_key].if }} {% if paper.tag %}| {{ paper.tag }} {% endif %}| 
+    </span>
     
-    <div style="margin: 4px 0;">{{ paper.authors }}</div>
+    <a href="{{ paper.link }}" target="_blank" style="color: #0b5394; border: 1px solid #0b5394; border-radius: 4px; padding: 1px 6px; text-decoration: none; font-weight: bold; font-size: 0.8em; white-space: nowrap; vertical-align: middle;"><i class="fas fa-file-pdf"></i> Paper</a>
     
-    <div class="paper-meta">
-      SCI {{ site.data.journal_meta[paper.journal_key].cas }} | IF: {{ site.data.journal_meta[paper.journal_key].if }} {% if paper.tag %}| {{ paper.tag }} |{% endif %}
-    </div>
-    
-    <div class="paper-actions">
-      <a href="{{ paper.link }}" target="_blank" class="btn-action"><i class="fas fa-file-pdf" style="margin-right:4px;"></i> Paper</a>
+    <div class="bib-container" style="display: inline-block; position: relative; margin-left: 6px; vertical-align: middle;">
+      <button onclick="toggleBib(this)" style="color: #0b5394; background: none; border: 1px solid #0b5394; border-radius: 4px; padding: 1px 6px; font-weight: bold; font-size: 0.8em; white-space: nowrap; cursor: pointer; display: inline-block; font-family: inherit;"><i class="fas fa-quote-right"></i> Bib</button>
       
-      <details class="bib-details">
-        <summary class="btn-action"><i class="fas fa-quote-right" style="margin-right:4px;"></i> Bib</summary>
-        <div class="bib-box">
-          <button class="btn-copy" onclick="copyBib(this)">Copy</button>
-          <pre class="bib-pre">{{ paper.bib }}</pre>
-        </div>
-      </details>
+      <div class="bib-dropdown" style="display: none; position: absolute; left: 0; top: calc(100% + 6px); z-index: 100; background: #ffffff; border: 1px solid #cbd5e1; border-radius: 6px; padding: 12px; box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -4px rgba(0, 0, 0, 0.1); width: max-content; min-width: 300px; max-width: calc(100vw - 60px); text-align: left;">
+        <button onclick="copyBib(this)" style="position: absolute; top: 6px; right: 6px; background: #f1f5f9; border: 1px solid #cbd5e1; padding: 2px 6px; border-radius: 4px; font-size: 0.75em; cursor: pointer; color: #475569; font-weight: bold; transition: all 0.2s;">Copy</button>
+        <pre style="margin: 0; font-size: 0.8em; font-family: monospace; color: #334155; white-space: pre-wrap; word-break: break-all; padding-top: 15px;">{{ paper.bib }}</pre>
+      </div>
     </div>
-    
+
   </div>
 </div>
 {% endfor %}

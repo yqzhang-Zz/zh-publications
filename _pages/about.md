@@ -26,6 +26,35 @@ redirect_from:
   <div style="flex-grow: 1; height: 2px; background-color: #4a4a4a;"></div>
 </div>
 
+{% for paper in site.data.journal_papers %}
+<div class="paper-item">
+  <div class="paper-id">[{{ paper.id }}]</div>
+  <div class="paper-info">
+    
+    <div><span class="paper-badge">{{ paper.venue }}</span> {{ paper.title }}</div>
+    
+    <div style="margin: 4px 0;">{{ paper.authors }}</div>
+    
+    <div class="paper-meta">
+      SCI {{ site.data.journal_meta[paper.journal_key].cas }} | IF: {{ site.data.journal_meta[paper.journal_key].if }} {% if paper.tag %}| {{ paper.tag }} |{% endif %}
+    </div>
+    
+    <div class="paper-actions">
+      <a href="{{ paper.link }}" target="_blank" class="btn-action"><i class="fas fa-file-pdf" style="margin-right:4px;"></i> Paper</a>
+      
+      <details class="bib-details">
+        <summary class="btn-action"><i class="fas fa-quote-right" style="margin-right:4px;"></i> Bib</summary>
+        <div class="bib-box">
+          <button class="btn-copy" onclick="copyBib(this)">Copy</button>
+          <pre class="bib-pre">{{ paper.bib }}</pre>
+        </div>
+      </details>
+    </div>
+    
+  </div>
+</div>
+{% endfor %}
+
 <!-- J027 TETCI 2026 Bridge the Gaps Xinxi Chen -->
 
 <div style="display: flex; margin-bottom: 1.5em; text-align: left;">

@@ -8,6 +8,118 @@ redirect_from:
   - /about.html
 ---
 
+<style>
+/* ================= 论文列表全局统一样式 ================= */
+.paper-item {
+  display: flex;
+  margin-bottom: 2em; /* 保证论文之间有充足呼吸感 */
+  text-align: left;
+}
+
+.paper-id {
+  flex: 0 0 3.8em;
+  color: #64748b;
+  font-weight: bold;
+  font-size: 1em;
+  padding-top: 2px;
+}
+
+.paper-info { flex: 1; }
+
+.paper-badge {
+  display: inline-block;
+  background-color: #0b5394;
+  color: #ffffff;
+  padding: 2px 8px;
+  border-radius: 4px;
+  font-weight: bold;
+  font-size: 0.85em;
+  margin-right: 8px;
+  vertical-align: middle;
+  line-height: 1.2;
+}
+
+.paper-meta {
+  color: #0b5394;
+  font-size: 0.9em;
+  font-weight: bold;
+  margin: 6px 0;
+}
+
+/* --- 操作按钮区（核心优化：彻底解决撑开不对齐问题） --- */
+.paper-actions {
+  display: flex;
+  gap: 8px; /* 按钮之间的间距 */
+  align-items: flex-start; /* 核心：保证 Paper 和 Bib 按钮永远顶部对齐 */
+}
+
+.btn-action {
+  display: inline-flex;
+  align-items: center;
+  color: #0b5394;
+  border: 1px solid #0b5394;
+  border-radius: 4px;
+  padding: 2px 8px;
+  text-decoration: none !important;
+  font-weight: bold;
+  font-size: 0.8em;
+  cursor: pointer;
+  user-select: none;
+  background: transparent;
+  transition: all 0.2s;
+}
+
+.btn-action:hover {
+  background-color: #0b5394;
+  color: #ffffff;
+}
+
+/* --- BibTeX 展开区域 --- */
+.bib-details summary { list-style: none; }
+.bib-details summary::-webkit-details-marker { display: none; } /* 隐藏默认小箭头 */
+
+.bib-box {
+  position: relative;
+  margin-top: 8px;
+  width: 100%;
+  max-width: 650px; /* 防止代码块过长 */
+}
+
+.bib-pre {
+  background: #f8fafc;
+  border: 1px solid #e2e8f0;
+  border-radius: 6px;
+  padding: 12px 12px 12px 15px;
+  font-size: 0.85em;
+  font-family: monospace;
+  color: #334155;
+  white-space: pre-wrap;
+  word-break: break-all;
+  margin: 0;
+}
+
+/* 一键复制按钮样式 */
+.btn-copy {
+  position: absolute;
+  top: 6px;
+  right: 6px;
+  background: #e2e8f0;
+  border: none;
+  padding: 4px 8px;
+  border-radius: 4px;
+  font-size: 0.8em;
+  cursor: pointer;
+  color: #475569;
+  font-weight: bold;
+  transition: all 0.2s;
+}
+.btn-copy:hover {
+  background: #cbd5e1;
+  color: #0f172a;
+}
+<style>
+
+
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
 {% else %}
@@ -28,6 +140,37 @@ redirect_from:
 
 <!-- J027 TETCI 2026 Bridge the Gaps Xinxi Chen -->
 
+<div class="paper-item">
+  <div class="paper-id">[J027]</div>
+  <div class="paper-info">
+    
+    <div><span class="paper-badge">TETCI'26</span> Bridge the Gaps: Heterogeneous Attributed Graph Clustering via Quaternion Representation Learning</div>
+    
+    <div style="margin: 4px 0;">Xinxi Chen, Junyang Chen, <strong>Yiqun Zhang</strong><sup>&#x2709;</sup>, Chuangming Qiu and Xiang Zhang</div>
+    
+    <div class="paper-meta">JCR {{ site.data.journals.TETCI.jcr }} | IF: {{ site.data.journals.TETCI.if }} | Undergraduate Research |</div>
+    
+    <div class="paper-actions">
+      <a href="#" target="_blank" class="btn-action"><i class="fas fa-file-pdf" style="margin-right:4px;"></i> Paper</a>
+      
+      <details class="bib-details">
+        <summary class="btn-action"><i class="fas fa-quote-right" style="margin-right:4px;"></i> Bib</summary>
+        <div class="bib-box">
+          <button class="btn-copy" onclick="copyBib(this)">Copy</button>
+          <pre class="bib-pre">@article{chen2026bridge,
+  author = {Chen, Xinxi and Chen, Junyang and Zhang, Yiqun and Qiu, Chuangming and Zhang, Xiang},
+  title = {Bridge the Gaps: Heterogeneous Attributed Graph Clustering via Quaternion Representation Learning},
+  journal = {IEEE Transactions on Emerging Topics in Computational Intelligence},
+  year = {2026}
+}</pre>
+        </div>
+      </details>
+    </div>
+
+  </div>
+</div>
+
+ 
 <div style="display: flex; margin-bottom: 1.5em; text-align: left;">
   <div style="flex: 0 0 3.6em; color: #64748b; font-weight: bold; font-size: 1em; padding-top: 2px;">[J027]</div>
   <div style="flex: 1;">

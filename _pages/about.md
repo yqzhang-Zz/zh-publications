@@ -102,20 +102,31 @@ redirect_from:
   <div style="flex-grow: 1; height: 2px; background-color: #4a4a4a;"></div>
 </div>
 
+
 {% for conf in site.data.conference_papers %}
 <div style="display: flex; margin-bottom: 1.5em; text-align: left;">
   
   <div style="flex: 0 0 3.6em; color: #64748b; font-weight: bold; font-size: 1em; padding-top: 2px;">[{{ conf.id }}]</div>
   
   <div style="flex: 1;">
+    
     <div>
-      <span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 8px; vertical-align: middle; line-height: 1.2;">{{ conf.venue }}</span> {{ conf.title }}
+      <span title="{{ site.data.conference_meta[conf.conf_key].full_name }}" style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 8px; vertical-align: middle; line-height: 1.2; cursor: help;">{{ conf.venue }}</span> 
+      {{ conf.title }}
     </div>
+    
     <div style="margin: 4px 0;">{{ conf.authors }}</div>
     
     <div style="margin-top: 4px;">
+      
+      {% assign meta_parts = "" %}
+      
+      {% if conf.tag != "" and conf.tag != nil %}
+        {% assign meta_parts = meta_parts | append: conf.tag %}
+      {% endif %}
+
       <span style="color: #0b5394; font-size: 0.9em; font-weight: bold; vertical-align: middle;">
-        {% if conf.tag and conf.tag != "" %}{{ conf.tag }} | {% endif %}
+        {% if meta_parts != "" %}{{ meta_parts }} | {% endif %}
       </span>
       
       <a href="{{ conf.link }}" target="_blank" style="color: #0b5394; border: 1px solid #0b5394; border-radius: 4px; padding: 1px 6px; text-decoration: none; font-weight: bold; font-size: 0.8em; white-space: nowrap; vertical-align: middle; margin-left: 2px;"><i class="fas fa-file-pdf"></i> Paper</a>
@@ -138,16 +149,19 @@ redirect_from:
     </div>
     
     <div id="bib-{{ conf.id }}" style="display: none; margin-top: 10px; position: relative; background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 6px; padding: 12px; width: 100%; max-width: 650px; box-sizing: border-box; overflow-x: auto;">
+      
       <div style="position: absolute; top: 6px; right: 6px; display: flex; gap: 6px; z-index: 10;">
         <button onclick="copyBib(this)" style="background: #ffffff; border: 1px solid #cbd5e1; padding: 2px 6px; border-radius: 4px; font-size: 0.75em; cursor: pointer; color: #475569; font-weight: bold; transition: all 0.2s;">Copy</button>
         <button onclick="toggleBib('{{ conf.id }}')" style="background: #ffffff; border: 1px solid #cbd5e1; padding: 2px 6px; border-radius: 4px; font-size: 0.75em; cursor: pointer; color: #475569; font-weight: bold; transition: all 0.2s;">Fold</button>
       </div>
+      
       <pre style="margin: 0; font-size: 0.85em; font-family: 'Fira Code', 'JetBrains Mono', 'Consolas', 'Monaco', monospace; line-height: 1.6; color: #334155; white-space: pre; padding-top: 20px; padding-left: 10px; padding-bottom: 10px;">{{ conf.bib }}</pre>
     </div>
 
   </div>
 </div>
 {% endfor %}
+
 
 <!-- A016 SIGKDD 2026 AnchorMoE Tao Xie -->
 <div style="display: flex; margin-bottom: 1.5em; text-align: left;">

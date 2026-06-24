@@ -30,20 +30,35 @@ redirect_from:
 <div style="display: flex; margin-bottom: 1.5em; text-align: left;">
   <div style="flex: 0 0 3.6em; color: #64748b; font-weight: bold; font-size: 1em; padding-top: 2px;">[{{ paper.id }}]</div>
   <div style="flex: 1;">
+    
+    <!-- 标题与作者 -->
     <span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 8px; vertical-align: middle; line-height: 1.2;">{{ paper.venue }}</span> {{ paper.title }}<br>
     {{ paper.authors }}<br>
     
-    <span style="color: #0b5394; font-size: 0.9em; font-weight: bold;">
-      JCR {{ site.data.journal_meta[paper.journal_key].jcr }} | IF: {{ site.data.journal_meta[paper.journal_key].if }} {% if paper.tag %}| {{ paper.tag }} {% endif %}| 
-    </span>
+    <!-- 属性标签与操作按钮同行显示 -->
+    <div style="margin-top: 4px;">
+      <span style="color: #0b5394; font-size: 0.9em; font-weight: bold; vertical-align: middle;">
+        {% if site.data.journal_meta[paper.journal_key].jcr %}JCR {{ site.data.journal_meta[paper.journal_key].jcr }} | {% endif %}
+        {% if site.data.journal_meta[paper.journal_key].if %}IF: {{ site.data.journal_meta[paper.journal_key].if }}{% endif %}
+        {% if paper.tag %} | {{ paper.tag }}{% endif %}
+      </span>
+      
+      <!-- Paper 按钮 -->
+      <a href="{{ paper.link }}" target="_blank" style="color: #0b5394; border: 1px solid #0b5394; border-radius: 4px; padding: 1px 6px; text-decoration: none; font-weight: bold; font-size: 0.8em; white-space: nowrap; vertical-align: middle; margin-left: 8px;"><i class="fas fa-file-pdf"></i> Paper</a>
+      
+      <!-- Code 按钮 (按需自动生成) -->
+      {% if paper.code %}
+      <a href="{{ paper.code }}" target="_blank" style="color: #0b5394; border: 1px solid #0b5394; border-radius: 4px; padding: 1px 6px; text-decoration: none; font-weight: bold; font-size: 0.8em; white-space: nowrap; vertical-align: middle; margin-left: 6px;"><i class="fas fa-code"></i> Code</a>
+      {% endif %}
+      
+      <!-- Bib 触发按钮 -->
+      <button onclick="toggleBib('{{ paper.id }}')" style="color: #0b5394; background: none; border: 1px solid #0b5394; border-radius: 4px; padding: 1px 6px; font-weight: bold; font-size: 0.8em; white-space: nowrap; cursor: pointer; display: inline-block; font-family: inherit; vertical-align: middle; margin-left: 6px;"><i class="fas fa-quote-right"></i> Bib</button>
+    </div>
     
-    <a href="{{ paper.link }}" target="_blank" style="color: #0b5394; border: 1px solid #0b5394; border-radius: 4px; padding: 1px 6px; text-decoration: none; font-weight: bold; font-size: 0.8em; white-space: nowrap; vertical-align: middle;"><i class="fas fa-file-pdf"></i> Paper</a>
-    
-    <button onclick="toggleBib('{{ paper.id }}')" style="color: #0b5394; background: none; border: 1px solid #0b5394; border-radius: 4px; padding: 1px 6px; font-weight: bold; font-size: 0.8em; white-space: nowrap; cursor: pointer; display: inline-block; font-family: inherit; vertical-align: middle; margin-left: 6px;"><i class="fas fa-quote-right"></i> Bib</button>
-    
+    <!-- 高级感代码框：自带悬挂缩进与极客字体 -->
     <div id="bib-{{ paper.id }}" style="display: none; margin-top: 10px; position: relative; background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 6px; padding: 12px; width: 100%; max-width: 650px; box-sizing: border-box;">
-      <button onclick="copyBib(this)" style="position: absolute; top: 6px; right: 6px; background: #ffffff; border: 1px solid #cbd5e1; padding: 2px 6px; border-radius: 4px; font-size: 0.75em; cursor: pointer; color: #475569; font-weight: bold; transition: all 0.2s;">Copy</button>
-      <pre style="margin: 0; font-size: 0.85em; font-family: monospace; color: #334155; white-space: pre-wrap; word-break: break-all; padding-top: 12px;">{{ paper.bib }}</pre>
+      <button onclick="copyBib(this)" style="position: absolute; top: 6px; right: 6px; background: #ffffff; border: 1px solid #cbd5e1; padding: 2px 6px; border-radius: 4px; font-size: 0.75em; cursor: pointer; color: #475569; font-weight: bold; transition: all 0.2s; z-index: 10;">Copy</button>
+      <pre style="margin: 0; font-size: 0.85em; font-family: 'Fira Code', 'JetBrains Mono', 'Consolas', 'Monaco', monospace; line-height: 1.6; color: #334155; white-space: pre-wrap; word-break: break-word; padding-top: 20px; padding-left: 20px; text-indent: -20px;">{{ paper.bib }}</pre>
     </div>
 
   </div>
@@ -945,19 +960,13 @@ Note: This list exclusively features publications that are either written in Eng
 // 控制排版下推展开与收起
 function toggleBib(id) {
   const el = document.getElementById('bib-' + id);
-  if (el.style.display === 'none' || el.style.display === '') {
-    el.style.display = 'block';
-  } else {
-    el.style.display = 'none';
-  }
+  el.style.display = (el.style.display === 'none' || el.style.display === '') ? 'block' : 'none';
 }
-
+  
 // 一键精准复制
 function copyBib(copyBtn) {
   const preElement = copyBtn.nextElementSibling;
-  
   navigator.clipboard.writeText(preElement.innerText).then(() => {
-    // 成功状态反馈
     copyBtn.innerText = 'Copied!';
     copyBtn.style.backgroundColor = '#dcfce3';
     copyBtn.style.borderColor = '#22c55e';

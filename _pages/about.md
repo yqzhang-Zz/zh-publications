@@ -28,30 +28,46 @@ redirect_from:
 
 {% for paper in site.data.journal_papers %}
 <div style="display: flex; margin-bottom: 1.5em; text-align: left;">
+  
   <div style="flex: 0 0 3.6em; color: #64748b; font-weight: bold; font-size: 1em; padding-top: 2px;">[{{ paper.id }}]</div>
+  
   <div style="flex: 1;">
     
-    <!-- 标题与作者 -->
-    <span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 8px; vertical-align: middle; line-height: 1.2;">{{ paper.venue }}</span> {{ paper.title }}<br>
-    {{ paper.authors }}<br>
+    <div>
+      <span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 8px; vertical-align: middle; line-height: 1.2;">{{ paper.venue }}</span> 
+      {{ paper.title }}
+    </div>
     
-    <!-- 属性标签与操作按钮同行显示 -->
+    <div style="margin: 4px 0;">{{ paper.authors }}</div>
+    
     <div style="margin-top: 4px;">
+      
+      {% assign meta_parts = "" %}
+      
+      {% if site.data.journal_meta[paper.journal_key].jcr %}
+        {% assign meta_parts = meta_parts | append: "JCR " | append: site.data.journal_meta[paper.journal_key].jcr %}
+      {% endif %}
+      
+      {% if site.data.journal_meta[paper.journal_key].if %}
+        {% if meta_parts != "" %}{% assign meta_parts = meta_parts | append: " | " %}{% endif %}
+        {% assign meta_parts = meta_parts | append: "IF: " | append: site.data.journal_meta[paper.journal_key].if %}
+      {% endif %}
+      
+      {% if paper.tag != "" and paper.tag != nil %}
+        {% if meta_parts != "" %}{% assign meta_parts = meta_parts | append: " | " %}{% endif %}
+        {% assign meta_parts = meta_parts | append: paper.tag %}
+      {% endif %}
+
       <span style="color: #0b5394; font-size: 0.9em; font-weight: bold; vertical-align: middle;">
-        {% if site.data.journal_meta[paper.journal_key].jcr %}JCR {{ site.data.journal_meta[paper.journal_key].jcr }} | {% endif %}
-        {% if site.data.journal_meta[paper.journal_key].if %}IF: {{ site.data.journal_meta[paper.journal_key].if }} | {% endif %}
-        {% if paper.tag %}{{ paper.tag }} | {% endif %}
+        {% if meta_parts != "" %}{{ meta_parts }} | {% endif %}
       </span>
       
-      <!-- Paper 按钮 -->
       <a href="{{ paper.link }}" target="_blank" style="color: #0b5394; border: 1px solid #0b5394; border-radius: 4px; padding: 1px 6px; text-decoration: none; font-weight: bold; font-size: 0.8em; white-space: nowrap; vertical-align: middle; margin-left: 2px;"><i class="fas fa-file-pdf"></i> Paper</a>
       
-      <!-- 中文版 按钮 (专为 J022 等定制) -->
       {% if paper.link_cn %}
       <a href="{{ paper.link_cn }}" target="_blank" style="color: #0b5394; border: 1px solid #0b5394; border-radius: 4px; padding: 1px 6px; text-decoration: none; font-weight: bold; font-size: 0.8em; white-space: nowrap; vertical-align: middle; margin-left: 6px;"><i class="fas fa-language"></i> 中文版</a>
       {% endif %}
 
-      <!-- Code 按钮 (自动判断图标: github vs archive) -->
       {% if paper.code %}
       <a href="{{ paper.code }}" target="_blank" style="color: #0b5394; border: 1px solid #0b5394; border-radius: 4px; padding: 1px 6px; text-decoration: none; font-weight: bold; font-size: 0.8em; white-space: nowrap; vertical-align: middle; margin-left: 6px;">
         {% if paper.code contains 'github.com' %}
@@ -62,13 +78,16 @@ redirect_from:
       </a>
       {% endif %}
       
-      <!-- Bib 触发按钮 -->
       <button onclick="toggleBib('{{ paper.id }}')" style="color: #0b5394; background: none; border: 1px solid #0b5394; border-radius: 4px; padding: 1px 6px; font-weight: bold; font-size: 0.8em; white-space: nowrap; cursor: pointer; display: inline-block; font-family: inherit; vertical-align: middle; margin-left: 6px;"><i class="fas fa-quote-right"></i> Bib</button>
     </div>
     
-    <!-- 原生水平滚动的纯正代码框 -->
     <div id="bib-{{ paper.id }}" style="display: none; margin-top: 10px; position: relative; background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 6px; padding: 12px; width: 100%; max-width: 650px; box-sizing: border-box; overflow-x: auto;">
-      <button onclick="copyBib(this)" style="position: absolute; top: 6px; right: 6px; background: #ffffff; border: 1px solid #cbd5e1; padding: 2px 6px; border-radius: 4px; font-size: 0.75em; cursor: pointer; color: #475569; font-weight: bold; transition: all 0.2s; z-index: 10;">Copy</button>
+      
+      <div style="position: absolute; top: 6px; right: 6px; display: flex; gap: 6px; z-index: 10;">
+        <button onclick="copyBib(this)" style="background: #ffffff; border: 1px solid #cbd5e1; padding: 2px 6px; border-radius: 4px; font-size: 0.75em; cursor: pointer; color: #475569; font-weight: bold; transition: all 0.2s;">Copy</button>
+        <button onclick="toggleBib('{{ paper.id }}')" style="background: #ffffff; border: 1px solid #cbd5e1; padding: 2px 6px; border-radius: 4px; font-size: 0.75em; cursor: pointer; color: #475569; font-weight: bold; transition: all 0.2s;">Close</button>
+      </div>
+      
       <pre style="margin: 0; font-size: 0.85em; font-family: 'Fira Code', 'JetBrains Mono', 'Consolas', 'Monaco', monospace; line-height: 1.6; color: #334155; white-space: pre; padding-top: 20px; padding-left: 10px; padding-bottom: 10px;">{{ paper.bib }}</pre>
     </div>
 

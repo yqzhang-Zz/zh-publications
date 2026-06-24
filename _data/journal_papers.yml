@@ -19,12 +19,12 @@
   venue: "TMM'26"
   journal_key: "TMM"
   title: "Classifying Long-tailed and Label-noise Data via Disentangling and Unlearning"
-  authors: "Shu Chen, Xiaoyun Xia, Mengke Li, Yiqun Zhang, Yang Lu<sup>&#x2709;</sup> and Yiu-ming Cheung"
+  authors: "Shu Chen, Xiaoyun Xia, Mengke Li, <strong>Yiqun Zhang</strong>, Yang Lu<sup>&#x2709;</sup> and Yiu-ming Cheung"
   tag: ""
   link: "#"
   bib: |-
     @article{chen2026classifying,
-      author = {Chen, Shu and Xia, Xiaoyun and Li, Mengke and Zhang, Yiqun Ext and Lu, Yang and Cheung, Yiu-ming},
+      author = {Chen, Shu and Xia, Xiaoyun and Li, Mengke and Zhang, Yiqun and Lu, Yang and Cheung, Yiu-ming},
       title = {Classifying Long-tailed and Label-noise Data via Disentangling and Unlearning},
       journal = {IEEE Transactions on Multimedia},
       year = {2026}
@@ -36,10 +36,10 @@
   title: "How to Ask the AI: A User Perspective Survey for Large Language Model Prompting"
   authors: "<strong>Yiqun Zhang</strong>, Yunfan Zhang, Mingjie Zhao, Sen Feng and Yiu-ming Cheung<sup>&#x2709;</sup>"
   tag: "Survey Paper"
-  link: "#"
+  link: "https://ieeexplore.ieee.org/abstract/document/11199892"
   bib: |-
     @article{zhang2026how,
-      author = {Zhang, Yiqun and Zhang, Yunfan and Zhao, Mingjie Caps and Feng, Sen and Cheung, Yiu-ming},
+      author = {Zhang, Yiqun and Zhang, Yunfan and Zhao, Mingjie and Feng, Sen and Cheung, Yiu-ming},
       title = {How to Ask the AI: A User Perspective Survey for Large Language Model Prompting},
       journal = {IEEE Transactions on Artificial Intelligence},
       year = {2026}
@@ -49,9 +49,9 @@
   venue: "TMM'26"
   journal_key: "TMM"
   title: "NIDC: General Task Backbone for Neuroimaging Analysis via Interpretable Deep Clustering"
-  authors: "Jiayu Ye, An Zeng<sup>&#x2709;</sup>, Dan Pan, Junhao Chen, Jingliang Zhao, Yiqun Zhang and Yang Liu"
-  tag: "PhD Research"
-  link: "#"
+  authors: "Jiayu Ye, An Zeng<sup>&#x2709;</sup>, Dan Pan, Junhao Chen, Jingliang Zhao, <strong>Yiqun Zhang</strong> and Yang Liu"
+  tag: ""
+  link: "https://ieeexplore.ieee.org/abstract/document/11353921"
   bib: |-
     @article{ye2026nidc,
       author = {Ye, Jiayu and Zeng, An and Pan, Dan and Chen, Junhao and Zhao, Jingliang and Zhang, Yiqun and Liu, Yang},
@@ -66,7 +66,7 @@
   title: "One-Shot Federated Clustering of Non-Independent Completely Distributed Data"
   authors: "<strong>Yiqun Zhang</strong>, Shenghong Cai, Zihua Yang, Sen Feng, Yuzhu Ji<sup>&#x2709;</sup> and Haijun Zhang"
   tag: ""
-  link: "#"
+  link: "https://arxiv.org/abs/2601.17512"
   bib: |-
     @article{zhang2026oneshot,
       author = {Zhang, Yiqun and Cai, Shenghong and Yang, Zihua and Feng, Sen and Ji, Yuzhu and Zhang, Haijun},
@@ -81,7 +81,8 @@
   title: "Trending Applications of Large Language Models: A User Perspective Survey"
   authors: "<strong>Yiqun Zhang</strong>, Mingjie Zhao, Yunfan Zhang and Yiu-ming Cheung<sup>&#x2709;</sup>"
   tag: "Survey Paper"
-  link: "#"
+  link: "https://ieeexplore.ieee.org/abstract/document/11199892"
+  link_cn: "papers/TAI-LLM-Survey1-Chinese-Version.pdf"
   bib: |-
     @article{zhang2026trending,
       author = {Zhang, Yiqun and Zhao, Mingjie and Zhang, Yunfan and Cheung, Yiu-ming},
@@ -96,8 +97,8 @@
   title: "Hierarchical Reference Sets for Robust Unsupervised Detection of Scattered and Clustered Outliers"
   authors: "<strong>Yiqun Zhang</strong>, Zexi Tan, Xiaopeng Luo<sup>&#x2709;</sup> and Yunlin Liu"
   tag: ""
-  link: "#"
-  code: "#"
+  link: "https://arxiv.org/abs/2603.12847"
+  code: "https://github.com/gordonlok/DROD"
   bib: |-
     @article{zhang2026hierarchical,
       author = {Zhang, Yiqun and Tan, Zexi and Luo, Xiaopeng and Liu, Yunlin},
@@ -112,8 +113,8 @@
   title: "Learning Unbiased Cluster Descriptors for Interpretable Imbalanced Concept Drift Detection"
   authors: "<strong>Yiqun Zhang</strong>, Zhanpei Huang, Mingjie Zhao, Chuyao Zhang, Yang Lu, Yuzhu Ji<sup>&#x2709;</sup>, Fangqing Gu and An Zeng"
   tag: ""
-  link: "#"
-  code: "#"
+  link: "https://arxiv.org/abs/2603.06757"
+  code: "papers/ICD3_Code.zip"
   bib: |-
     @article{zhang2026learning,
       author = {Zhang, Yiqun and Huang, Zhanpei and Zhao, Mingjie and Zhang, Chuyao and Lu, Yang and Ji, Yuzhu and Gu, Fangqing and Zeng, An},
@@ -128,7 +129,7 @@
   title: "Online Heterogeneous Feature Selection"
   authors: "<strong>Yiqun Zhang</strong>, Xinxi Chen, Lang Zhao, Yuzhu Ji, Peng Liu and Yiu-ming Cheung<sup>&#x2709;</sup>"
   tag: ""
-  link: "#"
+  link: "https://ieeexplore.ieee.org/abstract/document/11274409"
   bib: |-
     @article{zhang2025online,
       author = {Zhang, Yiqun and Chen, Xinxi and Zhao, Lang and Ji, Yuzhu and Liu, Peng and Cheung, Yiu-ming},
@@ -143,11 +144,11 @@
   title: "Learning Self-Growth Maps for Fast and Accurate Imbalanced Streaming Data Clustering"
   authors: "<strong>Yiqun Zhang</strong>, Sen Feng, Pengkai Wang, Zexi Tan, Xiaopeng Luo, Yuzhu Ji, Rong Zou and Yiu-ming Cheung<sup>&#x2709;</sup>"
   tag: "ESI Highly Cited Paper"
-  link: "#"
-  code: "#"
+  link: "https://www.comp.hkbu.edu.hk/~ymc/papers/journal/TNNLS-2025-3563769.pdf"
+  code: "https://www.comp.hkbu.edu.hk/~ymc/papers/journal/Source_code/TNNLS-2025-3563769-code.zip"
   bib: |-
     @article{zhang2025learning,
-      author = {Zhang, Yiqun and Feng, Sen and Wang, Pengkai and Tan, Zexi and Luo, Xiaopeng and Ji, Yuzhu bit and Zou, Rong and Cheung, Yiu-ming},
+      author = {Zhang, Yiqun and Feng, Sen and Wang, Pengkai and Tan, Zexi and Luo, Xiaopeng and Ji, Yuzhu and Zou, Rong and Cheung, Yiu-ming},
       title = {Learning Self-Growth Maps for Fast and Accurate Imbalanced Streaming Data Clustering},
       journal = {IEEE Transactions on Neural Networks and Learning Systems},
       year = {2025}
@@ -157,9 +158,9 @@
   venue: "TIP'25"
   journal_key: "TIP"
   title: "CmdVIT: A Voluntary Facial Expression Recognition Model for Complex Mental Disorders"
-  authors: "Jiayu Ye, Yanhong Yu, Qingxiang Wang, Guolong Liu, Wentao Li, An Zeng<sup>&#x2709;</sup>, Yiqun Zhang, Yang Liu and Yunshao Zheng"
-  tag: "PhD Research"
-  link: "#"
+  authors: "Jiayu Ye, Yanhong Yu, Qingxiang Wang, Guolong Liu, Wentao Li, An Zeng<sup>&#x2709;</sup>, <strong>Yiqun Zhang</strong>, Yang Liu and Yunshao Zheng"
+  tag: ""
+  link: "https://ieeexplore.ieee.org/abstract/document/11003429"
   bib: |-
     @article{ye2025cmdvit,
       author = {Ye, Jiayu and Yu, Yanhong and Wang, Qingxiang and Liu, Guolong and Li, Wentao and Zeng, An and Zhang, Yiqun and Liu, Yang and Zheng, Yunshao},
@@ -174,10 +175,10 @@
   title: "SMACNet: A Unified Framework for One-shot Talking Head Synthesis via Subtle Motion and Appearance Compensation"
   authors: "Yuzhu Ji, Wei Hu, Guoji Gan, Zhiquan Long, <strong>Yiqun Zhang</strong><sup>&#x2709;</sup>, An Zeng and Haijun Zhang"
   tag: ""
-  link: "#"
+  link: "https://ieeexplore.ieee.org/abstract/document/11114961"
   bib: |-
     @article{ji2025smacnet,
-      author = {Ji, Yuzhu and Hu, Wei bit and Gan, Guoji and Long, Zhiquan and Zhang, Yiqun and Zeng, An and Zhang, Haijun},
+      author = {Ji, Yuzhu and Hu, Wei and Gan, Guoji and Long, Zhiquan and Zhang, Yiqun and Zeng, An and Zhang, Haijun},
       title = {SMACNet: A Unified Framework for One-shot Talking Head Synthesis via Subtle Motion and Appearance Compensation},
       journal = {IEEE Transactions on Consumer Electronics},
       year = {2025}
@@ -188,8 +189,8 @@
   journal_key: "INS"
   title: "Federated Hierarchical Clustering with Automatic Selection of Optimal Cluster Numbers"
   authors: "Yue Zhang, Chuanlong Qiu, Xinfa Liao and <strong>Yiqun Zhang</strong><sup>&#x2709;</sup>"
-  tag: "Graduate Research"
-  link: "#"
+  tag: ""
+  link: "https://arxiv.org/abs/2603.12684"
   bib: |-
     @article{zhang2025federated,
       author = {Zhang, Yue and Qiu, Chuanlong and Liao, Xinfa and Zhang, Yiqun},
@@ -204,7 +205,7 @@
   title: "Learning Unified Distance Metric for Heterogeneous Attribute Data Clustering"
   authors: "<strong>Yiqun Zhang</strong>, Mingjie Zhao, Yizhou Chen, Yang Lu<sup>&#x2709;</sup> and Yiu-ming Cheung"
   tag: "ESI Highly Cited Paper"
-  link: "#"
+  link: "https://arxiv.org/abs/2603.04458"
   bib: |-
     @article{zhang2025learningunified,
       author = {Zhang, Yiqun and Zhao, Mingjie and Chen, Yizhou and Lu, Yang and Cheung, Yiu-ming},
@@ -218,8 +219,8 @@
   journal_key: "NEUCOM"
   title: "SDENK: Unbiased Subspace Density-k-Clustering"
   authors: "Rong Zou, Yunfan Zhang, Mingjie Zhao, Zexi Tan, <strong>Yiqun Zhang</strong><sup>&#x2709;</sup> and Yiu-ming Cheung"
-  tag: "PhD Research"
-  link: "#"
+  tag: ""
+  link: "https://www.sciencedirect.com/science/article/pii/S0925231225018971"
   bib: |-
     @article{zou2025sdenk,
       author = {Zou, Rong and Zhang, Yunfan and Zhao, Mingjie and Tan, Zexi and Zhang, Yiqun and Cheung, Yiu-ming},
@@ -234,7 +235,7 @@
   title: "Adaptive Micro Partition and Hierarchical Merging for Accurate Mixed Data Clustering"
   authors: "Yunfan Zhang, Rong Zou, <strong>Yiqun Zhang</strong><sup>&#x2709;</sup>, Yue Zhang, Yiu-ming Cheung and Kangshun Li"
   tag: "Undergraduate Research"
-  link: "#"
+  link: "https://link.springer.com/article/10.1007/s40747-024-01695-7"
   bib: |-
     @article{zhang2025adaptive,
       author = {Zhang, Yunfan and Zou, Rong and Zhang, Yiqun and Zhang, Yue and Cheung, Yiu-ming and Li, Kangshun},
@@ -248,8 +249,8 @@
   journal_key: "EXSY"
   title: "Towards Clustering of Incomplete Mixed-Attribute Data"
   authors: "Chuyao Zhang, Xinxi Chen, Zexi Tan, Fangqing Gu, Yuzhu Ji and <strong>Yiqun Zhang</strong><sup>&#x2709;</sup>"
-  tag: "Graduate Research"
-  link: "#"
+  tag: ""
+  link: "https://onlinelibrary.wiley.com/doi/full/10.1111/exsy.70074"
   bib: |-
     @article{zhang2025towards,
       author = {Zhang, Chuyao and Chen, Xinxi and Tan, Zexi and Gu, Fangqing and Ji, Yuzhu and Zhang, Yiqun},
@@ -264,7 +265,7 @@
   title: "Efficient Streaming Data Clustering Guided by Self-Refined Organizing Map"
   authors: "Mei Yin, Zexi Tan, Yunfan Zhang, <strong>Yiqun Zhang</strong><sup>&#x2709;</sup> and Yang Lu"
   tag: ""
-  link: "#"
+  link: "https://www.worldscientific.com/doi/abs/10.1142/S0219691325500274"
   bib: |-
     @article{yin2025efficient,
       author = {Yin, Mei and Tan, Zexi and Zhang, Yunfan and Zhang, Yiqun and Lu, Yang},
@@ -277,9 +278,9 @@
   venue: "TETCI'25"
   journal_key: "TETCI"
   title: "MssNet: An Efficient Spatial Attention Model for Early Recognition of Alzheimer’s Disease"
-  authors: "Jiayu Ye, Dan Pan, An Zeng<sup>&#x2709;</sup>, Yiqun Zhang, Qiuping Chen and Yang Liu"
-  tag: "PhD Research"
-  link: "#"
+  authors: "Jiayu Ye, Dan Pan, An Zeng<sup>&#x2709;</sup>, <strong>Yiqun Zhang</strong>, Qiuping Chen and Yang Liu"
+  tag: ""
+  link: "https://ieeexplore.ieee.org/abstract/document/10896617"
   bib: |-
     @article{ye2025mssnet,
       author = {Ye, Jiayu and Pan, Dan and Zeng, An and Zhang, Yiqun and Chen, Qiuping and Liu, Yang},
@@ -292,9 +293,9 @@
   venue: "JBHI'24"
   journal_key: "JBHI"
   title: "MAD-Former: A Traceable Interpretability Model for Alzheimer's Disease Recognition Based on Multi-Patch Attention"
-  authors: "Jiayu Ye, An Zeng<sup>&#x2709;</sup>, Dan Pan, Yiqun Zhang, Jingliang Zhao, Qiuping Chen and Yang Liu"
-  tag: "PhD Research"
-  link: "#"
+  authors: "Jiayu Ye, An Zeng<sup>&#x2709;</sup>, Dan Pan, <strong>Yiqun Zhang</strong>, Jingliang Zhao, Qiuping Chen and Yang Liu"
+  tag: ""
+  link: "https://ieeexplore.ieee.org/abstract/document/10460114"
   bib: |-
     @article{ye2024madformer,
       author = {Ye, Jiayu and Zeng, An and Pan, Dan and Zhang, Yiqun and Zhao, Jingliang and Chen, Qiuping and Liu, Yang},
@@ -309,8 +310,8 @@
   title: "Graph-based Dissimilarity Measurement for Cluster Analysis of Any-Type-Attributed Data"
   authors: "<strong>Yiqun Zhang</strong> and Yiu-ming Cheung<sup>&#x2709;</sup>"
   tag: ""
-  link: "#"
-  code: "#"
+  link: "https://ieeexplore.ieee.org/abstract/document/9887970"
+  code: "https://www.comp.hkbu.edu.hk/~ymc/papers/journal/Source_code/TNNLS-2022-3202700-code.zip"
   bib: |-
     @article{zhang2023graphbased,
       author = {Zhang, Yiqun and Cheung, Yiu-ming},
@@ -323,9 +324,9 @@
   venue: "TNNLS'23"
   journal_key: "TNNLS"
   title: "Allosteric Feature Collaboration for Model-Heterogeneous Federated Learning"
-  authors: "Baoyao Yang, Pong Chi Yuen<sup>&#x2709;</sup>, Yiqun Zhang and An Zeng"
+  authors: "Baoyao Yang, Pong Chi Yuen<sup>&#x2709;</sup>, <strong>Yiqun Zhang</strong> and An Zeng"
   tag: ""
-  link: "#"
+  link: "https://ieeexplore.ieee.org/abstract/document/10373104"
   bib: |-
     @article{yang2023allosteric,
       author = {Yang, Baoyao and Yuen, Pong Chi and Zhang, Yiqun and Zeng, An},
@@ -340,8 +341,8 @@
   title: "Learnable Weighting of Intra-attribute Distances for Categorical Data Clustering with Nominal and Ordinal Attributes"
   authors: "<strong>Yiqun Zhang</strong> and Yiu-ming Cheung<sup>&#x2709;</sup>"
   tag: ""
-  link: "#"
-  code: "#"
+  link: "https://www.comp.hkbu.edu.hk/~ymc/papers/journal/TPAMI-2021-3056510-publication-version.pdf"
+  code: "https://www.comp.hkbu.edu.hk/~ymc/papers/journal/Source_code/TPAMI-2021-3056510.zip"
   bib: |-
     @article{zhang2022learnable,
       author = {Zhang, Yiqun and Cheung, Yiu-ming},
@@ -356,7 +357,7 @@
   title: "A New Distance Metric Exploiting Heterogeneous Inter-Attribute Relationship for Ordinal-and-Nominal-Attribute Data Clustering"
   authors: "<strong>Yiqun Zhang</strong> and Yiu-ming Cheung<sup>&#x2709;</sup>"
   tag: ""
-  link: "#"
+  link: "https://www.comp.hkbu.edu.hk/~ymc/papers/journal/TCYB-2020-2983073.pdf"
   bib: |-
     @article{zhang2022new,
       author = {Zhang, Yiqun and Cheung, Yiu-ming},
@@ -369,9 +370,9 @@
   venue: "ISCLS'21"
   journal_key: "ISCLS"
   title: "Discovery of Genetic Biomarkers for Alzheimer’s Disease Using Adaptive Convolutional Neural Networks Ensemble and Genome-Wide Association Studies"
-  authors: "An Zeng, Huabin Rong, Dan Pan<sup>&#x2709;</sup>, Longfei Jia, Yiqun Zhang, Fengyi Zhao and Shaoliang Peng"
+  authors: "An Zeng, Huabin Rong, Dan Pan<sup>&#x2709;</sup>, Longfei Jia, <strong>Yiqun Zhang</strong>, Fengyi Zhao and Shaoliang Peng"
   tag: ""
-  link: "#"
+  link: "https://drive.google.com/file/d/1gmzfBbjG2oixYwcAwb73tClGIhnp2jC9/view"
   bib: |-
     @article{zeng2021discovery,
       author = {Zeng, An and Rong, Huabin and Pan, Dan and Jia, Longfei and Zhang, Yiqun and Zhao, Fengyi and Peng, Shaoliang},
@@ -386,8 +387,8 @@
   title: "A Unified Entropy-Based Distance Metric for Ordinal-and-Nominal-Attribute Data Clustering"
   authors: "<strong>Yiqun Zhang</strong>, Yiu-ming Cheung<sup>&#x2709;</sup> and Kay Chen Tan"
   tag: "IEEE CIS (HK) Competition’20 Best Paper Award"
-  link: "#"
-  code: "#"
+  link: "https://www.comp.hkbu.edu.hk/~ymc/papers/journal/TNNLS-2019-2899381.pdf"
+  code: "https://www.comp.hkbu.edu.hk/~ymc/papers/journal/Source_code/TNNLS-2018-P-9663_Source_Code.zip"
   bib: |-
     @article{zhang2020unified,
       author = {Zhang, Yiqun and Cheung, Yiu-ming and Tan, Kay Chen},
@@ -402,8 +403,8 @@
   title: "Fast and Accurate Hierarchical Clustering based on Growing Multilayer Topology Training"
   authors: "Yiu-ming Cheung<sup>&#x2709;</sup> and <strong>Yiqun Zhang</strong>"
   tag: ""
-  link: "#"
-  code: "#"
+  link: "https://www.comp.hkbu.edu.hk/~ymc/papers/journal/10.1109TNNLS.2018.2853407_publication_version.pdf"
+  code: "https://www.comp.hkbu.edu.hk/~ymc/papers/journal/Source_code/TNNLS-2017-P-7777_Source_Code.zip"
   bib: |-
     @article{cheung2019fast,
       author = {Cheung, Yiu-ming and Zhang, Yiqun},

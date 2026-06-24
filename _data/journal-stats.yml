@@ -1,4 +1,4 @@
-# _data/journals.yml
+# _data/journal-stats.yml
 
 TNNLS:
   if: "9.7"

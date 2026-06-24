@@ -1,5 +1,4 @@
 # _data/conference_meta.yml
-# 采用标准块级排版，确保 Jekyll 编译零错误，并支持前端悬停显示全称
 
 # --- CCF-A ---
 SIGKDD:

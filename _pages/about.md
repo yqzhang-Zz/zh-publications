@@ -39,13 +39,11 @@ redirect_from:
     
     <a href="{{ paper.link }}" target="_blank" style="color: #0b5394; border: 1px solid #0b5394; border-radius: 4px; padding: 1px 6px; text-decoration: none; font-weight: bold; font-size: 0.8em; white-space: nowrap; vertical-align: middle;"><i class="fas fa-file-pdf"></i> Paper</a>
     
-    <div class="bib-container" style="display: inline-block; position: relative; margin-left: 6px; vertical-align: middle;">
-      <button onclick="toggleBib(this)" style="color: #0b5394; background: none; border: 1px solid #0b5394; border-radius: 4px; padding: 1px 6px; font-weight: bold; font-size: 0.8em; white-space: nowrap; cursor: pointer; display: inline-block; font-family: inherit;"><i class="fas fa-quote-right"></i> Bib</button>
-      
-      <div class="bib-dropdown" style="display: none; position: absolute; left: 0; top: calc(100% + 6px); z-index: 100; background: #ffffff; border: 1px solid #cbd5e1; border-radius: 6px; padding: 12px; box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -4px rgba(0, 0, 0, 0.1); width: max-content; min-width: 300px; max-width: calc(100vw - 60px); text-align: left;">
-        <button onclick="copyBib(this)" style="position: absolute; top: 6px; right: 6px; background: #f1f5f9; border: 1px solid #cbd5e1; padding: 2px 6px; border-radius: 4px; font-size: 0.75em; cursor: pointer; color: #475569; font-weight: bold; transition: all 0.2s;">Copy</button>
-        <pre style="margin: 0; font-size: 0.8em; font-family: monospace; color: #334155; white-space: pre-wrap; word-break: break-all; padding-top: 15px;">{{ paper.bib }}</pre>
-      </div>
+    <button onclick="toggleBib('{{ paper.id }}')" style="color: #0b5394; background: none; border: 1px solid #0b5394; border-radius: 4px; padding: 1px 6px; font-weight: bold; font-size: 0.8em; white-space: nowrap; cursor: pointer; display: inline-block; font-family: inherit; vertical-align: middle; margin-left: 6px;"><i class="fas fa-quote-right"></i> Bib</button>
+    
+    <div id="bib-{{ paper.id }}" style="display: none; margin-top: 10px; position: relative; background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 6px; padding: 12px; width: 100%; max-width: 650px; box-sizing: border-box;">
+      <button onclick="copyBib(this)" style="position: absolute; top: 6px; right: 6px; background: #ffffff; border: 1px solid #cbd5e1; padding: 2px 6px; border-radius: 4px; font-size: 0.75em; cursor: pointer; color: #475569; font-weight: bold; transition: all 0.2s;">Copy</button>
+      <pre style="margin: 0; font-size: 0.85em; font-family: monospace; color: #334155; white-space: pre-wrap; word-break: break-all; padding-top: 12px;">{{ paper.bib }}</pre>
     </div>
 
   </div>
@@ -944,32 +942,27 @@ Note: This list exclusively features publications that are either written in Eng
 <br>
 
 <script>
-// 控制面板展开与收起
-function toggleBib(btn) {
-  const currentDropdown = btn.nextElementSibling;
-  
-  // 切换当前菜单状态
-  if (currentDropdown.style.display === 'none' || currentDropdown.style.display === '') {
-    // 先关闭其他所有打开的 Bib 框，避免互相遮挡
-    document.querySelectorAll('.bib-dropdown').forEach(el => el.style.display = 'none');
-    currentDropdown.style.display = 'block';
+// 控制排版下推展开与收起
+function toggleBib(id) {
+  const el = document.getElementById('bib-' + id);
+  if (el.style.display === 'none' || el.style.display === '') {
+    el.style.display = 'block';
   } else {
-    currentDropdown.style.display = 'none';
+    el.style.display = 'none';
   }
 }
 
-// 一键复制功能
+// 一键精准复制
 function copyBib(copyBtn) {
   const preElement = copyBtn.nextElementSibling;
   
   navigator.clipboard.writeText(preElement.innerText).then(() => {
-    // 成功反馈
+    // 成功状态反馈
     copyBtn.innerText = 'Copied!';
-    copyBtn.style.backgroundColor = '#dcfce3'; // 柔和绿
+    copyBtn.style.backgroundColor = '#dcfce3';
     copyBtn.style.borderColor = '#22c55e';
     copyBtn.style.color = '#166534';
     
-    // 1.5秒后自动复原
     setTimeout(() => {
       copyBtn.innerText = 'Copy';
       copyBtn.style.backgroundColor = '';
@@ -978,13 +971,6 @@ function copyBib(copyBtn) {
     }, 1500);
   });
 }
-
-// 点击空白处自动收起下拉菜单
-document.addEventListener('click', function(e) {
-  if (!e.target.closest('.bib-container')) {
-    document.querySelectorAll('.bib-dropdown').forEach(el => el.style.display = 'none');
-  }
-});
 </script>
 
 <br>

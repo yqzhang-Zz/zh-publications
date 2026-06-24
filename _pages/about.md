@@ -27,6 +27,16 @@ redirect_from:
 </div>
 
 <!-- J027 TETCI 2026 Bridge the Gaps Xinxi Chen -->
+
+<div style="display: flex; margin-bottom: 1.5em; text-align: left;">
+  <div style="flex: 0 0 3.6em; color: #64748b; font-weight: bold; font-size: 1em; padding-top: 2px;">[J027]</div>
+  <div style="flex: 1;">
+    <span style="display: inline-block; background-color: #0b5394; color: #ffffff; padding: 2px 8px; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-right: 8px; vertical-align: middle; line-height: 1.2;">TETCI'26</span> Bridge the Gaps: Heterogeneous Attributed Graph Clustering via Quaternion Representation Learning<br>
+    Xinxi Chen, Junyang Chen, <strong>Yiqun Zhang</strong><sup>&#x2709;</sup>, Chuangming Qiu and Xiang Zhang<br>
+    <span style="color: #0b5394; font-size: 0.9em; font-weight: bold;">JCR {{ site.data.journals.TETCI.jcr }} | IF: {{ site.data.journals.TETCI.if }} | Undergraduate Research | </span><a href="#" target="_blank" style="color: #0b5394; border: 1px solid #0b5394; border-radius: 4px; padding: 1px 6px; text-decoration: none; font-weight: bold; font-size: 0.8em; white-space: nowrap;"><i class="fas fa-file-pdf"></i> Paper</a>
+  </div>
+</div>
+
 <div style="display: flex; margin-bottom: 1.5em; text-align: left;">
   <div style="flex: 0 0 3.6em; color: #64748b; font-weight: bold; font-size: 1em; padding-top: 2px;">[J027]</div>
   <div style="flex: 1;">

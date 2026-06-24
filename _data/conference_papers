@@ -1,0 +1,14 @@
+- id: "C065"
+  venue: "SIGKDD'26"
+  conf_key: "KDD"
+  title: "AnchorMoE: Interpretable Time Series Classification via Anchor-Routed MoE"
+  authors: "Tao Xie, Zexi Tan, Haoyi Xiao, Mengke Li, <strong>Yiqun Zhang</strong><sup>&#x2709;</sup>, Yang Lu, Cuie Yang and Yiu-ming Cheung"
+  tag: "Undergraduate Research"
+  link: "#"
+  bib: |-
+    @inproceedings{xie2026anchormoe,
+      author = {Xie, Tao and Tan, Zexi and Xiao, Haoyi and Li, Mengke and Zhang, Yiqun and Lu, Yang and Yang, Cuie and Cheung, Yiu-ming},
+      title = {AnchorMoE: Interpretable Time Series Classification via Anchor-Routed MoE},
+      booktitle = {Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining},
+      year = {2026}
+    }

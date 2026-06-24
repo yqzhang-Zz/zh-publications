@@ -119,15 +119,14 @@ redirect_from:
     <div style="margin-top: 4px;">
       
       {% assign meta_parts = "" %}
-      {% assign c_meta = site.data.conference_meta[conf.conf_key] %}
       
-      {% if c_meta.ccf and c_meta.ccf != "-" %}
-        {% assign meta_parts = meta_parts | append: "CCF-" | append: c_meta.ccf %}
+      {% if site.data.conference_meta[conf.conf_key].ccf and site.data.conference_meta[conf.conf_key].ccf != "-" %}
+        {% assign meta_parts = meta_parts | append: "CCF-" | append: site.data.conference_meta[conf.conf_key].ccf %}
       {% endif %}
       
-      {% if c_meta.core and c_meta.core != "-" %}
+      {% if site.data.conference_meta[conf.conf_key].core and site.data.conference_meta[conf.conf_key].core != "-" %}
         {% if meta_parts != "" %}{% assign meta_parts = meta_parts | append: " | " %}{% endif %}
-        {% assign meta_parts = meta_parts | append: "CORE " | append: c_meta.core %}
+        {% assign meta_parts = meta_parts | append: "CORE " | append: site.data.conference_meta[conf.conf_key].core %}
       {% endif %}
       
       {% if conf.tag != "" and conf.tag != nil %}
@@ -169,34 +168,6 @@ redirect_from:
   </div>
 </div>
 {% endfor %}
-
-<script>
-function toggleConfBib(id) {
-  const el = document.getElementById('conf-bib-' + id);
-  if (el.style.display === 'none' || el.style.display === '') {
-    el.style.display = 'block';
-  } else {
-    el.style.display = 'none';
-  }
-}
-
-function copyConfBib(copyBtn) {
-  const preElement = copyBtn.parentElement.nextElementSibling;
-  navigator.clipboard.writeText(preElement.innerText).then(() => {
-    copyBtn.innerText = 'Copied!';
-    copyBtn.style.backgroundColor = '#dcfce3';
-    copyBtn.style.borderColor = '#22c55e';
-    copyBtn.style.color = '#166534';
-    setTimeout(() => {
-      copyBtn.innerText = 'Copy';
-      copyBtn.style.backgroundColor = '';
-      copyBtn.style.borderColor = '';
-      copyBtn.style.color = '';
-    }, 1500);
-  });
-}
-</script>
-
 <!-- A016 SIGKDD 2026 AnchorMoE Tao Xie -->
 <div style="display: flex; margin-bottom: 1.5em; text-align: left;">
   <div style="flex: 0 0 3.6em; color: #64748b; font-weight: bold; font-size: 1em; padding-top: 2px;">[A016]</div>

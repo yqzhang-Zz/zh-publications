@@ -83,10 +83,10 @@ redirect_from:
     
     <div id="bib-{{ paper.id }}" style="display: none; margin-top: 10px; position: relative; background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 6px; padding: 12px; width: 100%; max-width: 650px; box-sizing: border-box; overflow-x: auto;">
       
-      <div style="position: absolute; top: 6px; right: 6px; display: flex; gap: 6px; z-index: 10;">
-        <button onclick="copyBib(this)" style="background: #ffffff; border: 1px solid #cbd5e1; padding: 2px 6px; border-radius: 4px; font-size: 0.75em; cursor: pointer; color: #475569; font-weight: bold; transition: all 0.2s;">Copy</button>
-        <button onclick="toggleBib('{{ paper.id }}')" style="background: #ffffff; border: 1px solid #cbd5e1; padding: 2px 6px; border-radius: 4px; font-size: 0.75em; cursor: pointer; color: #475569; font-weight: bold; transition: all 0.2s;">Close</button>
-      </div>
+<div style="position: absolute; top: 6px; right: 6px; display: flex; gap: 6px; z-index: 10;">
+  <button onclick="copyBib(this)" style="background: #ffffff; border: 1px solid #cbd5e1; padding: 2px 6px; border-radius: 4px; font-size: 0.75em; cursor: pointer; color: #475569; font-weight: bold; transition: all 0.2s;">Copy</button>
+  <button onclick="toggleBib('{{ paper.id }}')" style="background: #ffffff; border: 1px solid #cbd5e1; padding: 2px 6px; border-radius: 4px; font-size: 0.75em; cursor: pointer; color: #475569; font-weight: bold; transition: all 0.2s;">Fold</button>
+</div>
       
       <pre style="margin: 0; font-size: 0.85em; font-family: 'Fira Code', 'JetBrains Mono', 'Consolas', 'Monaco', monospace; line-height: 1.6; color: #334155; white-space: pre; padding-top: 20px; padding-left: 10px; padding-bottom: 10px;">{{ paper.bib }}</pre>
     </div>

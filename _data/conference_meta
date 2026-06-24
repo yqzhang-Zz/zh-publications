@@ -1,38 +1,47 @@
 # _data/conference_meta.yml
+# 采用标准块级排版，确保 Jekyll 编译零错误，并支持前端悬停显示全称
 
 # --- CCF-A ---
-KDD:
+SIGKDD:
   full_name: "ACM SIGKDD Conference on Knowledge Discovery and Data Mining"
   ccf: "A"
   core: "A*"
+
 ICML:
   full_name: "International Conference on Machine Learning"
   ccf: "A"
   core: "A*"
+
 CVPR:
   full_name: "IEEE/CVF Conference on Computer Vision and Pattern Recognition"
   ccf: "A"
   core: "A*"
+
 SIGMOD:
   full_name: "ACM SIGMOD International Conference on Management of Data"
   ccf: "A"
   core: "A*"
+
 AAAI:
   full_name: "AAAI Conference on Artificial Intelligence"
   ccf: "A"
   core: "A*"
+
 ICCV:
   full_name: "IEEE/CVF International Conference on Computer Vision"
   ccf: "A"
   core: "A*"
+
 ACMMM:
   full_name: "ACM International Conference on Multimedia"
   ccf: "A"
   core: "A*"
+
 IJCAI:
   full_name: "International Joint Conference on Artificial Intelligence"
   ccf: "A"
   core: "A*"
+
 NeurIPS:
   full_name: "Conference on Neural Information Processing Systems"
   ccf: "A"
@@ -43,22 +52,27 @@ ECML-PKDD:
   full_name: "European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases"
   ccf: "B"
   core: "A"
+
 DASFAA:
   full_name: "Database Systems for Advanced Applications"
   ccf: "B"
   core: "B"
+
 ICASSP:
   full_name: "IEEE International Conference on Acoustics, Speech and Signal Processing"
   ccf: "B"
   core: "B"
+
 BIBM:
   full_name: "IEEE International Conference on Bioinformatics and Biomedicine"
   ccf: "B"
   core: "B"
+
 ECAI:
   full_name: "European Conference on Artificial Intelligence"
   ccf: "B"
   core: "A"
+
 ICDCS:
   full_name: "IEEE International Conference on Distributed Computing Systems"
   ccf: "B"
@@ -69,26 +83,32 @@ ICPR:
   full_name: "International Conference on Pattern Recognition"
   ccf: "C"
   core: "B"
+
 IJCNN:
   full_name: "International Joint Conference on Neural Networks"
   ccf: "C"
   core: "B"
+
 PRICAI:
   full_name: "Pacific Rim International Conference on Artificial Intelligence"
   ccf: "C"
   core: "B"
+
 PRCV:
   full_name: "Chinese Conference on Pattern Recognition and Computer Vision"
   ccf: "C"
   core: "-"
+
 ISBRA:
   full_name: "International Symposium on Bioinformatics Research and Applications"
   ccf: "C"
   core: "-"
+
 ICIC:
   full_name: "International Conference on Intelligent Computing"
   ccf: "C"
   core: "-"
+
 DSAA:
   full_name: "IEEE International Conference on Data Science and Advanced Analytics"
   ccf: "C"

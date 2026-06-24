@@ -1,1 +1,12 @@
 
+# _data/journals.yml
+
+TNNLS:
+  if: "10.4"
+  jcr: "Q1"
+  cas: "1区Top"
+
+TETCI:
+  if: "6.0"
+  jcr: "Q2"
+  cas: "2区"

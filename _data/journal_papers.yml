@@ -5,7 +5,7 @@
   journal_key: "TETCI"
   title: "Bridge the Gaps: Heterogeneous Attributed Graph Clustering via Quaternion Representation Learning"
   authors: "Xinxi Chen, Junyang Chen, <strong>Yiqun Zhang</strong><sup>&#x2709;</sup>, Chuangming Qiu and Xiang Zhang"
-  tag: "Undergraduate Research"
+  tag: ""
   link: "#"
   bib: |-
     @article{chen2026bridge,
@@ -234,7 +234,7 @@
   journal_key: "CAIS"
   title: "Adaptive Micro Partition and Hierarchical Merging for Accurate Mixed Data Clustering"
   authors: "Yunfan Zhang, Rong Zou, <strong>Yiqun Zhang</strong><sup>&#x2709;</sup>, Yue Zhang, Yiu-ming Cheung and Kangshun Li"
-  tag: "Undergraduate Research"
+  tag: ""
   link: "https://link.springer.com/article/10.1007/s40747-024-01695-7"
   bib: |-
     @article{zhang2025adaptive,

@@ -2,7 +2,7 @@
 
 - id: "C065"
   venue: "SIGKDD'26"
-  conf_key: "KDD"
+  conf_key: "SIGKDD"
   title: "AnchorMoE: Interpretable Time Series Classification via Anchor-Routed MoE"
   authors: "Tao Xie, Zexi Tan, Haoyi Xiao, Mengke Li, <strong>Yiqun Zhang</strong><sup>&#x2709;</sup>, Yang Lu, Cuie Yang and Yiu-ming Cheung"
   tag: "Undergraduate Research"

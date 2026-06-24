@@ -987,21 +987,28 @@ Note: This list exclusively features publications that are either written in Eng
 <br>
 
 <script>
-// 控制排版下推展开与收起
+// 控制 Bib 区域的原位顺滑下推与收起
 function toggleBib(id) {
   const el = document.getElementById('bib-' + id);
-  el.style.display = (el.style.display === 'none' || el.style.display === '') ? 'block' : 'none';
+  if (el.style.display === 'none' || el.style.display === '') {
+    el.style.display = 'block';
+  } else {
+    el.style.display = 'none';
+  }
 }
-  
-// 一键精准复制
+
+// 托管一键静默复制与 Copied 状态反馈
 function copyBib(copyBtn) {
-  const preElement = copyBtn.nextElementSibling;
+  const preElement = copyBtn.parentElement.nextElementSibling;
+  
   navigator.clipboard.writeText(preElement.innerText).then(() => {
+    // 成功复制状态改变
     copyBtn.innerText = 'Copied!';
-    copyBtn.style.backgroundColor = '#dcfce3';
+    copyBtn.style.backgroundColor = '#dcfce3'; // 转换为柔和绿背景
     copyBtn.style.borderColor = '#22c55e';
     copyBtn.style.color = '#166534';
     
+    // 1.5秒后按钮自动复原
     setTimeout(() => {
       copyBtn.innerText = 'Copy';
       copyBtn.style.backgroundColor = '';

@@ -98,7 +98,7 @@ redirect_from:
 
 
 <div style="display: flex; align-items: flex-end; margin-top: 35px; margin-bottom: 15px;">
-  <h3 style="background-color: #4a4a4a; color: #ffffff; padding: 2px 8px; margin: 0; font-size: 1em; font-weight: 600; border-radius: 3px 3px 0 0; line-height: 1.2;">会议论文（CCF-A）</h3>
+  <h3 style="background-color: #4a4a4a; color: #ffffff; padding: 2px 8px; margin: 0; font-size: 1em; font-weight: 600; border-radius: 3px 3px 0 0; line-height: 1.2;">会议论文</h3>
   <div style="flex-grow: 1; height: 2px; background-color: #4a4a4a;"></div>
 </div>
 
@@ -199,7 +199,7 @@ function copyConfBib(copyBtn) {
 }
 </script>
 
-
+<!--
 <!-- A016 SIGKDD 2026 AnchorMoE Tao Xie -->
 <div style="display: flex; margin-bottom: 1.5em; text-align: left;">
   <div style="flex: 0 0 3.6em; color: #64748b; font-weight: bold; font-size: 1em; padding-top: 2px;">[A016]</div>
@@ -790,6 +790,8 @@ function copyConfBib(copyBtn) {
     <a href="https://www.researchgate.net/publication/282303497_Discretizing_Numerical_Attributes_in_Decision_Tree_for_Big_Data_Analysis" target="_blank" style="color: #0b5394; border: 1px solid #0b5394; border-radius: 4px; padding: 1px 6px; text-decoration: none; font-weight: bold; font-size: 0.8em; white-space: nowrap;"><i class="fas fa-file-pdf"></i> Paper</a>
   </div>
 </div>
+
+-->
 
 <br>
 <br>

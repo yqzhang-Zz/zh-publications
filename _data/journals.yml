@@ -1,12 +1,84 @@
-
 # _data/journals.yml
 
 TNNLS:
-  if: "10.4"
+  if: "9.7"
   jcr: "Q1"
   cas: "1区Top"
 
 TETCI:
   if: "6.0"
-  jcr: "Q2"
+  jcr: "Q1"
   cas: "2区"
+
+TPAMI:
+  if: "20.4"
+  jcr: "Q1"
+  cas: "1区Top"
+
+TMM:
+  if: "9.9"
+  jcr: "Q1"
+  cas: "1区Top"
+
+IoTJ:
+  if: "8.7"
+  jcr: "Q1"
+  cas: "1区Top"
+
+TCYB:
+  if: "11.3"
+  jcr: "Q1"
+  cas: "1区Top"
+
+TIP:
+  if: "15.3"
+  jcr: "Q1"
+  cas: "1区Top"
+
+TCE:
+  if: "9.9"
+  jcr: "Q1"
+  cas: "1区Top"
+
+INS:
+  if: "6.0"
+  jcr: "Q1"
+  cas: "1区Top"
+
+ESWA:
+  if: "9.4"
+  jcr: "Q1"
+  cas: "1区Top"
+
+NEUCOM:
+  if: "6.7"
+  jcr: "Q1"
+  cas: "2区Top"
+
+CAIS:
+  if: "4.5"
+  jcr: "Q2"
+  cas: "3区"
+
+EXSY:
+  if: "3.4"
+  jcr: "Q2"
+  cas: "3区"
+
+IJWMIP:
+  if: "0.8"
+  jcr: "Q4"
+  cas: "4区"
+
+JBHI:
+  if: "7.7"
+  jcr: "Q1"
+  cas: "1区Top"
+
+ISCLS:
+  if: "5.2"
+  jcr: "Q1"
+  cas: "2区"
+
+TAI:
+  if: "EI检索"

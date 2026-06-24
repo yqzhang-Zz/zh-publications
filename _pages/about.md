@@ -942,6 +942,51 @@ Note: This list exclusively features publications that are either written in Eng
 <br>
 <br>
 <br>
+
+<script>
+// 控制面板展开与收起
+function toggleBib(btn) {
+  const currentDropdown = btn.nextElementSibling;
+  
+  // 切换当前菜单状态
+  if (currentDropdown.style.display === 'none' || currentDropdown.style.display === '') {
+    // 先关闭其他所有打开的 Bib 框，避免互相遮挡
+    document.querySelectorAll('.bib-dropdown').forEach(el => el.style.display = 'none');
+    currentDropdown.style.display = 'block';
+  } else {
+    currentDropdown.style.display = 'none';
+  }
+}
+
+// 一键复制功能
+function copyBib(copyBtn) {
+  const preElement = copyBtn.nextElementSibling;
+  
+  navigator.clipboard.writeText(preElement.innerText).then(() => {
+    // 成功反馈
+    copyBtn.innerText = 'Copied!';
+    copyBtn.style.backgroundColor = '#dcfce3'; // 柔和绿
+    copyBtn.style.borderColor = '#22c55e';
+    copyBtn.style.color = '#166534';
+    
+    // 1.5秒后自动复原
+    setTimeout(() => {
+      copyBtn.innerText = 'Copy';
+      copyBtn.style.backgroundColor = '';
+      copyBtn.style.borderColor = '';
+      copyBtn.style.color = '';
+    }, 1500);
+  });
+}
+
+// 点击空白处自动收起下拉菜单
+document.addEventListener('click', function(e) {
+  if (!e.target.closest('.bib-container')) {
+    document.querySelectorAll('.bib-dropdown').forEach(el => el.style.display = 'none');
+  }
+});
+</script>
+
 <br>
 <br>
 <br>

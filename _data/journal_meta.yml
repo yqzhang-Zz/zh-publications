@@ -81,6 +81,6 @@ ISCLS:
   cas: "2区"
 
 Other:
-  if: "N/A"
-  jcr: "Non-indexed"
-  cas: "Non-indexed"
+  if: "-"
+  jcr: "-"
+  cas: "-"

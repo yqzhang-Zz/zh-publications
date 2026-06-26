@@ -1,6 +1,6 @@
 # _data/journal_papers.yml
 
-- id: "J027"
+- id: "J028"
   venue: "TETCI'26"
   journal_key: "TETCI"
   title: "Bridge the Gaps: Heterogeneous Attributed Graph Clustering via Quaternion Representation Learning"
@@ -15,7 +15,7 @@
       year = {2026}
     }
 
-- id: "J026"
+- id: "J027"
   venue: "TMM'26"
   journal_key: "TMM"
   title: "Classifying Long-tailed and Label-noise Data via Disentangling and Unlearning"
@@ -30,7 +30,7 @@
       year = {2026}
     }
 
-- id: "J025"
+- id: "J026"
   venue: "TAI'26"
   journal_key: "TAI"
   title: "How to Ask the AI: A User Perspective Survey for Large Language Model Prompting"
@@ -45,7 +45,7 @@
       year = {2026}
     }
 
-- id: "J024"
+- id: "J025"
   venue: "TMM'26"
   journal_key: "TMM"
   title: "NIDC: General Task Backbone for Neuroimaging Analysis via Interpretable Deep Clustering"
@@ -62,7 +62,7 @@
       year = {2026}
     }
 
-- id: "J023"
+- id: "J024"
   venue: "IoTJ'26"
   journal_key: "IoTJ"
   title: "One-Shot Federated Clustering of Non-Independent Completely Distributed Data"
@@ -80,7 +80,7 @@
       year = {2026}
     }
 
-- id: "J022"
+- id: "J023"
   venue: "TAI'26"
   journal_key: "TAI"
   title: "Trending Applications of Large Language Models: A User Perspective Survey"
@@ -99,7 +99,7 @@
       year = {2026}
     }
 
-- id: "J021"
+- id: "J022"
   venue: "TCYB'26"
   journal_key: "TCYB"
   title: "Online Heterogeneous Feature Selection"
@@ -117,7 +117,7 @@
       year = {2026}
     }
 
-- id: "J020"
+- id: "J021"
   venue: "IoTJ'26"
   journal_key: "IoTJ"
   title: "Hierarchical Reference Sets for Robust Unsupervised Detection of Scattered and Clustered Outliers"
@@ -136,7 +136,7 @@
       year = {2026}
     }
 
-- id: "J019"
+- id: "J020"
   venue: "INS'26"
   journal_key: "INS"
   title: "Federated Hierarchical Clustering with Automatic Selection of Optimal Cluster Numbers"
@@ -153,7 +153,7 @@
       year = {2026}
     }
 
-- id: "J018"
+- id: "J019"
   venue: "TETCI'26"
   journal_key: "TETCI"
   title: "Learning Unbiased Cluster Descriptors for Interpretable Imbalanced Concept Drift Detection"
@@ -170,6 +170,24 @@
       number={1},
       pages={721--734},   
       year = {2026}
+    }
+
+- id: "J018"
+  venue: "PEASA'25"
+  journal_key: "Other"
+  title: "AI in the Era of Large Language Models: Current State, Applications, Limitations, and Future"
+  authors: "<strong>Yiqun Zhang</strong> and Yiu-ming Cheung<sup>&#x2709;</sup>"
+  tag: ""
+  link: "https://www.peasa.eu/site/article/view/68"
+  bib: |-
+    @article{zhang2025ai,
+      author = {Zhang, Yiqun and Cheung, Yiu-ming},
+      title = {AI in the Era of Large Language Models: Current State, Applications, Limitations, and Future},
+      journal = {Proceedings of the European Academy of Sciences and Arts},
+      volume = {4},
+      number = {1},
+      pages = {1--12},
+      year = {2025}
     }
 
 - id: "J017"

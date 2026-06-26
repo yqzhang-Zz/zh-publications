@@ -36,11 +36,11 @@
 
 - id: "C054"
   venue: "SIGKDD'26"
-  conf_key: "KDD"
+  conf_key: "SIGKDD"
   title: "AnchorMoE: Interpretable Time Series Classification via Anchor-Routed MoE"
   authors: "Tao Xie, Zexi Tan, Haoyi Xiao, Mengke Li, <strong>Yiqun Zhang</strong><sup>&#x2709;</sup>, Yang Lu, Cuie Yang and Yiu-ming Cheung"
   tag: ""
-  link: "#"
+  link: "https://arxiv.org/abs/2606.03631"
   bib: |-
     @inproceedings{xie2026anchormoe,
       author = {Xie, Tao and Tan, Zexi and Xiao, Haoyi and Li, Mengke and Zhang, Yiqun and Lu, Yang and Yang, Cuie and Cheung, Yiu-ming},
@@ -56,7 +56,7 @@
   title: "CARE: Class-Adaptive Expert Consensus for Reliable Learning with Long-Tailed Noisy Labels"
   authors: "Mengke Li, Haiquan Ling, Lihao Chen, Yang Lu, <strong>Yiqun Zhang</strong> and Hui Huang<sup>&#x2709;</sup>"
   tag: ""
-  link: "#"
+  link: "https://arxiv.org/abs/2605.23254"
   bib: |-
     @inproceedings{li2026care,
       author = {Li, Mengke and Ling, Haiquan and Chen, Lihao and Lu, Yang and Zhang, Yiqun and Huang, Hui},

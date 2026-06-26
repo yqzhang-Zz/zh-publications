@@ -6,7 +6,7 @@
   title: "Bridge the Gaps: Heterogeneous Attributed Graph Clustering via Quaternion Representation Learning"
   authors: "Xinxi Chen, Junyang Chen, <strong>Yiqun Zhang</strong><sup>&#x2709;</sup>, Chuangming Qiu and Xiang Zhang"
   tag: ""
-  link: "#"
+  link: "https://arxiv.org/abs/2606.23199"
   bib: |-
     @article{chen2026bridge,
       author = {Chen, Xinxi and Chen, Junyang and Zhang, Yiqun and Qiu, Chuangming and Zhang, Xiang},
@@ -36,7 +36,7 @@
   title: "How to Ask the AI: A User Perspective Survey for Large Language Model Prompting"
   authors: "<strong>Yiqun Zhang</strong>, Yunfan Zhang, Mingjie Zhao, Sen Feng and Yiu-ming Cheung<sup>&#x2709;</sup>"
   tag: "Survey Paper"
-  link: "https://ieeexplore.ieee.org/abstract/document/11199892"
+  link: "https://ieeexplore.ieee.org/abstract/document/11551561"
   bib: |-
     @article{zhang2026how,
       author = {Zhang, Yiqun and Zhang, Yunfan and Zhao, Mingjie and Feng, Sen and Cheung, Yiu-ming},

@@ -17,12 +17,12 @@ redirect_from:
 
 <span class='anchor' id="publications"></span>
 
-# 📝 完整论文列表 
+# 📝 Full Publication List
 
 
 
 <div style="display: flex; align-items: flex-end; margin-top: 35px; margin-bottom: 15px;">
-  <h3 style="background-color: #4a4a4a; color: #ffffff; padding: 2px 8px; margin: 0; font-size: 1em; font-weight: 600; border-radius: 3px 3px 0 0; line-height: 1.2;">期刊论文</h3>
+  <h3 style="background-color: #4a4a4a; color: #ffffff; padding: 2px 8px; margin: 0; font-size: 1em; font-weight: 600; border-radius: 3px 3px 0 0; line-height: 1.2;">Journal Papers</h3>
   <div style="flex-grow: 1; height: 2px; background-color: #4a4a4a;"></div>
 </div>
 
@@ -98,7 +98,7 @@ redirect_from:
 
 
 <div style="display: flex; align-items: flex-end; margin-top: 35px; margin-bottom: 15px;">
-  <h3 style="background-color: #4a4a4a; color: #ffffff; padding: 2px 8px; margin: 0; font-size: 1em; font-weight: 600; border-radius: 3px 3px 0 0; line-height: 1.2;">会议论文</h3>
+  <h3 style="background-color: #4a4a4a; color: #ffffff; padding: 2px 8px; margin: 0; font-size: 1em; font-weight: 600; border-radius: 3px 3px 0 0; line-height: 1.2;">Conference Papers</h3>
   <div style="flex-grow: 1; height: 2px; background-color: #4a4a4a;"></div>
 </div>
 
@@ -201,7 +201,6 @@ function copyConfBib(copyBtn) {
 
 <br>
 <br>
-注：此列表仅展示英文论文及被SCI/EI检索的论文。<br>
 Note: This list exclusively features publications that are either written in English or officially indexed by SCI/EI.
 <br>
 <br>

@@ -177,7 +177,7 @@
   journal_key: "Other"
   title: "AI in the Era of Large Language Models: Current State, Applications, Limitations, and Future"
   authors: "<strong>Yiqun Zhang</strong> and Yiu-ming Cheung<sup>&#x2709;</sup>"
-  tag: ""
+  tag: "Perspective Paper"
   link: "https://www.peasa.eu/site/article/view/68"
   bib: |-
     @article{zhang2025ai,

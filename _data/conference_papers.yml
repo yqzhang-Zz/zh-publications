@@ -623,7 +623,7 @@
 
 - id: "C018"
   venue: "SIGKDD'24"
-  conf_key: "KDD"
+  conf_key: "SIGKDD"
   title: "QGRL: Quaternion Graph Representation Learning for Heterogeneous Feature Data Clustering"
   authors: "Junyang Chen, Yuzhu Ji, Rong Zou, <strong>Yiqun Zhang</strong><sup>&#x2709;</sup> and Yiu-ming Cheung"
   tag: ""

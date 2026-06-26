@@ -32,7 +32,7 @@
 
 - id: "J026"
   venue: "TAI'26"
-  journal_key: "Other"
+  journal_key: "TAI"
   title: "How to Ask the AI: A User Perspective Survey for Large Language Model Prompting"
   authors: "<strong>Yiqun Zhang</strong>, Yunfan Zhang, Mingjie Zhao, Sen Feng and Yiu-ming Cheung<sup>&#x2709;</sup>"
   tag: "Survey Paper"
@@ -82,7 +82,7 @@
 
 - id: "J023"
   venue: "TAI'26"
-  journal_key: "Other"
+  journal_key: "TAI"
   title: "Trending Applications of Large Language Models: A User Perspective Survey"
   authors: "<strong>Yiqun Zhang</strong>, Mingjie Zhao, Yunfan Zhang and Yiu-ming Cheung<sup>&#x2709;</sup>"
   tag: "Survey Paper"
@@ -174,7 +174,7 @@
 
 - id: "J018"
   venue: "PEASA'25"
-  journal_key: "Other"
+  journal_key: "PEASA"
   title: "AI in the Era of Large Language Models: Current State, Applications, Limitations, and Future"
   authors: "<strong>Yiqun Zhang</strong> and Yiu-ming Cheung<sup>&#x2709;</sup>"
   tag: ""

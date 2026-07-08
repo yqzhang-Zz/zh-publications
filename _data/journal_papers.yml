@@ -413,7 +413,7 @@
   title: "Learnable Weighting of Intra-attribute Distances for Categorical Data Clustering with Nominal and Ordinal Attributes"
   authors: "<strong>Yiqun Zhang</strong> and Yiu-ming Cheung<sup>&#x2709;</sup>"
   tag: ""
-  link: "https://www.comp.hkbu.edu.hk/~ymc/papers/journal/TPAMI-2021-3056510-publication-version.pdf"
+  link: "https://arxiv.org/abs/2607.05464"
   code: "https://www.comp.hkbu.edu.hk/~ymc/papers/journal/Source_code/TPAMI-2021-3056510.zip"
   bib: |-
     @article{zhang2022learnable,

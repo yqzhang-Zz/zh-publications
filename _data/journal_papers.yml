@@ -1,5 +1,20 @@
 # _data/journal_papers.yml
 
+- id: "J029"
+  venue: "TETCI'26"
+  journal_key: "TETCI"
+  title: "Resource-Efficient Pruning for Transformer via Low-Rank Importance Estimation"
+  authors: "Peng Liu, Huibing Zeng, <strong>Yiqun Zhang</strong><sup>&#x2709;</sup>, Yang Yi and Jigang Wu"
+  tag: ""
+  link: "#"
+  bib: |-
+    @article{liu2026resource,
+      author = {Liu, Peng and Zeng, Huibing and Zhang, Yiqun and Yi, Yang and Wu, Jigang},
+      title = {Resource-Efficient Pruning for Transformer via Low-Rank Importance Estimation},
+      journal = {IEEE Transactions on Emerging Topics in Computational Intelligence},
+      year = {2026}
+    }
+
 - id: "J028"
   venue: "TETCI'26"
   journal_key: "TETCI"

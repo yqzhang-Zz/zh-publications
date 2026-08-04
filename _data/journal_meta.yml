@@ -49,6 +49,10 @@ ESWA:
   if: "9.4"
   jcr: "Q1"
   cas: "1区Top"
+PR:
+  if: "9.1"
+  jcr: "Q1"
+  cas: "1区Top"
 
 NEUCOM:
   if: "6.7"

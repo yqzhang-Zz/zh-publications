@@ -1,4 +1,19 @@
 # _data/journal_papers.yml
+- id: "J030"
+  venue: "PR'26"
+  journal_key: "PR"
+  title: "Class-Modulated Top-K Logit Adjustment for Long-Tailed Visual Recognition"
+  authors: "Mengke Li, Ye Liu,  Zhikai Hu, Yiqun Zhang, Yang Lu and Hui Huang"
+  tag: ""
+  link: "#"
+  bib: |-
+    @article{li2026class,
+      author = {Li, Mengke and Liu, Ye and Hu, Zhikai and Zhang, Yiqun and Lu, Yang and Huang, Hui},
+      title = {Class-Modulated Top-K Logit Adjustment for Long-Tailed Visual Recognition},
+      journal = {Pattern Recognition},
+      year = {2026}
+    }
+
 - id: "J029"
   venue: "TETCI'26"
   journal_key: "TETCI"

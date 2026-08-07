@@ -5,7 +5,7 @@
   venue: "CIKM'26"
   conf_key: "CIKM"
   title: "Stitch the Fragments: One-Shot Hierarchical Federated Clustering"
-  authors: "Shenghong Cai, Zihua Yang, Yuzhu Ji, Yiqun Zhang, Mengke Li, Yang Lu and Yiu-Ming Cheung"
+  authors: "Shenghong Cai, Zihua Yang, Yuzhu Ji, <strong>Yiqun Zhang</strong><sup>&#x2709;</sup>, Mengke Li, Yang Lu and Yiu-Ming Cheung"
   tag: ""
   link: "#"
   bib: |-

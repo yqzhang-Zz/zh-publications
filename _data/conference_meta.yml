@@ -77,6 +77,11 @@ ICDCS:
   ccf: "B"
   core: "A"
 
+CIKM:
+  full_name: "ACM International Conference on Knowledge and Information Management"
+  ccf: "B"
+  core: "A"
+  
 # --- CCF-C ---
 ICPR:
   full_name: "International Conference on Pattern Recognition"

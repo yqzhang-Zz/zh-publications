@@ -1,6 +1,22 @@
 # _data/conference_papers.yml
 
 # ==================== 2026 ====================
+- id: "C057"
+  venue: "CIKM'26"
+  conf_key: "CIKM"
+  title: "Stitch the Fragments: One-Shot Hierarchical Federated Clustering"
+  authors: "Shenghong Cai, Zihua Yang, Yuzhu Ji, Yiqun Zhang, Mengke Li, Yang Lu and Yiu-Ming Cheung"
+  tag: ""
+  link: "#"
+  bib: |-
+    @inproceedings{cai2026stitch,
+      author = {Cai, Shenghong and Yang, Zihua and Ji, Yuzhu and Zhang, Yiqun and Li, Mengke and Lu, Yang and Cheung, Yiu-ming},
+      title = {Stitch the Fragments: One-Shot Hierarchical Federated Clustering},
+      booktitle = {Proceedings of the ACM International Conference on Knowledge and Information Management (CIKM)},
+      address = {Rome, Italy, November 7--11},
+      year = {2026}
+    }
+
 - id: "C056"
   venue: "ECML-PKDD'26"
   conf_key: "ECML-PKDD"

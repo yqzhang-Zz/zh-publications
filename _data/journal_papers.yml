@@ -1,4 +1,19 @@
 # _data/journal_papers.yml
+- id: "J031"
+  venue: "CIM'26"
+  journal_key: "CIM"
+  title: "AOI-Net: Structural Face AOI-Guided Eye-Gaze Track Representation Learning for ASD Detection"
+  authors: "Zhanpei Huang, Binbin Sun, Jialiang Chen, Yiou Wang, Taochen Chen, Yuzhu Ji and <strong>Yiqun Zhang</strong><sup>&#x2709;</sup>"
+  tag: ""
+  link: "#"
+  bib: |-
+    @article{huang2026aoinet,
+      author = {Huang, Zhanpei and Sun, Binbin and Chen, Jialiang and Wang, Yiou and Chen, Taochen and Ji, Yuzhu and Zhang, Yiqun},
+      title = {AOI-Net: Structural Face AOI-Guided Eye-Gaze Track Representation Learning for ASD Detection},
+      journal = {IEEE Computational Intelligence Magazine},
+      year = {2026}
+    }
+
 - id: "J030"
   venue: "PR'26"
   journal_key: "PR"

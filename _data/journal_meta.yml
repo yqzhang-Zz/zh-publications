@@ -84,6 +84,11 @@ ISCLS:
   jcr: "Q1"
   cas: "2区"
 
+CIM:
+  if: "7.7"
+  jcr: "Q1"
+  cas: "2区"
+
 TAI:
 
 Other:

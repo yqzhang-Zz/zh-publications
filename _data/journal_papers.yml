@@ -20,7 +20,7 @@
   title: "Class-Modulated Top-K Logit Adjustment for Long-Tailed Visual Recognition"
   authors: "Mengke Li, Ye Liu,  Zhikai Hu, <strong>Yiqun Zhang</strong>, Yang Lu and Hui Huang<sup>&#x2709;</sup>"
   tag: ""
-  link: "#"
+  link: "https://www.sciencedirect.com/science/article/abs/pii/S0031320326015724"
   bib: |-
     @article{li2026class,
       author = {Li, Mengke and Liu, Ye and Hu, Zhikai and Zhang, Yiqun and Lu, Yang and Huang, Hui},
@@ -51,6 +51,7 @@
   authors: "Xinxi Chen, Junyang Chen, <strong>Yiqun Zhang</strong><sup>&#x2709;</sup>, Chuangming Qiu and Xiang Zhang"
   tag: ""
   link: "https://arxiv.org/abs/2606.23199"
+  code: "https://github.com/XinxiiChen/AGREE"
   bib: |-
     @article{chen2026bridge,
       author = {Chen, Xinxi and Chen, Junyang and Zhang, Yiqun and Qiu, Chuangming and Zhang, Xiang},
@@ -65,7 +66,7 @@
   title: "Classifying Long-tailed and Label-noise Data via Disentangling and Unlearning"
   authors: "Shu Chen, Xiaoyun Xia, Mengke Li, <strong>Yiqun Zhang</strong>, Yang Lu<sup>&#x2709;</sup> and Yiu-ming Cheung"
   tag: ""
-  link: "#"
+  link: "https://arxiv.org/abs/2503.11414"
   bib: |-
     @article{chen2026classifying,
       author = {Chen, Shu and Xia, Xiaoyun and Li, Mengke and Zhang, Yiqun and Lu, Yang and Cheung, Yiu-ming},

@@ -7,7 +7,8 @@
   title: "Stitch the Fragments: One-Shot Hierarchical Federated Clustering"
   authors: "Shenghong Cai, Zihua Yang, Yuzhu Ji, <strong>Yiqun Zhang</strong><sup>&#x2709;</sup>, Mengke Li, Yang Lu and Yiu-Ming Cheung"
   tag: ""
-  link: "#"
+  link: "https://arxiv.org/abs/2601.06404"
+  code: "https://github.com/hongdream/Fed-HIRE"
   bib: |-
     @inproceedings{cai2026stitch,
       author = {Cai, Shenghong and Yang, Zihua and Ji, Yuzhu and Zhang, Yiqun and Li, Mengke and Lu, Yang and Cheung, Yiu-ming},
@@ -23,7 +24,8 @@
   title: "Imputation Meets Clustering: Exploiting Latent Subgroup Structure for Missing Data Recovery"
   authors: "Chuyao Zhang, E Li, Taochen Chen, <strong>Yiqun Zhang</strong><sup>&#x2709;</sup>, Yuzhu Ji, Shuping Zhao, Peng Liu and Yiu-ming Cheung"
   tag: ""
-  link: "#"
+  link: "https://arxiv.org/abs/2607.06930"
+  code: "https://github.com/supercocachii/CAGI"
   bib: |-
     @inproceedings{zhang2026imputation,
       author = {Zhang, Chuyao and Li, E and Chen, Taochen and Zhang, Yiqun and Ji, Yuzhu and Zhao, Shuping and Liu, Peng and Cheung, Yiu-ming},
@@ -57,6 +59,7 @@
   authors: "Tao Xie, Zexi Tan, Haoyi Xiao, Mengke Li, <strong>Yiqun Zhang</strong><sup>&#x2709;</sup>, Yang Lu, Cuie Yang and Yiu-ming Cheung"
   tag: ""
   link: "https://arxiv.org/abs/2606.03631"
+  code: "https://github.com/kuxit/AnchorMoE"
   bib: |-
     @inproceedings{xie2026anchormoe,
       author = {Xie, Tao and Tan, Zexi and Xiao, Haoyi and Li, Mengke and Zhang, Yiqun and Lu, Yang and Yang, Cuie and Cheung, Yiu-ming},
@@ -88,7 +91,7 @@
   title: "FMoE: Frequency-Guided Multi-Period MoE Modeling for Time Series Forecasting"
   authors: "Taochen Chen, Jialiang Chen, <strong>Yiqun Zhang</strong><sup>&#x2709;</sup>, Mengke Li, Yang Lu and Yiu-ming Cheung"
   tag: ""
-  link: "#"
+  link: "https://linklings.s3.amazonaws.com/organizations/WCCI/wcci2026/submissions/stype114/P8ave-ijcnn_pap2756s2.pdf"
   bib: |-
     @inproceedings{chen2026fmoe,
       author = {Chen, Taochen and Chen, Jialiang and Zhang, Yiqun and Li, Mengke and Lu, Yang and Cheung, Yiu-ming},
@@ -104,7 +107,7 @@
   title: "PIN-LoRA: Positive-Incentive Noise Aggregation for Federated Long-Tailed Learning"
   authors: "Chenghao Jin, Shihao Hou, Jiacheng Yang, Mengke Li, <strong>Yiqun Zhang</strong>, Yang Lu<sup>&#x2709;</sup> and Yiu-ming Cheung"
   tag: ""
-  link: "#"
+  link: "https://linklings.s3.amazonaws.com/organizations/WCCI/wcci2026/submissions/stype114/8FhTa-ijcnn_pap3330s2.pdf"
   bib: |-
     @inproceedings{jin2026pinlora,
       author = {Jin, Chenghao and Hou, Shihao and Yang, Jiacheng and Li, Mengke and Zhang, Yiqun and Lu, Yang and Cheung, Yiu-ming},
@@ -169,7 +172,7 @@
   title: "STRPNET: Video Salient Object Detection via Spatio-Temporal Scene Relation Propagation"
   authors: "Shujie Qiu, Jie Yang, Jiaqi Yu, <strong>Yiqun Zhang</strong>, Yuzhu Ji<sup>&#x2709;</sup> and Peng Liu"
   tag: ""
-  link: "#"
+  link: "https://ieeexplore.ieee.org/abstract/document/11464131/"
   bib: |-
     @inproceedings{qiu2026strpnet,
       author = {Qiu, Shujie and Yang, Jie and Yu, Jiaqi and Zhang, Yiqun and Ji, Yuzhu and Liu, Peng},

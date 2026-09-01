@@ -1,6 +1,23 @@
 # _data/conference_papers.yml
 
 # ==================== 2026 ====================
+- id: "C058"
+  venue: "ICDM'26"
+  conf_key: "ICDM"
+  title: "When Prediction Shapes the Future: A BlueSky Agenda for Reflexive Time Series Analysis"
+  authors: "Tao Xie, <strong>Yiqun Zhang</strong><sup>&#x2709;</sup> and Yiu-Ming Cheung"
+  tag: ""
+  link: "#"
+  code: "#"
+  bib: |-
+    @inproceedings{xie2026when,
+      author = {Xie, Tao and Zhang, Yiqun and Cheung, Yiu-ming},
+      title = {When Prediction Shapes the Future: A BlueSky Agenda for Reflexive Time Series Analysis},
+      booktitle = {Proceedings of the IEEE International Conference on Data Mining (ICDM) Workshop},
+      address = {Shenyang, China, November 12--15},
+      year = {2026}
+    }
+
 - id: "C057"
   venue: "CIKM'26"
   conf_key: "CIKM"

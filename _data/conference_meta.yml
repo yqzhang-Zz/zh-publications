@@ -81,6 +81,11 @@ CIKM:
   full_name: "ACM International Conference on Information and Knowledge Management"
   ccf: "B"
   core: "A"
+
+ICDM:
+  full_name: "IEEE International Conference on Data Mining"
+  ccf: "B"
+  core: "A*"
   
 # --- CCF-C ---
 ICPR:

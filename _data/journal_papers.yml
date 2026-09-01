@@ -5,7 +5,8 @@
   title: "AOI-Net: Structural Face AOI-Guided Eye-Gaze Track Representation Learning for ASD Detection"
   authors: "Zhanpei Huang, Binbin Sun, Jialiang Chen, Yiou Wang, Taochen Chen, Yuzhu Ji, <strong>Yiqun Zhang</strong><sup>&#x2709;</sup> and Yiu-ming Cheung"
   tag: ""
-  link: "#"
+  link: "https://arxiv.org/abs/2608.29289"
+  code: "https://github.com/Zhanpei-ai/CIM-AOI-Net/tree/main/Code"
   bib: |-
     @article{huang2026aoinet,
       author = {Huang, Zhanpei and Sun, Binbin and Chen, Jialiang and Wang, Yiou and Chen, Taochen and Ji, Yuzhu and Zhang, Yiqun and Cheung, Yiu-ming},

@@ -1,6 +1,22 @@
 # _data/conference_papers.yml
 
 # ==================== 2026 ====================
+- id: "C059"
+  venue: "SIGMOD'27"
+  conf_key: "SIGMOD"
+  title: "Exact Graph Structure Learning with Tensor Affinity for Topology-Refined Deep Clustering"
+  authors: "Yu Wang, Junyu Li, Hongmin Cai, Zhuoyao Wang and <strong>Yiqun Zhang</strong>"
+  tag: ""
+  link: "#"
+  bib: |-
+    @inproceedings{wang2027exact,
+      author = {Wang, Yu and Li, Junyu and Cai, Hongmin and Wang, Zhuoyao and Zhang, Yiqun},
+      title = {Exact Graph Structure Learning with Tensor Affinity for Topology-Refined Deep Clustering},
+      booktitle = {Proceedings of the ACM SIGMOD International Conference on Management of Data},
+      address = {Huntington Beach, CA, USA, June 13--19},
+      year = {2027}
+    }
+
 - id: "C058"
   venue: "ICDM'26"
   conf_key: "ICDM"

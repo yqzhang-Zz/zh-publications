@@ -1,6 +1,38 @@
 # _data/conference_papers.yml
 
 # ==================== 2026 ====================
+- id: "C061"
+  venue: "BIBM'26"
+  conf_key: "BIBM"
+  title: "One-Shot Hierarchical Federated Clustering for Distributed Non-IID Biomedical Data Analysis"
+  authors: "Shenghong Cai and <strong>Yiqun Zhang</strong><sup>&#x2709;</sup>"
+  tag: ""
+  link: "#"
+  bib: |-
+    @inproceedings{cai2026oneshot,
+      author = {Cai, Shenghong and Zhang, Yiqun},
+      title = {One-Shot Hierarchical Federated Clustering for Distributed Non-IID Biomedical Data Analysis},
+      booktitle = {Proceedings of the IEEE International Conference on Bioinformatics and Biomedicine (BIBM)},
+      address = {Dallas, USA, December 1--4},
+      year = {2026}
+    }
+
+- id: "C060"
+  venue: "BIBM'26"
+  conf_key: "BIBM"
+  title: "DOcTreeMamba: Topology-Aware Mamba for 3D Medical Segmentation via Octree Sparsification"
+  authors: "Kaixiang Mai, Jiaqi Yu, Yuzhu Ji<sup>&#x2709;</sup>, <strong>Yiqun Zhang</strong>, Zhijie Wang, Haijun Zhang and Yiu-ming Cheung"
+  tag: ""
+  link: "#"
+  bib: |-
+    @inproceedings{mai2026octreemamba,
+      author = {Mai, Kaixiang and Yu, Jiaqi and Ji, Yuzhu and Zhang, Yiqun and Wang, Zhijie and Zhang, Haijun and Cheung, Yiu-ming},
+      title = {DOcTreeMamba: Topology-Aware Mamba for 3D Medical Segmentation via Octree Sparsification},
+      booktitle = {Proceedings of the IEEE International Conference on Bioinformatics and Biomedicine (BIBM)},
+      address = {Dallas, USA, December 1--4},
+      year = {2026}
+    }
+
 - id: "C059"
   venue: "SIGMOD'27"
   conf_key: "SIGMOD"

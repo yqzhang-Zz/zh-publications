@@ -1,6 +1,23 @@
 # _data/conference_papers.yml
 
 # ==================== 2026 ====================
+- id: "C062"
+  venue: "ICDM'26"
+  conf_key: "ICDM"
+  title: "Seeing Time: Visual-Temporal Representation Learning for Interpretable Time Series Clustering"
+  authors: "Zheng Zhu, Zexi Tan<sup>&#x2709;</sup>, Yuming Deng and <strong>Yiqun Zhang</strong>"
+  tag: "Teen Research Track Paper"
+  link: "#"
+  code: "#"
+  bib: |-
+    @inproceedings{zhu2026seeing,
+      author = {Zhu, Zheng and Tan, Zexi and Deng, Yuming and Zhang, Yiqun},
+      title = {Seeing Time: Visual-Temporal Representation Learning for Interpretable Time Series Clustering},
+      booktitle = {Proceedings of the IEEE International Conference on Data Mining (ICDM)},
+      address = {Shenyang, China, November 12--15},
+      year = {2026}
+    }
+
 - id: "C061"
   venue: "BIBM'26"
   conf_key: "BIBM"
@@ -37,7 +54,7 @@
   venue: "SIGMOD'27"
   conf_key: "SIGMOD"
   title: "Exact Graph Structure Learning with Tensor Affinity for Topology-Refined Deep Clustering"
-  authors: "Yu Wang, Junyu Li, Hongmin Cai, Zhuoyao Wang and <strong>Yiqun Zhang</strong>"
+  authors: "Yu Wang, Junyu Li, Hongmin Cai<sup>&#x2709;</sup>, Zhuoyao Wang and <strong>Yiqun Zhang</strong><sup>&#x2709;</sup>"
   tag: ""
   link: "#"
   bib: |-

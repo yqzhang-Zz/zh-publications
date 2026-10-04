@@ -1,0 +1,30 @@
+/* Shared navigation; the existing site's typography, colors and content layout remain in main.css. */
+.ap-header-wrap{padding-top:.5em;padding-bottom:.5em}
+.ap-navigation{display:flex;align-items:center;gap:36px;min-height:38px;color:#fff}
+.ap-navigation a{color:#fff;text-decoration:none;white-space:nowrap;line-height:1.5}
+.ap-main-links{display:flex;align-items:center;gap:28px}
+.ap-main-links a{position:relative;padding:6px 0;font-size:1em}
+.ap-main-links a::after{content:"";position:absolute;left:0;right:0;bottom:0;height:3px;background:#d7e3f0;transform:scaleX(0);transition:transform .15s ease}
+.ap-main-links a:hover::after,.ap-main-links a.is-current::after{transform:scaleX(1)}
+.ap-language{display:inline-flex;align-items:center;margin-left:auto;padding:5px 0;font-size:.88em;letter-spacing:.025em;flex-shrink:0}
+.ap-globe{width:16px;height:16px;flex:none;margin-right:6px;opacity:.9}
+.ap-language span{color:#b5c5da;font-weight:400}
+.ap-language .is-current{color:#fff;font-weight:800;text-decoration:underline;text-underline-offset:5px;text-decoration-thickness:2px}
+.ap-language .ap-slash{color:#93a8c3;margin:0 3px}
+.ap-navigation a:focus-visible,.ap-contents a:focus-visible{outline:2px solid #8bbce9;outline-offset:5px}
+.ap-contents{position:sticky;top:var(--ap-masthead-height,56px);z-index:15;background:#fff;display:flex;gap:18px;flex-wrap:nowrap;overflow-x:auto;max-width:100%;min-width:0;border-bottom:1px solid #dce4eb;padding:8px 2px 12px;margin-bottom:22px;font-size:.84em;line-height:1.7;scrollbar-width:thin;scrollbar-color:#c3cfdc transparent;overscroll-behavior-x:contain;-webkit-overflow-scrolling:touch}
+.ap-contents a{text-decoration:none;color:#52667e;white-space:nowrap;flex:0 0 auto}
+.page__content a[href*="#paper-"]{text-decoration:underline;text-decoration-thickness:1px;text-underline-offset:2px}
+.ap-contents a:hover{color:#0b5394;text-decoration:underline}
+.ap-news-list li{margin-bottom:.7em;line-height:1.65}
+.ap-news-list time{font-style:italic;white-space:nowrap}
+.ap-news-list p{display:inline;margin:0}
+.ap-news-list a{scroll-margin-top:90px}
+.ap-paper{scroll-margin-top:90px;min-width:0}
+.ap-paper>div:last-child{min-width:0}
+.ap-paper.ap-target{background-color:#fff2cc;outline:2px solid #c2d6eb;outline-offset:7px;border-radius:2px;transition:background-color .8s ease-out,outline-color .8s ease-out}
+.ap-paper.ap-target.ap-target-fading{background-color:transparent;outline-color:transparent}
+@media(max-width:800px){.ap-navigation{gap:16px}.ap-main-links{gap:20px}.ap-navigation a{font-size:15px}.ap-header-wrap{padding-left:16px;padding-right:16px}.ap-contents{font-size:.8em}}
+@media(max-width:430px){.ap-main-links{gap:16px}.ap-navigation a{font-size:14px}.ap-language{font-size:13px!important}.ap-header-wrap{padding-left:12px;padding-right:12px}.ap-navigation{gap:12px}.ap-language .ap-slash{margin:0 1px}}
+@media(max-width:350px){.ap-main-links{gap:6px}.ap-navigation a{font-size:13px}.ap-header-wrap{padding-left:8px;padding-right:8px}.ap-navigation{gap:6px}.ap-language{font-size:12px!important}}
+@media(prefers-reduced-motion:reduce){.ap-paper.ap-target,.ap-main-links a::after{transition:none}}

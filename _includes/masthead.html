@@ -1,21 +1,18 @@
+{% assign nav = site.data.academic_navigation %}
+{% assign section = page.ap_section | default: nav.default_section %}
+{% assign lang = page.ap_lang | default: nav.language %}
 <div class="masthead">
-  <div class="masthead__inner-wrap">
-    <div class="masthead__menu">
-      <nav id="site-nav" class="greedy-nav">
-        <button><div class="navicon"></div></button>
-        <ul class="visible-links">
-          <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item">
-            <a href="#about-me" target="_self">中文主页</a>
-          </li>
-
-          {% for link in site.data.navigation.main %}
-            <li class="masthead__menu-item">
-              <a href="{{ link.url }}" target="_self">{{ link.title }}</a>
-            </li>
-          {% endfor %}
-        </ul>
-        <ul class="hidden-links hidden"></ul>
-      </nav>
-    </div>
+  <div class="masthead__inner-wrap ap-header-wrap">
+    <nav class="ap-navigation" aria-label="{% if lang == 'zh' %}主导航{% else %}Main navigation{% endif %}">
+      <div class="ap-main-links">
+      {% for link in nav.links %}
+        <a href="{{ link.url }}" target="_self" data-section="{{ link.key }}"{% if section == link.key %} class="is-current" aria-current="page"{% endif %}>{{ link.title }}</a>
+      {% endfor %}
+      </div>
+      {% if page.ap_switch %}{% assign switch_url = page.ap_switch %}{% else %}{% assign switch_url = nav.language_switch %}{% endif %}
+      {% if switch_url %}
+      <a class="ap-language" href="{{ switch_url }}" target="_self" aria-label="{% if lang == 'zh' %}Switch to English{% else %}切换到中文{% endif %}"><svg class="ap-globe" viewBox="0 0 24 24" aria-hidden="true" focusable="false" fill="none" stroke="currentColor" stroke-width="1.6"><circle cx="12" cy="12" r="9"></circle><ellipse cx="12" cy="12" rx="4" ry="9"></ellipse><path d="M3 12h18"></path></svg><span lang="en"{% if lang == 'en' %} class="is-current"{% endif %}>EN</span><span class="ap-slash" aria-hidden="true"> / </span><span lang="zh"{% if lang == 'zh' %} class="is-current"{% endif %}>中</span></a>
+      {% endif %}
+    </nav>
   </div>
 </div>

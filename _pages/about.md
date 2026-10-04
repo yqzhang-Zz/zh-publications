@@ -1,11 +1,14 @@
 ---
 permalink: /
-title: ""
-excerpt: ""
+title: Full Publication List
+excerpt: ''
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+redirect_from:
+- /about/
+- /about.html
+ap_lang: en
+ap_section: publications
+ap_full_english: true
 ---
 
 {% if site.google_scholar_stats_use_cdn %}
@@ -27,7 +30,7 @@ redirect_from:
 </div>
 
 {% for paper in site.data.journal_papers %}
-<div style="display: flex; margin-bottom: 1.5em; text-align: left;">
+<div id="{{ paper.anchor }}" class="ap-paper" style="display: flex; margin-bottom: 1.5em; text-align: left;">
   
   <div style="flex: 0 0 3.6em; color: #64748b; font-weight: bold; font-size: 1em; padding-top: 2px;">[{{ paper.id }}]</div>
   
@@ -65,7 +68,7 @@ redirect_from:
       <a href="{{ paper.link }}" target="_blank" style="color: #0b5394; border: 1px solid #0b5394; border-radius: 4px; padding: 1px 6px; text-decoration: none; font-weight: bold; font-size: 0.8em; white-space: nowrap; vertical-align: middle; margin-left: 2px;"><i class="fas fa-file-pdf"></i> Paper</a>
       
       {% if paper.link_cn %}
-      <a href="{{ paper.link_cn }}" target="_blank" style="color: #0b5394; border: 1px solid #0b5394; border-radius: 4px; padding: 1px 6px; text-decoration: none; font-weight: bold; font-size: 0.8em; white-space: nowrap; vertical-align: middle; margin-left: 6px;"><i class="fas fa-language"></i> 中文版</a>
+      <a href="{{ paper.link_cn }}" target="_blank" style="color: #0b5394; border: 1px solid #0b5394; border-radius: 4px; padding: 1px 6px; text-decoration: none; font-weight: bold; font-size: 0.8em; white-space: nowrap; vertical-align: middle; margin-left: 6px;"><i class="fas fa-language"></i> Chinese Version</a>
       {% endif %}
 
       {% if paper.code %}
@@ -88,7 +91,7 @@ redirect_from:
   <button onclick="toggleBib('{{ paper.id }}')" style="background: #ffffff; border: 1px solid #cbd5e1; padding: 2px 6px; border-radius: 4px; font-size: 0.75em; cursor: pointer; color: #475569; font-weight: bold; transition: all 0.2s;">Fold</button>
 </div>
       
-      <pre style="margin: 0; font-size: 0.85em; font-family: 'Fira Code', 'JetBrains Mono', 'Consolas', 'Monaco', monospace; line-height: 1.6; color: #334155; white-space: pre; padding-top: 20px; padding-left: 10px; padding-bottom: 10px;">{{ paper.bib }}</pre>
+      <pre style="margin: 0; font-size: 0.85em; font-family: 'Fira Code', 'JetBrains Mono', 'Consolas', 'Monaco', monospace; line-height: 1.6; color: #334155; white-space: pre; padding-top: 20px; padding-left: 10px; padding-bottom: 10px;">{{ paper.bib | escape }}</pre>
     </div>
 
   </div>
@@ -104,7 +107,7 @@ redirect_from:
 
 
 {% for conf in site.data.conference_papers %}
-<div style="display: flex; margin-bottom: 1.5em; text-align: left;">
+<div id="{{ conf.anchor }}" class="ap-paper" style="display: flex; margin-bottom: 1.5em; text-align: left;">
   
   <div style="flex: 0 0 3.6em; color: #64748b; font-weight: bold; font-size: 1em; padding-top: 2px;">[{{ conf.id }}]</div>
   
@@ -165,7 +168,7 @@ redirect_from:
         <button onclick="copyConfBib(this)" style="background: #ffffff; border: 1px solid #cbd5e1; padding: 2px 6px; border-radius: 4px; font-size: 0.75em; cursor: pointer; color: #475569; font-weight: bold; transition: all 0.2s;">Copy</button>
         <button onclick="toggleConfBib('{{ conf.id }}')" style="background: #ffffff; border: 1px solid #cbd5e1; padding: 2px 6px; border-radius: 4px; font-size: 0.75em; cursor: pointer; color: #475569; font-weight: bold; transition: all 0.2s;">Fold</button>
       </div>
-      <pre style="margin: 0; font-size: 0.85em; font-family: 'Fira Code', 'JetBrains Mono', 'Consolas', 'Monaco', monospace; line-height: 1.6; color: #334155; white-space: pre; padding-top: 20px; padding-left: 10px; padding-bottom: 10px;">{{ conf.bib }}</pre>
+      <pre style="margin: 0; font-size: 0.85em; font-family: 'Fira Code', 'JetBrains Mono', 'Consolas', 'Monaco', monospace; line-height: 1.6; color: #334155; white-space: pre; padding-top: 20px; padding-left: 10px; padding-bottom: 10px;">{{ conf.bib | escape }}</pre>
     </div>
 
   </div>
@@ -266,19 +269,19 @@ function copyBib(copyBtn) {
       <div style="text-align: left; line-height: 1.8;">
         
         <div style="font-weight: bold; font-size: 1.1em; margin-bottom: 5px; color: #4b5563;">
-          📊 访问统计
+          📊 Visitor Statistics
         </div>
         
         <div style="color: #64748b; font-size: 0.9em;">
           <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
           <span id="busuanzi_container_site_pv" style="display:none;">
-            👀 总访问量: <span id="busuanzi_value_site_pv" style="font-weight: bold; color: #475569;"></span> 次
+            👀 Total Visits: <span id="busuanzi_value_site_pv" style="font-weight: bold; color: #475569;"></span>
           </span>
         </div>
         
         <div style="color: #94a3b8; font-size: 0.85em; margin-top: 2px;">
-          © {{ site.time | date: "%Y" }} 张逸群. All rights reserved.<br>
-          最后更新：{{ site.time | date: "%Y年%m月" }}
+          © {{ site.time | date: "%Y" }} Yiqun Zhang. All rights reserved.<br>
+          Last updated: {{ site.time | date: "%B %Y" }}
         </div>
         
       </div>
@@ -294,20 +297,7 @@ function copyBib(copyBtn) {
 
 
 
-<script>
-  document.addEventListener("DOMContentLoaded", function() {
-    setTimeout(function() {
-      var links = document.querySelectorAll('a');
-      links.forEach(function(link) {
-        if (link.href.includes('#about-me') || link.classList.contains('navbar-brand')) {
-          var cleanLink = link.cloneNode(true); 
-          cleanLink.href = 'https://yqzhang-zz.github.io/zh/'; 
-          link.parentNode.replaceChild(cleanLink, link); 
-        }
-      });
-    }, 800); 
-  });
-</script>
+
 
 
 

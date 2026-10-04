@@ -1,130 +1,112 @@
-# _data/conference_meta.yml
-
-# --- CCF-A ---
 SIGKDD:
-  full_name: "ACM SIGKDD Conference on Knowledge Discovery and Data Mining"
-  ccf: "A"
-  core: "A*"
-
+  full_name: ACM SIGKDD Conference on Knowledge Discovery and Data Mining
+  ccf: A
+  core: A*
 ICML:
-  full_name: "International Conference on Machine Learning"
-  ccf: "A"
-  core: "A*"
-
+  full_name: International Conference on Machine Learning
+  ccf: A
+  core: A*
 CVPR:
-  full_name: "IEEE/CVF Conference on Computer Vision and Pattern Recognition"
-  ccf: "A"
-  core: "A*"
-
+  full_name: IEEE/CVF Conference on Computer Vision and Pattern Recognition
+  ccf: A
+  core: A*
 SIGMOD:
-  full_name: "ACM SIGMOD International Conference on Management of Data"
-  ccf: "A"
-  core: "A*"
-
+  full_name: ACM SIGMOD International Conference on Management of Data
+  ccf: A
+  core: A*
 AAAI:
-  full_name: "AAAI Conference on Artificial Intelligence"
-  ccf: "A"
-  core: "A*"
-
+  full_name: AAAI Conference on Artificial Intelligence
+  ccf: A
+  core: A*
 ICCV:
-  full_name: "IEEE/CVF International Conference on Computer Vision"
-  ccf: "A"
-  core: "A*"
-
+  full_name: IEEE/CVF International Conference on Computer Vision
+  ccf: A
+  core: A*
 ACMMM:
-  full_name: "ACM International Conference on Multimedia"
-  ccf: "A"
-  core: "A*"
-
+  full_name: ACM International Conference on Multimedia
+  ccf: A
+  core: A*
 IJCAI:
-  full_name: "International Joint Conference on Artificial Intelligence"
-  ccf: "A"
-  core: "A*"
-
+  full_name: International Joint Conference on Artificial Intelligence
+  ccf: A
+  core: A*
 NeurIPS:
-  full_name: "Conference on Neural Information Processing Systems"
-  ccf: "A"
-  core: "A*"
-
-# --- CCF-B ---
+  full_name: Conference on Neural Information Processing Systems
+  ccf: A
+  core: A*
 ECML-PKDD:
-  full_name: "European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases"
-  ccf: "B"
-  core: "A"
-
+  full_name: European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases
+  ccf: B
+  core: A
 DASFAA:
-  full_name: "Database Systems for Advanced Applications"
-  ccf: "B"
-  core: "B"
-
+  full_name: Database Systems for Advanced Applications
+  ccf: B
+  core: B
 ICASSP:
-  full_name: "IEEE International Conference on Acoustics, Speech and Signal Processing"
-  ccf: "B"
-  core: "B"
-
+  full_name: IEEE International Conference on Acoustics, Speech and Signal Processing
+  ccf: B
+  core: B
 BIBM:
-  full_name: "IEEE International Conference on Bioinformatics and Biomedicine"
-  ccf: "B"
-  core: "B"
-
+  full_name: IEEE International Conference on Bioinformatics and Biomedicine
+  ccf: B
+  core: B
 ECAI:
-  full_name: "European Conference on Artificial Intelligence"
-  ccf: "B"
-  core: "A"
-
+  full_name: European Conference on Artificial Intelligence
+  ccf: B
+  core: A
 ICDCS:
-  full_name: "IEEE International Conference on Distributed Computing Systems"
-  ccf: "B"
-  core: "A"
-
+  full_name: IEEE International Conference on Distributed Computing Systems
+  ccf: B
+  core: A
 CIKM:
-  full_name: "ACM International Conference on Information and Knowledge Management"
-  ccf: "B"
-  core: "A"
-
+  full_name: ACM International Conference on Information and Knowledge Management
+  ccf: B
+  core: A
 ICDM:
-  full_name: "IEEE International Conference on Data Mining"
-  ccf: "B"
-  core: "A*"
-  
-# --- CCF-C ---
+  full_name: IEEE International Conference on Data Mining
+  ccf: B
+  core: A*
 ICPR:
-  full_name: "International Conference on Pattern Recognition"
-  ccf: "C"
-  core: "B"
-
+  full_name: International Conference on Pattern Recognition
+  ccf: C
+  core: B
 IJCNN:
-  full_name: "International Joint Conference on Neural Networks"
-  ccf: "C"
-  core: "B"
-
+  full_name: International Joint Conference on Neural Networks
+  ccf: C
+  core: B
 PRICAI:
-  full_name: "Pacific Rim International Conference on Artificial Intelligence"
-  ccf: "C"
-  core: "B"
-
+  full_name: Pacific Rim International Conference on Artificial Intelligence
+  ccf: C
+  core: B
 PRCV:
-  full_name: "Chinese Conference on Pattern Recognition and Computer Vision"
-  ccf: "C"
-  core: "-"
-
+  full_name: Chinese Conference on Pattern Recognition and Computer Vision
+  ccf: C
+  core: '-'
 ISBRA:
-  full_name: "International Symposium on Bioinformatics Research and Applications"
-  ccf: "C"
-  core: "-"
-
+  full_name: International Symposium on Bioinformatics Research and Applications
+  ccf: C
+  core: '-'
 ICIC:
-  full_name: "International Conference on Intelligent Computing"
-  ccf: "C"
-  core: "-"
-
+  full_name: International Conference on Intelligent Computing
+  ccf: C
+  core: '-'
 DSAA:
-  full_name: "IEEE International Conference on Data Science and Advanced Analytics"
-  ccf: "C"
-  core: "B"
-
-# --- Others ---
+  full_name: IEEE International Conference on Data Science and Advanced Analytics
+  ccf: C
+  core: B
 Other:
-  full_name: "Other Conferences / Workshops"
-  ccf: "-"
-  core: "-"
+  full_name: Other Conferences / Workshops
+  ccf: '-'
+  core: '-'
+CIS:
+  full_name: Proceedings of the International Conference on Computational Intelligence and Security (CIS)
+DOCS:
+  full_name: Proceedings of the International Conference on Data-driven Optimization of Complex Systems (DOCS)
+ICEIEC:
+  full_name: Proceedings of the IEEE International Conference on Electronics Information and Emergency Communication (ICEIEC)
+ISMIS:
+  full_name: Proceedings of the International Symposium on Methodologies for Intelligent Systems (ISMIS)
+ICACI:
+  full_name: Proceedings of the International Conference on Advanced Computational Intelligence (ICACI)
+ICDMW:
+  full_name: Proceedings of the IEEE International Conference on Data Mining Workshop (ICDMW)

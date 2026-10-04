@@ -1,94 +1,95 @@
-# _data/journal_meta.yml
-
 TNNLS:
-  if: "9.7"
-  jcr: "Q1"
-  cas: "1区Top"
-
+  if: '9.7'
+  jcr: Q1
+  cas: 1区Top
+  full_name: IEEE Transactions on Neural Networks and Learning Systems
 TETCI:
-  if: "6.0"
-  jcr: "Q1"
-  cas: "2区"
-
+  if: '6.0'
+  jcr: Q1
+  cas: 2区
+  full_name: IEEE Transactions on Emerging Topics in Computational Intelligence
 TPAMI:
-  if: "20.4"
-  jcr: "Q1"
-  cas: "1区Top"
-
+  if: '20.4'
+  jcr: Q1
+  cas: 1区Top
+  full_name: IEEE Transactions on Pattern Analysis and Machine Intelligence
 TMM:
-  if: "9.9"
-  jcr: "Q1"
-  cas: "1区Top"
-
+  if: '9.9'
+  jcr: Q1
+  cas: 1区Top
+  full_name: IEEE Transactions on Multimedia
 IoTJ:
-  if: "8.7"
-  jcr: "Q1"
-  cas: "1区Top"
-
+  if: '8.7'
+  jcr: Q1
+  cas: 1区Top
+  full_name: IEEE Internet of Things Journal
 TCYB:
-  if: "11.3"
-  jcr: "Q1"
-  cas: "1区Top"
-
+  if: '11.3'
+  jcr: Q1
+  cas: 1区Top
+  full_name: IEEE Transactions on Cybernetics
 TIP:
-  if: "15.3"
-  jcr: "Q1"
-  cas: "1区Top"
-
+  if: '15.3'
+  jcr: Q1
+  cas: 1区Top
+  full_name: IEEE Transactions on Image Processing
 TCE:
-  if: "9.9"
-  jcr: "Q1"
-  cas: "1区Top"
-
+  if: '9.9'
+  jcr: Q1
+  cas: 1区Top
+  full_name: IEEE Transactions on Consumer Electronics
 INS:
-  if: "6.0"
-  jcr: "Q1"
-  cas: "1区Top"
-
+  if: '6.0'
+  jcr: Q1
+  cas: 1区Top
+  full_name: Information Sciences
 ESWA:
-  if: "9.4"
-  jcr: "Q1"
-  cas: "1区Top"
+  if: '9.4'
+  jcr: Q1
+  cas: 1区Top
+  full_name: Expert Systems with Applications
 PR:
-  if: "9.1"
-  jcr: "Q1"
-  cas: "1区Top"
-
+  if: '9.1'
+  jcr: Q1
+  cas: 1区Top
+  full_name: Pattern Recognition
 NEUCOM:
-  if: "6.7"
-  jcr: "Q1"
-  cas: "2区Top"
-
+  if: '6.7'
+  jcr: Q1
+  cas: 2区Top
+  full_name: Neurocomputing
 CAIS:
-  if: "4.5"
-  jcr: "Q2"
-  cas: "3区"
-
+  if: '4.5'
+  jcr: Q2
+  cas: 3区
+  full_name: Complex \& Intelligent Systems
 EXSY:
-  if: "3.4"
-  jcr: "Q2"
-  cas: "3区"
-
+  if: '3.4'
+  jcr: Q2
+  cas: 3区
+  full_name: Expert Systems
 IJWMIP:
-  if: "0.8"
-  jcr: "Q4"
-  cas: "4区"
-
+  if: '0.8'
+  jcr: Q4
+  cas: 4区
+  full_name: International Journal of Wavelets, Multiresolution and Information Processing
 JBHI:
-  if: "7.7"
-  jcr: "Q1"
-  cas: "1区Top"
-
+  if: '7.7'
+  jcr: Q1
+  cas: 1区Top
+  full_name: IEEE Journal of Biomedical and Health Informatics
 ISCLS:
-  if: "5.2"
-  jcr: "Q1"
-  cas: "2区"
-
+  if: '5.2'
+  jcr: Q1
+  cas: 2区
+  full_name: 'Interdisciplinary Sciences: Computational Life Sciences'
 CIM:
-  if: "7.7"
-  jcr: "Q1"
-  cas: "2区"
-
+  if: '7.7'
+  jcr: Q1
+  cas: 2区
+  full_name: IEEE Computational Intelligence Magazine
 TAI:
-
-Other:
+  full_name: IEEE Transactions on Artificial Intelligence
+Other: {}
+PEASA:
+  full_name: Proceedings of the European Academy of Sciences and Arts

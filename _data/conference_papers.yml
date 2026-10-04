@@ -1,1021 +1,577 @@
-# _data/conference_papers.yml
-
-# ==================== 2026 ====================
-- id: "C062"
-  venue: "SIGMOD'27"
-  conf_key: "SIGMOD"
-  title: "Exact Graph Structure Learning with Tensor Affinity for Topology-Refined Deep Clustering"
-  authors: "Yu Wang, Junyu Li, Hongmin Cai<sup>&#x2709;</sup>, Zhuoyao Wang and <strong>Yiqun Zhang</strong><sup>&#x2709;</sup>"
-  tag: ""
-  link: "#"
-  bib: |-
-    @inproceedings{wang2027exact,
-      author = {Wang, Yu and Li, Junyu and Cai, Hongmin and Wang, Zhuoyao and Zhang, Yiqun},
-      title = {Exact Graph Structure Learning with Tensor Affinity for Topology-Refined Deep Clustering},
-      booktitle = {Proceedings of the ACM SIGMOD International Conference on Management of Data},
-      address = {Huntington Beach, CA, USA, June 13--19},
-      year = {2027}
-    }
-
-- id: "C061"
-  venue: "BIBM'26"
-  conf_key: "BIBM"
-  title: "One-Shot Hierarchical Federated Clustering for Distributed Non-IID Biomedical Data Analysis"
-  authors: "Shenghong Cai and <strong>Yiqun Zhang</strong><sup>&#x2709;</sup>"
-  tag: ""
-  link: "#"
-  bib: |-
-    @inproceedings{cai2026oneshot,
-      author = {Cai, Shenghong and Zhang, Yiqun},
-      title = {One-Shot Hierarchical Federated Clustering for Distributed Non-IID Biomedical Data Analysis},
-      booktitle = {Proceedings of the IEEE International Conference on Bioinformatics and Biomedicine (BIBM)},
-      address = {Dallas, USA, December 1--4},
-      year = {2026}
-    }
-
-- id: "C060"
-  venue: "BIBM'26"
-  conf_key: "BIBM"
-  title: "DOcTreeMamba: Topology-Aware Mamba for 3D Medical Segmentation via Octree Sparsification"
-  authors: "Kaixiang Mai, Jiaqi Yu, Yuzhu Ji<sup>&#x2709;</sup>, <strong>Yiqun Zhang</strong>, Zhijie Wang, Haijun Zhang and Yiu-ming Cheung"
-  tag: ""
-  link: "#"
-  bib: |-
-    @inproceedings{mai2026octreemamba,
-      author = {Mai, Kaixiang and Yu, Jiaqi and Ji, Yuzhu and Zhang, Yiqun and Wang, Zhijie and Zhang, Haijun and Cheung, Yiu-ming},
-      title = {DOcTreeMamba: Topology-Aware Mamba for 3D Medical Segmentation via Octree Sparsification},
-      booktitle = {Proceedings of the IEEE International Conference on Bioinformatics and Biomedicine (BIBM)},
-      address = {Dallas, USA, December 1--4},
-      year = {2026}
-    }
-
-- id: "C059"
-  venue: "ICDM'26"
-  conf_key: "ICDM"
-  title: "Seeing Time: Visual-Temporal Representation Learning for Interpretable Time Series Clustering"
-  authors: "Zheng Zhu, Zexi Tan<sup>&#x2709;</sup>, Yuming Deng and <strong>Yiqun Zhang</strong>"
-  tag: "Teen Research Track Paper"
-  link: "#"
-  code: "#"
-  bib: |-
-    @inproceedings{zhu2026seeing,
-      author = {Zhu, Zheng and Tan, Zexi and Deng, Yuming and Zhang, Yiqun},
-      title = {Seeing Time: Visual-Temporal Representation Learning for Interpretable Time Series Clustering},
-      booktitle = {Proceedings of the IEEE International Conference on Data Mining (ICDM)},
-      address = {Shenyang, China, November 12--15},
-      year = {2026}
-    }
-
-- id: "C058"
-  venue: "ICDM'26"
-  conf_key: "ICDM"
-  title: "When Prediction Shapes the Future: A BlueSky Agenda for Reflexive Time Series Analysis"
-  authors: "Tao Xie, <strong>Yiqun Zhang</strong><sup>&#x2709;</sup> and Yiu-Ming Cheung"
-  tag: "BlueSky Track Paper"
-  link: "#"
-  code: "#"
-  bib: |-
-    @inproceedings{xie2026when,
-      author = {Xie, Tao and Zhang, Yiqun and Cheung, Yiu-ming},
-      title = {When Prediction Shapes the Future: A BlueSky Agenda for Reflexive Time Series Analysis},
-      booktitle = {Proceedings of the IEEE International Conference on Data Mining (ICDM)},
-      address = {Shenyang, China, November 12--15},
-      year = {2026}
-    }
-
-- id: "C057"
-  venue: "CIKM'26"
-  conf_key: "CIKM"
-  title: "Stitch the Fragments: One-Shot Hierarchical Federated Clustering"
-  authors: "Shenghong Cai, Zihua Yang, Yuzhu Ji, <strong>Yiqun Zhang</strong><sup>&#x2709;</sup>, Mengke Li, Yang Lu and Yiu-Ming Cheung"
-  tag: ""
-  link: "https://arxiv.org/abs/2601.06404"
-  code: "https://github.com/hongdream/Fed-HIRE"
-  bib: |-
-    @inproceedings{cai2026stitch,
-      author = {Cai, Shenghong and Yang, Zihua and Ji, Yuzhu and Zhang, Yiqun and Li, Mengke and Lu, Yang and Cheung, Yiu-ming},
-      title = {Stitch the Fragments: One-Shot Hierarchical Federated Clustering},
-      booktitle = {Proceedings of the ACM International Conference on Knowledge and Information Management (CIKM)},
-      address = {Rome, Italy, November 7--11},
-      year = {2026}
-    }
-
-- id: "C056"
-  venue: "ECML-PKDD'26"
-  conf_key: "ECML-PKDD"
-  title: "Imputation Meets Clustering: Exploiting Latent Subgroup Structure for Missing Data Recovery"
-  authors: "Chuyao Zhang, E Li, Taochen Chen, <strong>Yiqun Zhang</strong><sup>&#x2709;</sup>, Yuzhu Ji, Shuping Zhao, Peng Liu and Yiu-ming Cheung"
-  tag: ""
-  link: "https://arxiv.org/abs/2607.06930"
-  code: "https://github.com/supercocachii/CAGI"
-  bib: |-
-    @inproceedings{zhang2026imputation,
-      author = {Zhang, Chuyao and Li, E and Chen, Taochen and Zhang, Yiqun and Ji, Yuzhu and Zhao, Shuping and Liu, Peng and Cheung, Yiu-ming},
-      title = {Imputation Meets Clustering: Exploiting Latent Subgroup Structure for Missing Data Recovery},
-      booktitle = {Proceedings of the European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD)},
-      address = {Naples, Italy, September 7--11},
-      year = {2026}
-    }
-
-- id: "C055"
-  venue: "ICPR'26"
-  conf_key: "ICPR"
-  title: "Bridging the Semantic Gap for Categorical Data Clustering via Large Language Models"
-  authors: "Zihua Yang, Xin Liao, <strong>Yiqun Zhang</strong><sup>&#x2709;</sup> and Yiu-ming Cheung"
-  tag: ""
-  link: "https://arxiv.org/abs/2601.01162"
-  code: "https://github.com/develop-yang/ARISE"
-  bib: |-
-    @inproceedings{yang2026bridging,
-      author = {Yang, Zihua and Liao, Xin and Zhang, Yiqun and Cheung, Yiu-ming},
-      title = {Bridging the Semantic Gap for Categorical Data Clustering via Large Language Models},
-      booktitle = {Proceedings of the International Conference on Pattern Recognition (ICPR)},
-      address = {Lyon, France, August 17--22},
-      year = {2026}
-    }
-
-- id: "C054"
-  venue: "SIGKDD'26"
-  conf_key: "SIGKDD"
-  title: "AnchorMoE: Interpretable Time Series Classification via Anchor-Routed MoE"
-  authors: "Tao Xie, Zexi Tan, Haoyi Xiao, Mengke Li, <strong>Yiqun Zhang</strong><sup>&#x2709;</sup>, Yang Lu, Cuie Yang and Yiu-ming Cheung"
-  tag: ""
-  link: "https://arxiv.org/abs/2606.03631"
-  code: "https://github.com/kuxit/AnchorMoE"
-  bib: |-
-    @inproceedings{xie2026anchormoe,
-      author = {Xie, Tao and Tan, Zexi and Xiao, Haoyi and Li, Mengke and Zhang, Yiqun and Lu, Yang and Yang, Cuie and Cheung, Yiu-ming},
-      title = {AnchorMoE: Interpretable Time Series Classification via Anchor-Routed MoE},
-      booktitle = {Proceedings of the ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)},
-      address = {Jeju, South Korea, August 9--13},
-      year = {2026}
-    }
-
-- id: "C053"
-  venue: "ICML'26"
-  conf_key: "ICML"
-  title: "CARE: Class-Adaptive Expert Consensus for Reliable Learning with Long-Tailed Noisy Labels"
-  authors: "Mengke Li, Haiquan Ling, Lihao Chen, Yang Lu, <strong>Yiqun Zhang</strong> and Hui Huang<sup>&#x2709;</sup>"
-  tag: ""
-  link: "https://arxiv.org/abs/2605.23254"
-  bib: |-
-    @inproceedings{li2026care,
-      author = {Li, Mengke and Ling, Haiquan and Chen, Lihao and Lu, Yang and Zhang, Yiqun and Huang, Hui},
-      title = {CARE: Class-Adaptive Expert Consensus for Reliable Learning with Long-Tailed Noisy Labels},
-      booktitle = {Proceedings of the International Conference on Machine Learning (ICML)},
-      address = {Seoul, South Korea, July 6--11},
-      year = {2026}
-    }
-
-- id: "C052"
-  venue: "IJCNN'26"
-  conf_key: "IJCNN"
-  title: "FMoE: Frequency-Guided Multi-Period MoE Modeling for Time Series Forecasting"
-  authors: "Taochen Chen, Jialiang Chen, <strong>Yiqun Zhang</strong><sup>&#x2709;</sup>, Mengke Li, Yang Lu and Yiu-ming Cheung"
-  tag: ""
-  link: "https://linklings.s3.amazonaws.com/organizations/WCCI/wcci2026/submissions/stype114/P8ave-ijcnn_pap2756s2.pdf"
-  bib: |-
-    @inproceedings{chen2026fmoe,
-      author = {Chen, Taochen and Chen, Jialiang and Zhang, Yiqun and Li, Mengke and Lu, Yang and Cheung, Yiu-ming},
-      title = {FMoE: Frequency-Guided Multi-Period MoE Modeling for Time Series Forecasting},
-      booktitle = {Proceedings of the International Joint Conference on Neural Networks (IJCNN)},
-      address = {Maastricht, Netherlands, June 21--26},
-      year = {2026}
-    }
-
-- id: "C051"
-  venue: "IJCNN'26"
-  conf_key: "IJCNN"
-  title: "PIN-LoRA: Positive-Incentive Noise Aggregation for Federated Long-Tailed Learning"
-  authors: "Chenghao Jin, Shihao Hou, Jiacheng Yang, Mengke Li, <strong>Yiqun Zhang</strong>, Yang Lu<sup>&#x2709;</sup> and Yiu-ming Cheung"
-  tag: ""
-  link: "https://linklings.s3.amazonaws.com/organizations/WCCI/wcci2026/submissions/stype114/8FhTa-ijcnn_pap3330s2.pdf"
-  bib: |-
-    @inproceedings{jin2026pinlora,
-      author = {Jin, Chenghao and Hou, Shihao and Yang, Jiacheng and Li, Mengke and Zhang, Yiqun and Lu, Yang and Cheung, Yiu-ming},
-      title = {PIN-LoRA: Positive-Incentive Noise Aggregation for Federated Long-Tailed Learning},
-      booktitle = {Proceedings of the International Joint Conference on Neural Networks (IJCNN)},
-      address = {Maastricht, Netherlands, June 21--26},
-      year = {2026}
-    }
-
-- id: "C050"
-  venue: "CVPR'26"
-  conf_key: "CVPR"
-  title: "SECOS: Semantic Capture for Rigorous Classification in Open-World Semi-Supervised Learning"
-  authors: "Hezhao Liu, Jiacheng Yang, Junlong Gao, Mengke Li, <strong>Yiqun Zhang</strong>, Shreyank N Gowda and Yang Lu<sup>&#x2709;</sup>"
-  tag: ""
-  link: "https://arxiv.org/abs/2604.27596"
-  bib: |-
-    @inproceedings{liu2026secos,
-      author = {Liu, Hezhao and Yang, Jiacheng and Gao, Junlong and Li, Mengke and Zhang, Yiqun and Gowda, Shreyank N and Lu, Yang},
-      title = {SECOS: Semantic Capture for Rigorous Classification in Open-World Semi-Supervised Learning},
-      booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
-      address = {Denver, CO, USA, June 3--7},
-      year = {2026}
-    }
-
-- id: "C049"
-  venue: "CVPR'26"
-  conf_key: "CVPR"
-  title: "Fine-Tuning Impairs the Balancedness of Foundation Models in Long-tailed Personalized Federated Learning"
-  authors: "Shihao Hou, Chikai Shang, Zhiheng Yang, Jiacheng Yang, Xinyi Shang, Junlong Gao, <strong>Yiqun Zhang</strong> and Yang Lu<sup>&#x2709;</sup>"
-  tag: ""
-  link: "https://arxiv.org/abs/2605.02247"
-  bib: |-
-    @inproceedings{hou2026finetuning,
-      author = {Hou, Shihao and Shang, Chikai and Yang, Zhiheng and Yang, Jiacheng and Shang, Xinyi and Gao, Junlong and Zhang, Yiqun and Lu, Yang},
-      title = {Fine-Tuning Impairs the Balancedness of Foundation Models in Long-tailed Personalized Federated Learning},
-      booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
-      address = {Denver, CO, USA, June 3--7},
-      year = {2026}
-    }
-
-- id: "C048"
-  venue: "SIGMOD'26"
-  conf_key: "SIGMOD"
-  title: "Categorical Data Clustering via Value Order Estimated Distance Metric Learning"
-  authors: "<strong>Yiqun Zhang</strong>, Mingjie Zhao, Hong Jia, Mengke Li, Yang Lu and Yiu-ming Cheung<sup>&#x2709;</sup>"
-  tag: ""
-  link: "https://dl.acm.org/doi/abs/10.1145/3769772"
-  code: "https://github.com/csmjzhao/OCL_Source_Code"
-  bib: |-
-    @inproceedings{zhang2026categorical,
-      author = {Zhang, Yiqun and Zhao, Mingjie and Jia, Hong and Li, Mengke and Lu, Yang and Cheung, Yiu-ming},
-      title = {Categorical Data Clustering via Value Order Estimated Distance Metric Learning},
-      booktitle = {Proceedings of the ACM SIGMOD International Conference on Management of Data},
-      address = {Bengaluru, India, May 31--June 5},
-      year = {2026}
-    }
-
-- id: "C047"
-  venue: "ICASSP'26"
-  conf_key: "ICASSP"
-  title: "STRPNET: Video Salient Object Detection via Spatio-Temporal Scene Relation Propagation"
-  authors: "Shujie Qiu, Jie Yang, Jiaqi Yu, <strong>Yiqun Zhang</strong>, Yuzhu Ji<sup>&#x2709;</sup> and Peng Liu"
-  tag: ""
-  link: "https://ieeexplore.ieee.org/abstract/document/11464131/"
-  bib: |-
-    @inproceedings{qiu2026strpnet,
-      author = {Qiu, Shujie and Yang, Jie and Yu, Jiaqi and Zhang, Yiqun and Ji, Yuzhu and Liu, Peng},
-      title = {STRPNET: Video Salient Object Detection via Spatio-Temporal Scene Relation Propagation},
-      booktitle = {Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
-      address = {Barcelona, Spain, May 4--8},
-      year = {2026}
-    }
-
-- id: "C046"
-  venue: "ICASSP'26"
-  conf_key: "ICASSP"
-  title: "CADM: Cluster-customized Adaptive Distance Metric for Categorical Data Clustering"
-  authors: "Taixi Chen, Yiu-ming Cheung<sup>&#x2709;</sup> and <strong>Yiqun Zhang</strong>"
-  tag: ""
-  link: "https://arxiv.org/abs/2511.05826"
-  bib: |-
-    @inproceedings{chen2026cadm,
-      author = {Chen, Taixi and Cheung, Yiu-ming and Zhang, Yiqun},
-      title = {CADM: Cluster-customized Adaptive Distance Metric for Categorical Data Clustering},
-      booktitle = {Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
-      address = {Barcelona, Spain, May 4--8},
-      year = {2026}
-    }
-
-- id: "C045"
-  venue: "DASFAA'26"
-  conf_key: "DASFAA"
-  title: "HyReaL: Clustering Attributed Graph via Hyper-Complex Space Representation Learning"
-  authors: "Junyang Chen, Yang Lu, Mengke Li, Cuie Yang, <strong>Yiqun Zhang</strong><sup>&#x2709;</sup> and Yiu-ming Cheung"
-  tag: ""
-  link: "https://arxiv.org/abs/2411.14727"
-  bib: |-
-    @inproceedings{chen2026hyreal,
-      author = {Chen, Junyang and Lu, Yang and Li, Mengke and Yang, Cuie and Zhang, Yiqun and Cheung, Yiu-ming},
-      title = {HyReaL: Clustering Attributed Graph via Hyper-Complex Space Representation Learning},
-      booktitle = {Proceedings of the International Conference on Database Systems for Advanced Applications (DASFAA)},
-      address = {Jeju Island, South Korea, April 27--30},
-      year = {2026}
-    }
-
-- id: "C044"
-  venue: "AAAI'26"
-  conf_key: "AAAI"
-  title: "Mask the Redundancy: Evolving Masking Representation Learning for Multivariate Time-Series Clustering"
-  authors: "Zexi Tan, Xiaopeng Luo, Yunlin Liu and <strong>Yiqun Zhang</strong><sup>&#x2709;</sup>"
-  tag: ""
-  link: "https://ojs.aaai.org/index.php/AAAI/article/view/39777"
-  code: "https://github.com/yueliangy/EMTC"
-  bib: |-
-    @inproceedings{tan2026mask,
-      author = {Tan, Zexi and Luo, Xiaopeng and Liu, Yunlin and Zhang, Yiqun},
-      title = {Mask the Redundancy: Evolving Masking Representation Learning for Multivariate Time-Series Clustering},
-      booktitle = {Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)},
-      address = {Singapore, January 20--27},
-      year = {2026}
-    }
-
-- id: "C043"
-  venue: "AAAI'26"
-  conf_key: "AAAI"
-  title: "Break the Tie: Learning Cluster-Customized Category Relationships for Categorical Data Clustering"
-  authors: "Mingjie Zhao, Zhanpei Huang, Yang Lu, Mengke Li, <strong>Yiqun Zhang</strong><sup>&#x2709;</sup>, Weifeng Su and Yiu-ming Cheung"
-  tag: ""
-  link: "https://ojs.aaai.org/index.php/AAAI/article/view/40104"
-  extended: "https://arxiv.org/abs/2511.09049"
-  code: "https://github.com/ZHAO-Mingjie/SCOF"
-  bib: |-
-    @inproceedings{zhao2026break,
-      author = {Zhao, Mingjie and Huang, Zhanpei and Lu, Yang and Li, Mengke and Zhang, Yiqun and Su, Weifeng and Cheung, Yiu-ming},
-      title = {Break the Tie: Learning Cluster-Customized Category Relationships for Categorical Data Clustering},
-      booktitle = {Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)},
-      address = {Singapore, January 20--27},
-      year = {2026}
-    }
-
-# ==================== 2025 ====================
-- id: "C042"
-  venue: "BIBM'25"
-  conf_key: "BIBM"
-  title: "DE3S: Dual-Enhanced Soft-Sparse-Shape Learning for Medical Early Time-Series Classification"
-  authors: "Tao Xie, Zexi Tan, Haoyi Xiao, <strong>Yiqun Zhang</strong><sup>&#x2709;</sup> and Binbin Sun"
-  tag: ""
-  link: "https://arxiv.org/abs/2510.12214"
-  code: "https://github.com/kuxit/DE3S"
-  bib: |-
-    @inproceedings{xie2025de3s,
-      author = {Xie, Tao and Tan, Zexi and Xiao, Haoyi and Zhang, Yiqun and Sun, Binbin},
-      title = {DE3S: Dual-Enhanced Soft-Sparse-Shape Learning for Medical Early Time-Series Classification},
-      booktitle = {Proceedings of the IEEE International Conference on Bioinformatics and Biomedicine (BIBM)},
-      address = {Wuhan, China, December 15--18},
-      year = {2025}
-    }
-
-- id: "C041"
-  venue: "CIS'25"
-  conf_key: "Other"
-  title: "Detecting Autism Spectrum Disorder with Deep Eye Movement Features"
-  authors: "Zhanpei Huang, Taochen Chen, Fangqing Gu and <strong>Yiqun Zhang</strong><sup>&#x2709;</sup>"
-  tag: ""
-  link: "https://ieeexplore.ieee.org/document/11433745"
-  bib: |-
-    @inproceedings{huang2025detecting,
-      author = {Huang, Zhanpei and Chen, Taochen and Gu, Fangqing and Zhang, Yiqun},
-      title = {Detecting Autism Spectrum Disorder with Deep Eye Movement Features},
-      booktitle = {Proceedings of the International Conference on Computational Intelligence and Security (CIS)},
-      address = {Nanning, China, December 12--15},
-      year = {2025}
-    }
-
-- id: "C040"
-  venue: "CIS'25"
-  conf_key: "Other"
-  title: "An AI Education Framework based on LLM-Knowledge Graph for Personalized Learning"
-  authors: "Zihao Liang, Yiou Wang, Mingjie Zhao, Sen Feng, Yunfan Zhang and <strong>Yiqun Zhang</strong><sup>&#x2709;</sup>"
-  tag: ""
-  link: "https://ieeexplore.ieee.org/document/11433876"
-  bib: |-
-    @inproceedings{liang2025ai,
-      author = {Liang, Zihao and Wang, Yiou and Zhao, Mingjie and Feng, Sen and Zhang, Yunfan and Zhang, Yiqun},
-      title = {An AI Education Framework based on LLM-Knowledge Graph for Personalized Learning},
-      booktitle = {Proceedings of the International Conference on Computational Intelligence and Security (CIS)},
-      address = {Nanning, China, December 12--15},
-      year = {2025}
-    }
-
-- id: "C039"
-  venue: "PRICAI'25"
-  conf_key: "PRICAI"
-  title: "MEET-Sepsis: Multi-Endogenous-View Enhanced Time-Series Representation Learning for Early Sepsis Prediction"
-  authors: "Zexi Tan, Tao Xie, Binbin Sun, Xiang Zhang, <strong>Yiqun Zhang</strong><sup>&#x2709;</sup> and Yiu-ming Cheung"
-  tag: ""
-  link: "https://arxiv.org/abs/2510.15985"
-  code: "https://github.com/yueliangy/MEET-Sepsis"
-  bib: |-
-    @inproceedings{tan2025meetsepsis,
-      author = {Tan, Zexi and Xie, Tao and Sun, Binbin and Zhang, Xiang and Zhang, Yiqun and Cheung, Yiu-ming},
-      title = {MEET-Sepsis: Multi-Endogenous-View Enhanced Time-Series Representation Learning for Early Sepsis Prediction},
-      booktitle = {Proceedings of the Pacific Rim International Conference on Artificial Intelligence (PRICAI)},
-      address = {Wellington, New Zealand, November 17--21},
-      year = {2025}
-    }
-
-- id: "C038"
-  venue: "ACMMM'25"
-  conf_key: "ACMMM"
-  title: "FATE: A Prompt-Tuning-Based Semi-Supervised Learning Framework for Extremely Limited Labeled Data"
-  authors: "Hezhao Liu, Yang Lu<sup>&#x2709;</sup>, Mengke Li, <strong>Yiqun Zhang</strong>, Shreyank N Gowda, Chen Gong and Hanzi Wang"
-  tag: ""
-  link: "https://dl.acm.org/doi/abs/10.1145/3746027.3754998"
-  bib: |-
-    @inproceedings{liu2025fate,
-      author = {Liu, Hezhao and Lu, Yang and Li, Mengke and Zhang, Yiqun and Gowda, Shreyank N and Gong, Chen and Wang, Hanzi},
-      title = {FATE: A Prompt-Tuning-Based Semi-Supervised Learning Framework for Extremely Limited Labeled Data},
-      booktitle = {Proceedings of the ACM International Conference on Multimedia (ACMMM)},
-      address = {Dublin, Ireland, October 27--31},
-      year = {2025}
-    }
-
-- id: "C037"
-  venue: "ECAI'25"
-  conf_key: "ECAI"
-  title: "FairFed++: Closing the Fairness Gap in Federated Learning through Self-Evolving Clustered Optimization"
-  authors: "Zhixiang Fang, Baoyao Yang<sup>&#x2709;</sup>, Weide Zhan, Yanchao Tang and <strong>Yiqun Zhang</strong>"
-  tag: ""
-  link: "https://ebooks.iospress.nl/volumearticle/75876"
-  bib: |-
-    @inproceedings{fang2025fairfed,
-      author = {Fang, Zhixiang and Yang, Baoyao and Zhan, Weide and Tang, Yanchao and Zhang, Yiqun},
-      title = {FairFed++: Closing the Fairness Gap in Federated Learning through Self-Evolving Clustered Optimization},
-      booktitle = {Proceedings of the European Conference on Artificial Intelligence (ECAI)},
-      address = {Bologna, Italy, October 25--30},
-      year = {2025}
-    }
-
-- id: "C036"
-  venue: "ICCV'25"
-  conf_key: "ICCV"
-  title: "PRO-VPT: Distribution-Adaptive Visual Prompt Tuning via Prompt Relocation"
-  authors: "Chikai Shang, Mengke Li, <strong>Yiqun Zhang</strong>, Zhen Chen, Jinlin Wu, Fangqing Gu, Yang Lu<sup>&#x2709;</sup> and Yiu-ming Cheung"
-  tag: ""
-  link: "https://openaccess.thecvf.com/content/ICCV2025/html/Shang_PRO-VPT_Distribution-Adaptive_Visual_Prompt_Tuning_via_Prompt_Relocation_ICCV_2025_paper.html"
-  bib: |-
-    @inproceedings{shang2025provpt,
-      author = {Shang, Chikai and Li, Mengke and Zhang, Yiqun and Chen, Zhen and Wu, Jinlin and Gu, Fangqing and Lu, Yang and Cheung, Yiu-ming},
-      title = {PRO-VPT: Distribution-Adaptive Visual Prompt Tuning via Prompt Relocation},
-      booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
-      address = {Honolulu, Hawaii, USA, October 19--23},
-      year = {2025}
-    }
-
-- id: "C035"
-  venue: "PRCV'25"
-  conf_key: "PRCV"
-  title: "FedCD: A Hybrid Federated Learning Framework for Adaptive Training Under Data Heterogeneity"
-  authors: "Weide Zhan, Baoyao Yang<sup>&#x2709;</sup>, Zhixiang Fang, Dongzhe Li, Yali Ma and <strong>Yiqun Zhang</strong>"
-  tag: ""
-  link: "https://link.springer.com/chapter/10.1007/978-981-95-5702-8_21"
-  bib: |-
-    @inproceedings{zhan2025fedcd,
-      author = {Zhan, Weide and Yang, Baoyao and Fang, Zhixiang and Li, Dongzhe and Ma, Yali and Zhang, Yiqun},
-      title = {FedCD: A Hybrid Federated Learning Framework for Adaptive Training Under Data Heterogeneity},
-      booktitle = {Proceedings of the Chinese Conference on Pattern Recognition and Computer Vision (PRCV)},
-      address = {Shanghai, China, October 15--18},
-      year = {2025}
-    }
-
-- id: "C034"
-  venue: "IJCAI'25"
-  conf_key: "IJCAI"
-  title: "SeqPose: An End-to-End Framework to Unify Single-frame and Video-based RGB Category-Level Pose Estimation"
-  authors: "Yuzhu Ji, Mingshan Sun, Jianyang Shi, Xiaoke Jiang, <strong>Yiqun Zhang</strong><sup>&#x2709;</sup> and Haijun Zhang"
-  tag: ""
-  link: "https://dl.acm.org/doi/abs/10.24963/ijcai.2025/137"
-  bib: |-
-    @inproceedings{ji2025seqpose,
-      author = {Ji, Yuzhu and Sun, Mingshan and Shi, Jianyang and Jiang, Xiaoke and Zhang, Yiqun and Zhang, Haijun},
-      title = {SeqPose: An End-to-End Framework to Unify Single-frame and Video-based RGB Category-Level Pose Estimation},
-      booktitle = {Proceedings of the International Joint Conference on Artificial Intelligence (IJCAI)},
-      address = {Montreal, Canada, August 16--22},
-      year = {2025}
-    }
-
-- id: "C033"
-  venue: "ISBRA'25"
-  conf_key: "ISBRA"
-  title: "EEG-TFNet: Spatiotemporal and Spectral Feature Integration for EEG-Based AD Detection"
-  authors: "An Zeng, Zhao Guo, Dan Pan<sup>&#x2709;</sup>, <strong>Yiqun Zhang</strong> and Jun Liu"
-  tag: ""
-  link: "https://link.springer.com/chapter/10.1007/978-981-95-0698-9_16"
-  bib: |-
-    @inproceedings{zeng2025eegtfnet,
-      author = {Zeng, An and Guo, Zhao and Pan, Dan and Zhang, Yiqun and Liu, Jun},
-      title = {EEG-TFNet: Spatiotemporal and Spectral Feature Integration for EEG-Based AD Detection},
-      booktitle = {Proceedings of the International Symposium on Bioinformatics Research and Applications (ISBRA)},
-      address = {Helsinki, Finland, August 3--5},
-      year = {2025}
-    }
-
-- id: "C032"
-  venue: "ICIC'25"
-  conf_key: "ICIC"
-  title: "DeSAD: Density Clustering-Guided Streaming Data Anomaly Detection"
-  authors: "Yue Zhang, Xuchuang Ding, Xiang Zhang, Wei Ai, Gengwen Huang and <strong>Yiqun Zhang</strong><sup>&#x2709;</sup>"
-  tag: ""
-  link: "papers/ICIC-25-DeSAD.pdf"
-  bib: |-
-    @inproceedings{zhang2025desad,
-      author = {Zhang, Yue and Ding, Xuchuang and Zhang, Xiang and Ai, Wei and Huang, Gengwen and Zhang, Yiqun},
-      title = {DeSAD: Density Clustering-Guided Streaming Data Anomaly Detection},
-      booktitle = {Proceedings of the International Conference on Intelligent Computing (ICIC)},
-      address = {Ningbo, China, July 26--29},
-      year = {2025}
-    }
-
-- id: "C031"
-  venue: "CVPR'25"
-  conf_key: "CVPR"
-  title: "Mind the Gap: Confidence Discrepancy Can Guide Federated Semi-Supervised Learning Across Pseudo-Mismatch"
-  authors: "Yijie Liu, Xinyi Shang, <strong>Yiqun Zhang</strong>, Yang Lu<sup>&#x2709;</sup>, Chen Gong, Jing-Hao Xue and Hanzi Wang"
-  tag: ""
-  link: "https://openaccess.thecvf.com/content/CVPR2025/html/Liu_Mind_the_Gap_Confidence_Discrepancy_Can_Guide_Federated_Semi-Supervised_Learning_CVPR_2025_paper.html"
-  bib: |-
-    @inproceedings{liu2025mind,
-      author = {Liu, Yijie and Shang, Xinyi and Zhang, Yiqun and Lu, Yang and Gong, Chen and Xue, Jing-Hao and Wang, Hanzi},
-      title = {Mind the Gap: Confidence Discrepancy Can Guide Federated Semi-Supervised Learning Across Pseudo-Mismatch},
-      booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
-      address = {Nashville, TN, USA, June 11--15},
-      year = {2025}
-    }
-
-- id: "C030"
-  venue: "ICASSP'25"
-  conf_key: "ICASSP"
-  title: "Robust Qualitative Data Clustering via Learnable Multi-Metric Space Fusion"
-  authors: "Sen Feng, Mingjie Zhao, Zhanpei Huang, Yuzhu Ji, <strong>Yiqun Zhang</strong><sup>&#x2709;</sup> and Yiu-ming Cheung"
-  tag: ""
-  link: "papers/ICASSP25-MSF.pdf"
-  code: "https://github.com/Sen-Feng/ICASSP-MSF/tree/main/CODE"
-  bib: |-
-    @inproceedings{feng2025robust,
-      author = {Feng, Sen and Zhao, Mingjie and Huang, Zhanpei and Ji, Yuzhu and Zhang, Yiqun and Cheung, Yiu-ming},
-      title = {Robust Qualitative Data Clustering via Learnable Multi-Metric Space Fusion},
-      booktitle = {Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
-      address = {Hyderabad, India, April 6--11},
-      year = {2025}
-    }
-
-- id: "C029"
-  venue: "ICASSP'25"
-  conf_key: "ICASSP"
-  title: "Weighted Density for The Win: Accurate Subspace Density Clustering"
-  authors: "Maixuan Peng, Yuyang Wu, <strong>Yiqun Zhang</strong><sup>&#x2709;</sup>, Yang Lu, Mengke Li and Yiu-ming Cheung"
-  tag: ""
-  link: "papers/ICASSP25-WDSC.pdf"
-  bib: |-
-    @inproceedings{peng2025weighted,
-      author = {Peng, Maixuan and Wu, Yuyang and Zhang, Yiqun and Lu, Yang and Li, Mengke and Cheung, Yiu-ming},
-      title = {Weighted Density for The Win: Accurate Subspace Density Clustering},
-      booktitle = {Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
-      address = {Hyderabad, India, April 6--11},
-      year = {2025}
-    }
-
-- id: "C028"
-  venue: "ICASSP'25"
-  conf_key: "ICASSP"
-  title: "SmartNet: One-shot Talking Head Synthesis via Subtle Motion and Appearance Compensation"
-  authors: "Wei Hu, Yuzhu Ji<sup>&#x2709;</sup>, An Zeng, Dan Pan, <strong>Yiqun Zhang</strong> and Haijun Zhang"
-  tag: ""
-  link: "https://ieeexplore.ieee.org/abstract/document/10887604"
-  bib: |-
-    @inproceedings{hu2025smartnet,
-      author = {Hu, Wei and Ji, Yuzhu and Zeng, An and Pan, Dan and Zhang, Yiqun and Zhang, Haijun},
-      title = {SmartNet: One-shot Talking Head Synthesis via Subtle Motion and Appearance Compensation},
-      booktitle = {Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
-      address = {Hyderabad, India, April 6--11},
-      year = {2025}
-    }
-
-- id: "C027"
-  venue: "AAAI'25"
-  conf_key: "AAAI"
-  title: "Asynchronous Federated Clustering with Unknown Number of Clusters"
-  authors: "Yunfan Zhang, <strong>Yiqun Zhang</strong><sup>&#x2709;</sup>, Yang Lu, Mengke Li, Xi Chen and Yiu-ming Cheung"
-  tag: ""
-  link: "https://ojs.aaai.org/index.php/AAAI/article/view/34429"
-  code: "https://github.com/Yunfan-Zhang/AFCL"
-  bib: |-
-    @inproceedings{zhang2025asynchronous,
-      author = {Zhang, Yunfan and Zhang, Yiqun and Lu, Yang and Li, Mengke and Chen, Xi and Cheung, Yiu-ming},
-      title = {Asynchronous Federated Clustering with Unknown Number of Clusters},
-      booktitle = {Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)},
-      address = {Philadelphia, PA, USA, February 25--March 4},
-      year = {2025}
-    }
-
-# ==================== 2024 ====================
-- id: "C026"
-  venue: "NeurIPS'24"
-  conf_key: "NeurIPS"
-  title: "Improving Visual Prompt Tuning by Gaussian Neighborhood Minimization for Long-Tailed Visual Recognition"
-  authors: "Mengke Li, Ye Liu, Yang Lu, <strong>Yiqun Zhang</strong>, Yiu-ming Cheung and Hui Huang<sup>&#x2709;</sup>"
-  tag: ""
-  link: "https://proceedings.neurips.cc/paper_files/paper/2024/hash/bc667ac84ef58f2b5022da97a465cbab-Abstract-Conference.html"
-  bib: |-
-    @inproceedings{li2024improving,
-      author = {Li, Mengke and Liu, Ye and Lu, Yang and Zhang, Yiqun and Cheung, Yiu-ming and Huang, Hui},
-      title = {Improving Visual Prompt Tuning by Gaussian Neighborhood Minimization for Long-Tailed Visual Recognition},
-      booktitle = {Proceedings of the Conference on Neural Information Processing Systems (NeurIPS)},
-      address = {Vancouver, BC, Canada, December 10--15},
-      year = {2024}
-    }
-
-- id: "C025"
-  venue: "BIBM'24"
-  conf_key: "BIBM"
-  title: "MGOD: Multi-Granular Outlier Detection with Clustlier Analysis"
-  authors: "Qingsheng Chen, Mingjie Zhao, Yuzhu Ji, Xiaopeng Luo, <strong>Yiqun Zhang</strong><sup>&#x2709;</sup> and Yue Zhang"
-  tag: ""
-  link: "papers/BIBM24-MGOD.pdf"
-  bib: |-
-    @inproceedings{chen2024mgod,
-      author = {Chen, Qingsheng and Zhao, Mingjie and Ji, Yuzhu and Luo, Xiaopeng and Zhang, Yiqun and Zhang, Yue},
-      title = {MGOD: Multi-Granular Outlier Detection with Clustlier Analysis},
-      booktitle = {Proceedings of the IEEE International Conference on Bioinformatics and Biomedicine (BIBM)},
-      address = {Lisbon, Portugal, December 3--6},
-      year = {2024}
-    }
-
-- id: "C024"
-  venue: "BIBM'24"
-  conf_key: "BIBM"
-  title: "Efficient Topology-Driven Clustering for Imbalanced Streaming Biomedical Data Analysis"
-  authors: "Xiaopeng Luo, <strong>Yiqun Zhang</strong><sup>&#x2709;</sup>, Yuzhu Ji, Peng Liu and Taoting Xiao"
-  tag: ""
-  link: "papers/BIBM24-TSSC.pdf"
-  bib: |-
-    @inproceedings{luo2024efficient,
-      author = {Luo, Xiaopeng and Zhang, Yiqun and Ji, Yuzhu and Liu, Peng and Xiao, Taoting},
-      title = {Efficient Topology-Driven Clustering for Imbalanced Streaming Biomedical Data Analysis},
-      booktitle = {Proceedings of the IEEE International Conference on Bioinformatics and Biomedicine (BIBM)},
-      address = {Lisbon, Portugal, December 3--6},
-      year = {2024}
-    }
-
-- id: "C023"
-  venue: "ICPR'24"
-  conf_key: "ICPR"
-  title: "Towards Unbiased Minimal Cluster Analysis of Categorical-and-Numerical Attribute Data"
-  authors: "Yunfan Zhang, Xiaopeng Luo, Qingsheng Chen, Rong Zou, <strong>Yiqun Zhang</strong><sup>&#x2709;</sup> and Yiu-ming Cheung"
-  tag: ""
-  link: "papers/ICPR-Mic2Mac.pdf"
-  bib: |-
-    @inproceedings{zhang2024towards,
-      author = {Zhang, Yunfan and Luo, Xiaopeng and Chen, Qingsheng and Zou, Rong and Zhang, Yiqun and Cheung, Yiu-ming},
-      title = {Towards Unbiased Minimal Cluster Analysis of Categorical-and-Numerical Attribute Data},
-      booktitle = {Proceedings of the International Conference on Pattern Recognition (ICPR)},
-      address = {Kolkata, India, December 1--5},
-      year = {2024}
-    }
-
-- id: "C022"
-  venue: "PRCV'24"
-  conf_key: "PRCV"
-  title: "FedHC: Learning Imbalanced Clusters via Federated Hierarchical Clustering"
-  authors: "Yue Zhang<sup>&#x2709;</sup>, Xinfa Liao, Qingsheng Chen, Hao-Tian Wu and <strong>Yiqun Zhang</strong>"
-  tag: ""
-  link: "papers/PRCV_24_FedHC_CR.pdf"
-  bib: |-
-    @inproceedings{zhang2024fedhc,
-      author = {Zhang, Yue and Liao, Xinfa and Chen, Qingsheng and Wu, Hao-Tian and Zhang, Yiqun},
-      title = {FedHC: Learning Imbalanced Clusters via Federated Hierarchical Clustering},
-      booktitle = {Proceedings of the Chinese Conference on Pattern Recognition and Computer Vision (PRCV)},
-      address = {Urumqi, China, October 18--21},
-      year = {2024}
-    }
-
-- id: "C021"
-  venue: "PRCV'24"
-  conf_key: "PRCV"
-  title: "FedGC: Federated Learning on Non-IID Data via Learning from Good Clients"
-  authors: "Xu Ji, Haotian Wu<sup>&#x2709;</sup>, Ting Cui, <strong>Yiqun Zhang</strong> and Lingling Xu"
-  tag: ""
-  link: "https://link.springer.com/chapter/10.1007/978-981-97-8487-5_13"
-  bib: |-
-    @inproceedings{ji2024fedgc,
-      author = {Ji, Xu and Wu, Haotian and Cui, Ting and Zhang, Yiqun and Xu, Lingling},
-      title = {FedGC: Federated Learning on Non-IID Data via Learning from Good Clients},
-      booktitle = {Proceedings of the Chinese Conference on Pattern Recognition and Computer Vision (PRCV)},
-      address = {Urumqi, China, October 18--21},
-      year = {2024}
-    }
-
-- id: "C020"
-  venue: "ECAI'24"
-  conf_key: "ECAI"
-  title: "Learning Order Forest for Qualitative-Attribute Data Clustering"
-  authors: "Mingjie Zhao, Sen Feng, <strong>Yiqun Zhang</strong><sup>&#x2709;</sup>, Mengke Li, Yang Lu and Yiu-ming Cheung"
-  tag: ""
-  link: "https://ebooks.iospress.nl/volumearticle/69804"
-  code: "https://github.com/ZHAO-Mingjie/ECAI-24-COForest"
-  bib: |-
-    @inproceedings{zhao2024learning,
-      author = {Zhao, Mingjie and Feng, Sen and Zhang, Yiqun and Li, Mengke and Lu, Yang and Cheung, Yiu-ming},
-      title = {Learning Order Forest for Qualitative-Attribute Data Clustering},
-      booktitle = {Proceedings of the European Conference on Artificial Intelligence (ECAI)},
-      address = {Santiago de Compostela, Spain, October 19--24},
-      year = {2024}
-    }
-
-- id: "C019"
-  venue: "ECAI'24"
-  conf_key: "ECAI"
-  title: "CPNet: 3D Semantic Relation and Geometry Context Prior Network for Multi-organ Segmentation"
-  authors: "Yuzhu Ji, Mingshan Sun<sup>&#x2709;</sup>, <strong>Yiqun Zhang</strong> and Haijun Zhang"
-  tag: ""
-  link: "https://ebooks.iospress.nl/volumearticle/69578"
-  bib: |-
-    @inproceedings{ji2024cpnet,
-      author = {Ji, Yuzhu and Sun, Mingshan and Zhang, Yiqun and Zhang, Haijun},
-      title = {CPNet: 3D Semantic Relation and Geometry Context Prior Network for Multi-organ Segmentation},
-      booktitle = {Proceedings of the European Conference on Artificial Intelligence (ECAI)},
-      address = {Santiago de Compostela, Spain, October 19--24},
-      year = {2024}
-    }
-
-- id: "C018"
-  venue: "SIGKDD'24"
-  conf_key: "SIGKDD"
-  title: "QGRL: Quaternion Graph Representation Learning for Heterogeneous Feature Data Clustering"
-  authors: "Junyang Chen, Yuzhu Ji, Rong Zou, <strong>Yiqun Zhang</strong><sup>&#x2709;</sup> and Yiu-ming Cheung"
-  tag: ""
-  link: "https://dl.acm.org/doi/abs/10.1145/3637528.3671839"
-  code: "https://github.com/Juny-Chen/QGRL.git"
-  bib: |-
-    @inproceedings{chen2024qgrl,
-      author = {Chen, Junyang and Ji, Yuzhu and Zou, Rong and Zhang, Yiqun and Cheung, Yiu-ming},
-      title = {QGRL: Quaternion Graph Representation Learning for Heterogeneous Feature Data Clustering},
-      booktitle = {Proceedings of the ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)},
-      address = {Barcelona, Spain, August 25--29},
-      year = {2024}
-    }
-
-- id: "C017"
-  venue: "ICDCS'24"
-  conf_key: "ICDCS"
-  title: "Robust Categorical Data Clustering Guided by Multi-Granular Competitive Learning"
-  authors: "Shenghong Cai, <strong>Yiqun Zhang</strong><sup>&#x2709;</sup>, Xiaopeng Luo, Yiu-ming Cheung, Hong Jia and Peng Liu"
-  tag: ""
-  link: "https://arxiv.org/abs/2601.16491"
-  bib: |-
-    @inproceedings{cai2024robust,
-      author = {Cai, Shenghong and Zhang, Yiqun and Luo, Xiaopeng and Cheung, Yiu-ming and Jia, Hong and Liu, Peng},
-      title = {Robust Categorical Data Clustering Guided by Multi-Granular Competitive Learning},
-      booktitle = {Proceedings of the IEEE International Conference on Distributed Computing Systems (ICDCS)},
-      address = {Jersey City, NJ, USA, July 23--26},
-      year = {2024}
-    }
-
-- id: "C016"
-  venue: "IJCNN'24"
-  conf_key: "IJCNN"
-  title: "Clustering by Learning the Ordinal Relationships of Qualitative Attribute Values"
-  authors: "Pengkai Wang, Yunfan Zhang, <strong>Yiqun Zhang</strong><sup>&#x2709;</sup>, Yang Lu, Mengke Li and Yiu-ming Cheung"
-  tag: ""
-  link: "papers/IJCNN24-CLORD.pdf"
-  bib: |-
-    @inproceedings{wang2024clustering,
-      author = {Wang, Pengkai and Zhang, Yunfan and Zhang, Yiqun and Lu, Yang and Li, Mengke and Cheung, Yiu-ming},
-      title = {Clustering by Learning the Ordinal Relationships of Qualitative Attribute Values},
-      booktitle = {Proceedings of the International Joint Conference on Neural Networks (IJCNN)},
-      address = {Yokohama, Japan, June 30--July 5},
-      year = {2024}
-    }
-
-- id: "C015"
-  venue: "DOCS'24"
-  conf_key: "Other"
-  title: "Federated Clustering with Unknown Number of Clusters"
-  authors: "Rong Zou, Yunfan Zhang, <strong>Yiqun Zhang</strong>, Yang Lu, Mengke Li and Yiu-ming Cheung<sup>&#x2709;</sup>"
-  tag: "Best Paper Award"
-  link: "papers/DOCS-24-FedCCL.pdf"
-  bib: |-
-    @inproceedings{zou2024federated,
-      author = {Zou, Rong and Zhang, Yunfan and Zhang, Yiqun and Lu, Yang and Li, Mengke and Cheung, Yiu-ming},
-      title = {Federated Clustering with Unknown Number of Clusters},
-      booktitle = {Proceedings of the International Conference on Data-driven Optimization of Complex Systems (DOCS)},
-      address = {Hangzhou, China, August 16--18},
-      year = {2024}
-    }
-
-- id: "C014"
-  venue: "ICEIEC'24"
-  conf_key: "Other"
-  title: "Multi-Layer Attention Fusion and Edge-Guided Structural Enrichment Completion Network for Leaf Point Cloud"
-  authors: "Qingqing Liao, An Zeng, Yuzhu Ji<sup>&#x2709;</sup> and <strong>Yiqun Zhang</strong>"
-  tag: ""
-  link: "https://ieeexplore.ieee.org/abstract/document/10561642"
-  bib: |-
-    @inproceedings{liao2024multilayer,
-      author = {Liao, Qingqing and Zeng, An and Ji, Yuzhu and Zhang, Yiqun},
-      title = {Multi-Layer Attention Fusion and Edge-Guided Structural Enrichment Completion Network for Leaf Point Cloud},
-      booktitle = {Proceedings of the IEEE International Conference on Electronics Information and Emergency Communication (ICEIEC)},
-      address = {Hangzhou, China, May 24--26},
-      year = {2024}
-    }
-
-# ==================== 2023 ====================
-- id: "C013"
-  venue: "BIBM'23"
-  conf_key: "BIBM"
-  title: "Selecting Heterogeneous Features based on Unified Density-Guided Neighborhood Relation for Complex Biomedical Data Analysis"
-  authors: "Lang Zhao, <strong>Yiqun Zhang</strong><sup>&#x2709;</sup>, Xiaopeng Luo, Yue Zhang, Yiu-ming Cheung and Kangshun Li"
-  tag: ""
-  link: "https://www.comp.hkbu.edu.hk/~ymc/papers/conference/BIBM23-paper.pdf"
-  bib: |-
-    @inproceedings{zhao2023selecting,
-      author = {Zhao, Lang and Zhang, Yiqun and Luo, Xiaopeng and Zhang, Yue and Cheung, Yiu-ming and Li, Kangshun},
-      title = {Selecting Heterogeneous Features based on Unified Density-Guided Neighborhood Relation for Complex Biomedical Data Analysis},
-      booktitle = {Proceedings of the IEEE International Conference on Bioinformatics and Biomedicine (BIBM)},
-      address = {Istanbul, Turkey, December 5--8},
-      year = {2023}
-    }
-
-- id: "C012"
-  venue: "PRCV'23"
-  conf_key: "PRCV"
-  title: "Unsupervised Concept Drift Detection via Imbalanced Cluster Discriminator Learning"
-  authors: "Mingjie Zhao, <strong>Yiqun Zhang</strong><sup>&#x2709;</sup>, Yuzhu Ji and Yang Lu"
-  tag: ""
-  link: "https://www.researchgate.net/profile/Yiqun-Zhang-8/publication/376796605_Unsupervised_Concept_Drift_Detection_via_Imbalanced_Cluster_Discriminator_Learning/links/659cb8776f6e450f19d7949f/Unsupervised-Concept-Drift-Detection-via-Imbalanced-Cluster-Discriminator-Learning.pdf"
-  bib: |-
-    @inproceedings{zhao2023unsupervised,
-      author = {Zhao, Mingjie and Zhang, Yiqun and Ji, Yuzhu and Lu, Yang},
-      title = {Unsupervised Concept Drift Detection via Imbalanced Cluster Discriminator Learning},
-      booktitle = {Proceedings of the Chinese Conference on Pattern Recognition and Computer Vision (PRCV)},
-      address = {Xiamen, China, October 13--15},
-      year = {2023}
-    }
-
-- id: "C011"
-  venue: "PRCV'23"
-  conf_key: "PRCV"
-  title: "Learning Hierarchical Representations in Temporal and Frequency Domains for Time Series Forecasting"
-  authors: "Zhipeng Zhang, <strong>Yiqun Zhang</strong><sup>&#x2709;</sup>, An Zeng, Dan Pan and Xiaobo Zhang"
-  tag: ""
-  link: "papers/PRCV-23-LHRTF.pdf"
-  bib: |-
-    @inproceedings{zhang2023learning,
-      author = {Zhang, Zhipeng and Zhang, Yiqun and Zeng, An and Pan, Dan and Zhang, Xiaobo},
-      title = {Learning Hierarchical Representations in Temporal and Frequency Domains for Time Series Forecasting},
-      booktitle = {Proceedings of the Chinese Conference on Pattern Recognition and Computer Vision (PRCV)},
-      address = {Xiamen, China, October 13--15},
-      year = {2023}
-    }
-
-- id: "C010"
-  venue: "PRCV'23"
-  conf_key: "PRCV"
-  title: "CFNet: A Coarse-to-Fine Framework for Coronary Artery Segmentation"
-  authors: "Shi-ting He, Yuzhu Ji<sup>&#x2709;</sup>, <strong>Yiqun Zhang</strong>, An Zeng, Dan Pan, Jing Lin and Xiaobo Zhang"
-  tag: ""
-  link: "https://www.researchgate.net/profile/Yiqun-Zhang-8/publication/376808574_CFNet_A_Coarse-to-Fine_Framework_for_Coronary_Artery_Segmentation/links/65c47fc51bed776ae337740f/CFNet-A-Coarse-to-Fine-Framework-for-Coronary-Artery-Segmentation.pdf"
-  bib: |-
-    @inproceedings{he2023cfnet,
-      author = {He, Shi-ting and Ji, Yuzhu and Zhang, Yiqun and Zeng, An and Pan, Dan and Lin, Jing and Zhang, Xiaobo},
-      title = {CFNet: A Coarse-to-Fine Framework for Coronary Artery Segmentation},
-      booktitle = {Proceedings of the Chinese Conference on Pattern Recognition and Computer Vision (PRCV)},
-      address = {Xiamen, China, October 13--15},
-      year = {2023}
-    }
-
-- id: "C009"
-  venue: "ECAI'23"
-  conf_key: "ECAI"
-  title: "Time-Series Data Imputation via Realistic Masking-Guided Tri-Attention Bi-GRU"
-  authors: "Zhipeng Zhang, <strong>Yiqun Zhang</strong><sup>&#x2709;</sup>, An Zeng, Dan Pan, Yuzhu Ji, Zhipeng Zhang and Jing Lin"
-  tag: ""
-  link: "https://ebooks.iospress.nl/volumearticle/64557"
-  code: "https://github.com/Zhang2112105189/TABiG"
-  bib: |-
-    @inproceedings{zhang2023timeseries,
-      author = {Zhang, Zhipeng and Zhang, Yiqun and Zeng, An and Pan, Dan and Ji, Yuzhu and Zhang, Zhipeng and Lin, Jing},
-      title = {Time-Series Data Imputation via Realistic Masking-Guided Tri-Attention Bi-GRU},
-      booktitle = {Proceedings of the European Conference on Artificial Intelligence (ECAI)},
-      address = {Krakow, Poland, September 30--October 4},
-      year = {2023}
-    }
-
-# ==================== 2022 ====================
-- id: "C008"
-  venue: "DSAA'22"
-  conf_key: "DSAA"
-  title: "Heterogeneous Drift Learning: Classification of Mix-Attribute Data with Concept Drifts"
-  authors: "Lang Zhao, <strong>Yiqun Zhang</strong><sup>&#x2709;</sup>, Yuzhu Ji, An Zeng, Fangqing Gu and Xiaopeng Luo"
-  tag: ""
-  link: "https://www.researchgate.net/profile/Yiqun-Zhang-8/publication/368366763_Heterogeneous_Drift_Learning_Classification_of_Mix-Attribute_Data_with_Concept_Drifts/links/63e77e09e2e1515b6b8b8551/Heterogeneous-Drift-Learning-Classification-of-Mix-Attribute-Data-with-Concept-Drifts.pdf"
-  bib: |-
-    @inproceedings{zhao2022heterogeneous,
-      author = {Zhao, Lang and Zhang, Yiqun and Ji, Yuzhu and Zeng, An and Gu, Fangqing and Luo, Xiaopeng},
-      title = {Heterogeneous Drift Learning: Classification of Mix-Attribute Data with Concept Drifts},
-      booktitle = {Proceedings of the IEEE International Conference on Data Science and Advanced Analytics (DSAA)},
-      address = {Shenzhen, China, October 13--16},
-      year = {2022}
-    }
-
-- id: "C007"
-  venue: "DOCS'22"
-  conf_key: "Other"
-  title: "Causal Discovery of Medical Test Parameters Based on Improved PC Algorithm"
-  authors: "Xueyao Qiu, Fangqing Gu<sup>&#x2709;</sup> and <strong>Yiqun Zhang</strong>"
-  tag: ""
-  link: "https://ieeexplore.ieee.org/abstract/document/9967738"
-  bib: |-
-    @inproceedings{qiu2022causal,
-      author = {Qiu, Xueyao and Gu, Fangqing and Zhang, Yiqun},
-      title = {Causal Discovery of Medical Test Parameters Based on Improved PC Algorithm},
-      booktitle = {Proceedings of the International Conference on Data-driven Optimization of Complex Systems (DOCS)},
-      address = {Chengdu, China, September 23--25},
-      year = {2022}
-    }
-
-- id: "C006"
-  venue: "IJCAI'22"
-  conf_key: "IJCAI"
-  title: "Het2Hom: Representation of Heterogeneous Attributes into Homogeneous Concept Spaces for Categorical-and-Numerical-Attribute Data Clustering"
-  authors: "<strong>Yiqun Zhang</strong>, Yiu-ming Cheung<sup>&#x2709;</sup> and An Zeng"
-  tag: ""
-  link: "https://www.ijcai.org/proceedings/2022/0522"
-  code: "https://www.comp.hkbu.edu.hk/~ymc/papers/conference/source-code/ijcai22_code.zip"
-  bib: |-
-    @inproceedings{zhang2022het2hom,
-      author = {Zhang, Yiqun and Cheung, Yiu-ming and Zeng, An},
-      title = {Het2Hom: Representation of Heterogeneous Attributes into Homogeneous Concept Spaces for Categorical-and-Numerical-Attribute Data Clustering},
-      booktitle = {Proceedings of the International Joint Conference on Artificial Intelligence (IJCAI)},
-      address = {Vienna, Austria, July 23--29},
-      year = {2022}
-    }
-
-# ==================== 2020 ====================
-- id: "C005"
-  venue: "AAAI'20"
-  conf_key: "AAAI"
-  title: "An Ordinal Data Clustering Algorithm with Automated Distance Learning"
-  authors: "<strong>Yiqun Zhang</strong> and Yiu-ming Cheung<sup>&#x2709;</sup>"
-  tag: ""
-  link: "https://ojs.aaai.org/index.php/AAAI/article/view/6168"
-  code: "https://www.comp.hkbu.edu.hk/~ymc/papers/conference/source-code/AAAI20-code.zip"
-  bib: |-
-    @inproceedings{zhang2020ordinal,
-      author = {Zhang, Yiqun and Cheung, Yiu-ming},
-      title = {An Ordinal Data Clustering Algorithm with Automated Distance Learning},
-      booktitle = {Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)},
-      address = {New York, NY, USA, February 7--12},
-      year = {2020}
-    }
-
-# ==================== 2018 ====================
-- id: "C004"
-  venue: "ISMIS'18"
-  conf_key: "Other"
-  title: "Exploiting Order Information Embedded in Ordered Categories for Ordinal Data Clustering"
-  authors: "<strong>Yiqun Zhang</strong> and Yiu-ming Cheung<sup>&#x2709;</sup>"
-  tag: "Best Student Paper Award"
-  link: "https://www.researchgate.net/publication/328128487_Exploiting_Order_Information_Embedded_in_Ordered_Categories_for_Ordinal_Data_Clustering_24th_International_Symposium_ISMIS_2018_Limassol_Cyprus_October_29-31_2018_Proceedings"
-  bib: |-
-    @inproceedings{zhang2018exploiting,
-      author = {Zhang, Yiqun and Cheung, Yiu-ming},
-      title = {Exploiting Order Information Embedded in Ordered Categories for Ordinal Data Clustering},
-      booktitle = {Proceedings of the International Symposium on Methodologies for Intelligent Systems (ISMIS)},
-      address = {Limassol, Cyprus, October 29--31},
-      year = {2018}
-    }
-
-- id: "C003"
-  venue: "ICACI'18"
-  conf_key: "Other"
-  title: "A Fast Hierarchical Clustering Approach Based on Partition and Merging Scheme"
-  authors: "<strong>Yiqun Zhang</strong> and Yiu-ming Cheung<sup>&#x2709;</sup>"
-  tag: ""
-  link: "https://www.researchgate.net/publication/325703661_A_fast_hierarchical_clustering_approach_based_on_partition_and_merging_scheme"
-  bib: |-
-    @inproceedings{zhang2018fast,
-      author = {Zhang, Yiqun and Cheung, Yiu-ming},
-      title = {A Fast Hierarchical Clustering Approach Based on Partition and Merging Scheme},
-      booktitle = {Proceedings of the International Conference on Advanced Computational Intelligence (ICACI)},
-      address = {Xiamen, China, March 29--31},
-      year = {2018}
-    }
-
-# ==================== 2016 ====================
-- id: "C002"
-  venue: "IJCNN'16"
-  conf_key: "IJCNN"
-  title: "Quality Preserved Data Summarization for Fast Hierarchical Clustering"
-  authors: "<strong>Yiqun Zhang</strong>, Yiu-ming Cheung<sup>&#x2709;</sup> and Yang Liu"
-  tag: ""
-  link: "https://www.researchgate.net/profile/Yiqun-Zhang-8/publication/309778403_Quality_preserved_data_summarization_for_fast_hierarchical_clustering/links/635bb5c26e0d367d91d55a00/Quality-preserved-data-summarization-for-fast-hierarchical-clustering.pdf"
-  bib: |-
-    @inproceedings{zhang2016quality,
-      author = {Zhang, Yiqun and Cheung, Yiu-ming and Liu, Yang},
-      title = {Quality Preserved Data Summarization for Fast Hierarchical Clustering},
-      booktitle = {Proceedings of the International Joint Conference on Neural Networks (IJCNN)},
-      address = {Vancouver, BC, Canada, July 24--29},
-      year = {2016}
-    }
-
-# ==================== 2014 ====================
-- id: "C001"
-  venue: "ICDMW'14"
-  conf_key: "Other"
-  title: "Discretizing Numerical Attributes in Decision Tree for Big Data Analysis"
-  authors: "<strong>Yiqun Zhang</strong> and Yiu-ming Cheung<sup>&#x2709;</sup>"
-  tag: ""
-  link: "https://www.researchgate.net/publication/282303497_Discretizing_Numerical_Attributes_in_Decision_Tree_for_Big_Data_Analysis"
-  bib: |-
-    @inproceedings{zhang2014discretizing,
-      author = {Zhang, Yiqun and Cheung, Yiu-ming},
-      title = {Discretizing Numerical Attributes in Decision Tree for Big Data Analysis},
-      booktitle = {Proceedings of the IEEE International Conference on Data Mining Workshop (ICDMW)},
-      address = {Shenzhen, China, December 14--17},
-      year = {2014}
-    }
+- id: C062
+  venue: SIGMOD'27
+  title: Exact Graph Structure Learning with Tensor Affinity for Topology-Refined Deep Clustering
+  authors: Yu Wang, Junyu Li, Hongmin Cai<sup>&#x2709;</sup>, Zhuoyao Wang and <strong>Yiqun Zhang</strong><sup>&#x2709;</sup>
+  tag: ''
+  link: '#'
+  anchor: paper-C062
+  bib: "@inproceedings{wang2027exact,\n  author = {Wang, Yu and Li, Junyu and Cai, Hongmin and Wang, Zhuoyao and Zhang, Yiqun},\n  title = {{Exact Graph Structure Learning with Tensor Affinity for Topology-Refined Deep Clustering}},\n  booktitle = {Proceedings of the ACM SIGMOD International Conference on Management of Data},\n  year = {2027},\n  address = {Huntington Beach, CA, USA, June 13--19}\n}"
+  conf_key: SIGMOD
+- id: C061
+  venue: BIBM'26
+  title: One-Shot Hierarchical Federated Clustering for Distributed Non-IID Biomedical Data Analysis
+  authors: Shenghong Cai and <strong>Yiqun Zhang</strong><sup>&#x2709;</sup>
+  tag: ''
+  link: '#'
+  anchor: paper-C061
+  bib: "@inproceedings{cai2026oneshot,\n  author = {Cai, Shenghong and Zhang, Yiqun},\n  title = {{One-Shot Hierarchical Federated Clustering for Distributed Non-IID Biomedical Data Analysis}},\n  booktitle = {Proceedings of the IEEE International Conference on Bioinformatics and Biomedicine (BIBM)},\n  year = {2026},\n  address = {Dallas, USA, December 1--4}\n}"
+  conf_key: BIBM
+- id: C060
+  venue: BIBM'26
+  title: 'DOcTreeMamba: Topology-Aware Mamba for 3D Medical Segmentation via Octree Sparsification'
+  authors: Kaixiang Mai, Jiaqi Yu, Yuzhu Ji<sup>&#x2709;</sup>, <strong>Yiqun Zhang</strong>, Zhijie Wang, Haijun Zhang and Yiu-ming Cheung
+  tag: ''
+  link: '#'
+  anchor: paper-C060
+  bib: "@inproceedings{mai2026octreemamba,\n  author = {Mai, Kaixiang and Yu, Jiaqi and Ji, Yuzhu and Zhang, Yiqun and Wang, Zhijie and Zhang, Haijun and Cheung, Yiu-ming},\n  title = {{DOcTreeMamba: Topology-Aware Mamba for 3D Medical Segmentation via Octree Sparsification}},\n  booktitle = {Proceedings of the IEEE International Conference on Bioinformatics and Biomedicine (BIBM)},\n  year = {2026},\n  address = {Dallas, USA, December 1--4}\n}"
+  conf_key: BIBM
+- id: C059
+  venue: ICDM'26
+  title: 'Seeing Time: Visual-Temporal Representation Learning for Interpretable Time Series Clustering'
+  authors: Zheng Zhu, Zexi Tan<sup>&#x2709;</sup>, Yuming Deng and <strong>Yiqun Zhang</strong>
+  tag: Teen Research Track Paper
+  link: '#'
+  anchor: paper-C059
+  bib: "@inproceedings{zhu2026seeing,\n  author = {Zhu, Zheng and Tan, Zexi and Deng, Yuming and Zhang, Yiqun},\n  title = {{Seeing Time: Visual-Temporal Representation Learning for Interpretable Time Series Clustering}},\n  booktitle = {Proceedings of the IEEE International Conference on Data Mining (ICDM)},\n  year = {2026},\n  address = {Shenyang, China, November 12--15}\n}"
+  conf_key: ICDM
+  code: '#'
+- id: C058
+  venue: ICDM'26
+  title: 'When Prediction Shapes the Future: A BlueSky Agenda for Reflexive Time Series Analysis'
+  authors: Tao Xie, <strong>Yiqun Zhang</strong><sup>&#x2709;</sup> and Yiu-ming Cheung
+  tag: BlueSky Track Paper
+  link: '#'
+  anchor: paper-C058
+  bib: "@inproceedings{xie2026when,\n  author = {Xie, Tao and Zhang, Yiqun and Cheung, Yiu-ming},\n  title = {{When Prediction Shapes the Future: A BlueSky Agenda for Reflexive Time Series Analysis}},\n  booktitle = {Proceedings of the IEEE International Conference on Data Mining (ICDM)},\n  year = {2026},\n  address = {Shenyang, China, November 12--15}\n}"
+  conf_key: ICDM
+  code: '#'
+- id: C057
+  venue: CIKM'26
+  title: 'Stitch the Fragments: One-Shot Hierarchical Federated Clustering'
+  authors: Shenghong Cai, Zihua Yang, Yuzhu Ji, <strong>Yiqun Zhang</strong><sup>&#x2709;</sup>, Mengke Li, Yang Lu and Yiu-ming Cheung
+  tag: ''
+  link: https://arxiv.org/abs/2601.06404
+  anchor: paper-C057
+  bib: "@inproceedings{cai2026stitch,\n  author = {Cai, Shenghong and Yang, Zihua and Ji, Yuzhu and Zhang, Yiqun and Li, Mengke and Lu, Yang and Cheung, Yiu-ming},\n  title = {{Stitch the Fragments: One-Shot Hierarchical Federated Clustering}},\n  booktitle = {Proceedings of the ACM International Conference on Knowledge and Information Management (CIKM)},\n  year = {2026},\n  address = {Rome, Italy, November 7--11}\n}"
+  conf_key: CIKM
+  code: https://github.com/hongdream/Fed-HIRE
+- id: C056
+  venue: ECML-PKDD'26
+  title: 'Imputation Meets Clustering: Exploiting Latent Subgroup Structure for Missing Data Recovery'
+  authors: Chuyao Zhang, E Li, Taochen Chen, <strong>Yiqun Zhang</strong><sup>&#x2709;</sup>, Yuzhu Ji, Shuping Zhao, Peng Liu and Yiu-ming Cheung
+  tag: ''
+  link: https://arxiv.org/abs/2607.06930
+  anchor: paper-C056
+  bib: "@inproceedings{zhang2026imputation,\n  author = {Zhang, Chuyao and Li, E and Chen, Taochen and Zhang, Yiqun and Ji, Yuzhu and Zhao, Shuping and Liu, Peng and Cheung, Yiu-ming},\n  title = {{Imputation Meets Clustering: Exploiting Latent Subgroup Structure for Missing Data Recovery}},\n  booktitle = {Proceedings of the European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD)},\n  year = {2026},\n  address = {Naples, Italy, September 7--11}\n}"
+  conf_key: ECML-PKDD
+  code: https://github.com/supercocachii/CAGI
+- id: C055
+  venue: ICPR'26
+  title: Bridging the Semantic Gap for Categorical Data Clustering via Large Language Models
+  authors: Zihua Yang, Xin Liao, <strong>Yiqun Zhang</strong><sup>&#x2709;</sup> and Yiu-ming Cheung
+  tag: ''
+  link: https://arxiv.org/abs/2601.01162
+  anchor: paper-C055
+  bib: "@inproceedings{yang2026bridging,\n  author = {Yang, Zihua and Liao, Xin and Zhang, Yiqun and Cheung, Yiu-ming},\n  title = {{Bridging the Semantic Gap for Categorical Data Clustering via Large Language Models}},\n  booktitle = {Proceedings of the International Conference on Pattern Recognition (ICPR)},\n  year = {2026},\n  address = {Lyon, France, August 17--22}\n}"
+  conf_key: ICPR
+  code: https://github.com/develop-yang/ARISE
+- id: C054
+  venue: SIGKDD'26
+  title: 'AnchorMoE: Interpretable Time Series Classification via Anchor-Routed MoE'
+  authors: Tao Xie, Zexi Tan, Haoyi Xiao, Mengke Li, <strong>Yiqun Zhang</strong><sup>&#x2709;</sup>, Yang Lu, Cuie Yang and Yiu-ming Cheung
+  tag: ''
+  link: https://arxiv.org/abs/2606.03631
+  anchor: paper-C054
+  bib: "@inproceedings{xie2026anchormoe,\n  author = {Xie, Tao and Tan, Zexi and Xiao, Haoyi and Li, Mengke and Zhang, Yiqun and Lu, Yang and Yang, Cuie and Cheung, Yiu-ming},\n  title = {{AnchorMoE: Interpretable Time Series Classification via Anchor-Routed MoE}},\n  booktitle = {Proceedings of the ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)},\n  year = {2026},\n  address = {Jeju, South Korea, August 9--13}\n}"
+  conf_key: SIGKDD
+  code: https://github.com/kuxit/AnchorMoE
+- id: C053
+  venue: ICML'26
+  title: 'CARE: Class-Adaptive Expert Consensus for Reliable Learning with Long-Tailed Noisy Labels'
+  authors: Mengke Li, Haiquan Ling, Lihao Chen, Yang Lu, <strong>Yiqun Zhang</strong> and Hui Huang<sup>&#x2709;</sup>
+  tag: ''
+  link: https://arxiv.org/abs/2605.23254
+  anchor: paper-C053
+  bib: "@inproceedings{li2026care,\n  author = {Li, Mengke and Ling, Haiquan and Chen, Lihao and Lu, Yang and Zhang, Yiqun and Huang, Hui},\n  title = {{CARE: Class-Adaptive Expert Consensus for Reliable Learning with Long-Tailed Noisy Labels}},\n  booktitle = {Proceedings of the International Conference on Machine Learning (ICML)},\n  year = {2026},\n  address = {Seoul, South Korea, July 6--11}\n}"
+  conf_key: ICML
+- id: C052
+  venue: IJCNN'26
+  title: 'FMoE: Frequency-Guided Multi-Period MoE Modeling for Time Series Forecasting'
+  authors: Taochen Chen, Jialiang Chen, <strong>Yiqun Zhang</strong><sup>&#x2709;</sup>, Mengke Li, Yang Lu and Yiu-ming Cheung
+  tag: ''
+  link: https://linklings.s3.amazonaws.com/organizations/WCCI/wcci2026/submissions/stype114/P8ave-ijcnn_pap2756s2.pdf
+  anchor: paper-C052
+  bib: "@inproceedings{chen2026fmoe,\n  author = {Chen, Taochen and Chen, Jialiang and Zhang, Yiqun and Li, Mengke and Lu, Yang and Cheung, Yiu-ming},\n  title = {{FMoE: Frequency-Guided Multi-Period MoE Modeling for Time Series Forecasting}},\n  booktitle = {Proceedings of the International Joint Conference on Neural Networks (IJCNN)},\n  year = {2026},\n  address = {Maastricht, Netherlands, June 21--26}\n}"
+  conf_key: IJCNN
+- id: C051
+  venue: IJCNN'26
+  title: 'PIN-LoRA: Positive-Incentive Noise Aggregation for Federated Long-Tailed Learning'
+  authors: Chenghao Jin, Shihao Hou, Jiacheng Yang, Mengke Li, <strong>Yiqun Zhang</strong>, Yang Lu<sup>&#x2709;</sup> and Yiu-ming Cheung
+  tag: ''
+  link: https://linklings.s3.amazonaws.com/organizations/WCCI/wcci2026/submissions/stype114/8FhTa-ijcnn_pap3330s2.pdf
+  anchor: paper-C051
+  bib: "@inproceedings{jin2026pinlora,\n  author = {Jin, Chenghao and Hou, Shihao and Yang, Jiacheng and Li, Mengke and Zhang, Yiqun and Lu, Yang and Cheung, Yiu-ming},\n  title = {{PIN-LoRA: Positive-Incentive Noise Aggregation for Federated Long-Tailed Learning}},\n  booktitle = {Proceedings of the International Joint Conference on Neural Networks (IJCNN)},\n  year = {2026},\n  address = {Maastricht, Netherlands, June 21--26}\n}"
+  conf_key: IJCNN
+- id: C050
+  venue: CVPR'26
+  title: 'SECOS: Semantic Capture for Rigorous Classification in Open-World Semi-Supervised Learning'
+  authors: Hezhao Liu, Jiacheng Yang, Junlong Gao, Mengke Li, <strong>Yiqun Zhang</strong>, Shreyank N Gowda and Yang Lu<sup>&#x2709;</sup>
+  tag: ''
+  link: https://arxiv.org/abs/2604.27596
+  anchor: paper-C050
+  bib: "@inproceedings{liu2026secos,\n  author = {Liu, Hezhao and Yang, Jiacheng and Gao, Junlong and Li, Mengke and Zhang, Yiqun and Gowda, Shreyank N and Lu, Yang},\n  title = {{SECOS: Semantic Capture for Rigorous Classification in Open-World Semi-Supervised Learning}},\n  booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},\n  year = {2026},\n  address = {Denver, CO, USA, June 3--7}\n}"
+  conf_key: CVPR
+- id: C049
+  venue: CVPR'26
+  title: Fine-Tuning Impairs the Balancedness of Foundation Models in Long-tailed Personalized Federated Learning
+  authors: Shihao Hou, Chikai Shang, Zhiheng Yang, Jiacheng Yang, Xinyi Shang, Junlong Gao, <strong>Yiqun Zhang</strong> and Yang Lu<sup>&#x2709;</sup>
+  tag: ''
+  link: https://arxiv.org/abs/2605.02247
+  anchor: paper-C049
+  bib: "@inproceedings{hou2026finetuning,\n  author = {Hou, Shihao and Shang, Chikai and Yang, Zhiheng and Yang, Jiacheng and Shang, Xinyi and Gao, Junlong and Zhang, Yiqun and Lu, Yang},\n  title = {{Fine-Tuning Impairs the Balancedness of Foundation Models in Long-tailed Personalized Federated Learning}},\n  booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},\n  year = {2026},\n  address = {Denver, CO, USA, June 3--7}\n}"
+  conf_key: CVPR
+- id: C048
+  venue: SIGMOD'26
+  title: Categorical Data Clustering via Value Order Estimated Distance Metric Learning
+  authors: <strong>Yiqun Zhang</strong>, Mingjie Zhao, Hong Jia, Mengke Li, Yang Lu and Yiu-ming Cheung<sup>&#x2709;</sup>
+  tag: ''
+  link: https://dl.acm.org/doi/abs/10.1145/3769772
+  anchor: paper-C048
+  bib: "@inproceedings{zhang2026categorical,\n  author = {Zhang, Yiqun and Zhao, Mingjie and Jia, Hong and Li, Mengke and Lu, Yang and Cheung, Yiu-ming},\n  title = {{Categorical Data Clustering via Value Order Estimated Distance Metric Learning}},\n  booktitle = {Proceedings of the ACM SIGMOD International Conference on Management of Data},\n  year = {2026},\n  address = {Bengaluru, India, May 31--June 5}\n}"
+  conf_key: SIGMOD
+  code: https://github.com/csmjzhao/OCL_Source_Code
+- id: C047
+  venue: ICASSP'26
+  title: 'STRPNET: Video Salient Object Detection via Spatio-Temporal Scene Relation Propagation'
+  authors: Shujie Qiu, Jie Yang, Jiaqi Yu, <strong>Yiqun Zhang</strong>, Yuzhu Ji<sup>&#x2709;</sup> and Peng Liu
+  tag: ''
+  link: https://ieeexplore.ieee.org/abstract/document/11464131/
+  anchor: paper-C047
+  bib: "@inproceedings{qiu2026strpnet,\n  author = {Qiu, Shujie and Yang, Jie and Yu, Jiaqi and Zhang, Yiqun and Ji, Yuzhu and Liu, Peng},\n  title = {{STRPNET: Video Salient Object Detection via Spatio-Temporal Scene Relation Propagation}},\n  booktitle = {Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},\n  year = {2026},\n  address = {Barcelona, Spain, May 4--8}\n}"
+  conf_key: ICASSP
+- id: C046
+  venue: ICASSP'26
+  title: 'CADM: Cluster-customized Adaptive Distance Metric for Categorical Data Clustering'
+  authors: Taixi Chen, Yiu-ming Cheung<sup>&#x2709;</sup> and <strong>Yiqun Zhang</strong>
+  tag: ''
+  link: https://arxiv.org/abs/2511.05826
+  anchor: paper-C046
+  bib: "@inproceedings{chen2026cadm,\n  author = {Chen, Taixi and Cheung, Yiu-ming and Zhang, Yiqun},\n  title = {{CADM: Cluster-customized Adaptive Distance Metric for Categorical Data Clustering}},\n  booktitle = {Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},\n  year = {2026},\n  address = {Barcelona, Spain, May 4--8}\n}"
+  conf_key: ICASSP
+- id: C045
+  venue: DASFAA'26
+  title: 'HyReaL: Clustering Attributed Graph via Hyper-Complex Space Representation Learning'
+  authors: Junyang Chen, Yang Lu, Mengke Li, Cuie Yang, <strong>Yiqun Zhang</strong><sup>&#x2709;</sup> and Yiu-ming Cheung
+  tag: ''
+  link: https://arxiv.org/abs/2411.14727
+  anchor: paper-C045
+  bib: "@inproceedings{chen2026hyreal,\n  author = {Chen, Junyang and Lu, Yang and Li, Mengke and Yang, Cuie and Zhang, Yiqun and Cheung, Yiu-ming},\n  title = {{HyReaL: Clustering Attributed Graph via Hyper-Complex Space Representation Learning}},\n  booktitle = {Proceedings of the International Conference on Database Systems for Advanced Applications (DASFAA)},\n  year = {2026},\n  address = {Jeju Island, South Korea, April 27--30}\n}"
+  conf_key: DASFAA
+- id: C044
+  venue: AAAI'26
+  title: 'Mask the Redundancy: Evolving Masking Representation Learning for Multivariate Time-Series Clustering'
+  authors: Zexi Tan, Xiaopeng Luo, Yunlin Liu and <strong>Yiqun Zhang</strong><sup>&#x2709;</sup>
+  tag: ''
+  link: https://ojs.aaai.org/index.php/AAAI/article/view/39777
+  anchor: paper-C044
+  bib: "@inproceedings{tan2026mask,\n  author = {Tan, Zexi and Luo, Xiaopeng and Liu, Yunlin and Zhang, Yiqun},\n  title = {{Mask the Redundancy: Evolving Masking Representation Learning for Multivariate Time-Series Clustering}},\n  booktitle = {Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)},\n  year = {2026},\n  address = {Singapore, January 20--27}\n}"
+  conf_key: AAAI
+  code: https://github.com/yueliangy/EMTC
+- id: C043
+  venue: AAAI'26
+  title: 'Break the Tie: Learning Cluster-Customized Category Relationships for Categorical Data Clustering'
+  authors: Mingjie Zhao, Zhanpei Huang, Yang Lu, Mengke Li, <strong>Yiqun Zhang</strong><sup>&#x2709;</sup>, Weifeng Su and Yiu-ming Cheung
+  tag: ''
+  link: https://ojs.aaai.org/index.php/AAAI/article/view/40104
+  anchor: paper-C043
+  bib: "@inproceedings{zhao2026break,\n  author = {Zhao, Mingjie and Huang, Zhanpei and Lu, Yang and Li, Mengke and Zhang, Yiqun and Su, Weifeng and Cheung, Yiu-ming},\n  title = {{Break the Tie: Learning Cluster-Customized Category Relationships for Categorical Data Clustering}},\n  booktitle = {Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)},\n  year = {2026},\n  address = {Singapore, January 20--27}\n}"
+  conf_key: AAAI
+  code: https://github.com/ZHAO-Mingjie/SCOF
+  extended: https://arxiv.org/abs/2511.09049
+- id: C042
+  venue: BIBM'25
+  title: 'DE3S: Dual-Enhanced Soft-Sparse-Shape Learning for Medical Early Time-Series Classification'
+  authors: Tao Xie, Zexi Tan, Haoyi Xiao, <strong>Yiqun Zhang</strong><sup>&#x2709;</sup> and Binbin Sun
+  tag: ''
+  link: https://arxiv.org/abs/2510.12214
+  anchor: paper-C042
+  bib: "@inproceedings{xie2025de3s,\n  author = {Xie, Tao and Tan, Zexi and Xiao, Haoyi and Zhang, Yiqun and Sun, Binbin},\n  title = {{DE3S: Dual-Enhanced Soft-Sparse-Shape Learning for Medical Early Time-Series Classification}},\n  booktitle = {Proceedings of the IEEE International Conference on Bioinformatics and Biomedicine (BIBM)},\n  year = {2025},\n  address = {Wuhan, China, December 15--18}\n}"
+  conf_key: BIBM
+  code: https://github.com/kuxit/DE3S
+- id: C041
+  venue: CIS'25
+  title: Detecting Autism Spectrum Disorder with Deep Eye Movement Features
+  authors: Zhanpei Huang, Taochen Chen, Fangqing Gu and <strong>Yiqun Zhang</strong><sup>&#x2709;</sup>
+  tag: ''
+  link: https://ieeexplore.ieee.org/document/11433745
+  anchor: paper-C041
+  bib: "@inproceedings{huang2025detecting,\n  author = {Huang, Zhanpei and Chen, Taochen and Gu, Fangqing and Zhang, Yiqun},\n  title = {{Detecting Autism Spectrum Disorder with Deep Eye Movement Features}},\n  booktitle = {Proceedings of the International Conference on Computational Intelligence and Security (CIS)},\n  year = {2025},\n  address = {Nanning, China, December 12--15}\n}"
+  conf_key: CIS
+- id: C040
+  venue: CIS'25
+  title: An AI Education Framework based on LLM-Knowledge Graph for Personalized Learning
+  authors: Zihao Liang, Yiou Wang, Mingjie Zhao, Sen Feng, Yunfan Zhang and <strong>Yiqun Zhang</strong><sup>&#x2709;</sup>
+  tag: ''
+  link: https://ieeexplore.ieee.org/document/11433876
+  anchor: paper-C040
+  bib: "@inproceedings{liang2025ai,\n  author = {Liang, Zihao and Wang, Yiou and Zhao, Mingjie and Feng, Sen and Zhang, Yunfan and Zhang, Yiqun},\n  title = {{An AI Education Framework based on LLM-Knowledge Graph for Personalized Learning}},\n  booktitle = {Proceedings of the International Conference on Computational Intelligence and Security (CIS)},\n  year = {2025},\n  address = {Nanning, China, December 12--15}\n}"
+  conf_key: CIS
+- id: C039
+  venue: PRICAI'25
+  title: 'MEET-Sepsis: Multi-Endogenous-View Enhanced Time-Series Representation Learning for Early Sepsis Prediction'
+  authors: Zexi Tan, Tao Xie, Binbin Sun, Xiang Zhang, <strong>Yiqun Zhang</strong><sup>&#x2709;</sup> and Yiu-ming Cheung
+  tag: ''
+  link: https://arxiv.org/abs/2510.15985
+  anchor: paper-C039
+  bib: "@inproceedings{tan2025meetsepsis,\n  author = {Tan, Zexi and Xie, Tao and Sun, Binbin and Zhang, Xiang and Zhang, Yiqun and Cheung, Yiu-ming},\n  title = {{MEET-Sepsis: Multi-Endogenous-View Enhanced Time-Series Representation Learning for Early Sepsis Prediction}},\n  booktitle = {Proceedings of the Pacific Rim International Conference on Artificial Intelligence (PRICAI)},\n  year = {2025},\n  address = {Wellington, New Zealand, November 17--21}\n}"
+  conf_key: PRICAI
+  code: https://github.com/yueliangy/MEET-Sepsis
+- id: C038
+  venue: ACMMM'25
+  title: 'FATE: A Prompt-Tuning-Based Semi-Supervised Learning Framework for Extremely Limited Labeled Data'
+  authors: Hezhao Liu, Yang Lu<sup>&#x2709;</sup>, Mengke Li, <strong>Yiqun Zhang</strong>, Shreyank N Gowda, Chen Gong and Hanzi Wang
+  tag: ''
+  link: https://dl.acm.org/doi/abs/10.1145/3746027.3754998
+  anchor: paper-C038
+  bib: "@inproceedings{liu2025fate,\n  author = {Liu, Hezhao and Lu, Yang and Li, Mengke and Zhang, Yiqun and Gowda, Shreyank N and Gong, Chen and Wang, Hanzi},\n  title = {{FATE: A Prompt-Tuning-Based Semi-Supervised Learning Framework for Extremely Limited Labeled Data}},\n  booktitle = {Proceedings of the ACM International Conference on Multimedia (ACMMM)},\n  year = {2025},\n  address = {Dublin, Ireland, October 27--31}\n}"
+  conf_key: ACMMM
+- id: C037
+  venue: ECAI'25
+  title: 'FairFed++: Closing the Fairness Gap in Federated Learning through Self-Evolving Clustered Optimization'
+  authors: Zhixiang Fang, Baoyao Yang<sup>&#x2709;</sup>, Weide Zhan, Yanchao Tang and <strong>Yiqun Zhang</strong>
+  tag: ''
+  link: https://ebooks.iospress.nl/volumearticle/75876
+  anchor: paper-C037
+  bib: "@inproceedings{fang2025fairfed,\n  author = {Fang, Zhixiang and Yang, Baoyao and Zhan, Weide and Tang, Yanchao and Zhang, Yiqun},\n  title = {{FairFed++: Closing the Fairness Gap in Federated Learning through Self-Evolving Clustered Optimization}},\n  booktitle = {Proceedings of the European Conference on Artificial Intelligence (ECAI)},\n  year = {2025},\n  address = {Bologna, Italy, October 25--30}\n}"
+  conf_key: ECAI
+- id: C036
+  venue: ICCV'25
+  title: 'PRO-VPT: Distribution-Adaptive Visual Prompt Tuning via Prompt Relocation'
+  authors: Chikai Shang, Mengke Li, <strong>Yiqun Zhang</strong>, Zhen Chen, Jinlin Wu, Fangqing Gu, Yang Lu<sup>&#x2709;</sup> and Yiu-ming Cheung
+  tag: ''
+  link: https://openaccess.thecvf.com/content/ICCV2025/html/Shang_PRO-VPT_Distribution-Adaptive_Visual_Prompt_Tuning_via_Prompt_Relocation_ICCV_2025_paper.html
+  anchor: paper-C036
+  bib: "@inproceedings{shang2025provpt,\n  author = {Shang, Chikai and Li, Mengke and Zhang, Yiqun and Chen, Zhen and Wu, Jinlin and Gu, Fangqing and Lu, Yang and Cheung, Yiu-ming},\n  title = {{PRO-VPT: Distribution-Adaptive Visual Prompt Tuning via Prompt Relocation}},\n  booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},\n  year = {2025},\n  address = {Honolulu, Hawaii, USA, October 19--23}\n}"
+  conf_key: ICCV
+- id: C035
+  venue: PRCV'25
+  title: 'FedCD: A Hybrid Federated Learning Framework for Adaptive Training Under Data Heterogeneity'
+  authors: Weide Zhan, Baoyao Yang<sup>&#x2709;</sup>, Zhixiang Fang, Dongzhe Li, Yali Ma and <strong>Yiqun Zhang</strong>
+  tag: ''
+  link: https://link.springer.com/chapter/10.1007/978-981-95-5702-8_21
+  anchor: paper-C035
+  bib: "@inproceedings{zhan2025fedcd,\n  author = {Zhan, Weide and Yang, Baoyao and Fang, Zhixiang and Li, Dongzhe and Ma, Yali and Zhang, Yiqun},\n  title = {{FedCD: A Hybrid Federated Learning Framework for Adaptive Training Under Data Heterogeneity}},\n  booktitle = {Proceedings of the Chinese Conference on Pattern Recognition and Computer Vision (PRCV)},\n  year = {2025},\n  address = {Shanghai, China, October 15--18}\n}"
+  conf_key: PRCV
+- id: C034
+  venue: IJCAI'25
+  title: 'SeqPose: An End-to-End Framework to Unify Single-frame and Video-based RGB Category-Level Pose Estimation'
+  authors: Yuzhu Ji, Mingshan Sun, Jianyang Shi, Xiaoke Jiang, <strong>Yiqun Zhang</strong><sup>&#x2709;</sup> and Haijun Zhang
+  tag: ''
+  link: https://dl.acm.org/doi/abs/10.24963/ijcai.2025/137
+  anchor: paper-C034
+  bib: "@inproceedings{ji2025seqpose,\n  author = {Ji, Yuzhu and Sun, Mingshan and Shi, Jianyang and Jiang, Xiaoke and Zhang, Yiqun and Zhang, Haijun},\n  title = {{SeqPose: An End-to-End Framework to Unify Single-frame and Video-based RGB Category-Level Pose Estimation}},\n  booktitle = {Proceedings of the International Joint Conference on Artificial Intelligence (IJCAI)},\n  year = {2025},\n  address = {Montreal, Canada, August 16--22}\n}"
+  conf_key: IJCAI
+- id: C033
+  venue: ISBRA'25
+  title: 'EEG-TFNet: Spatiotemporal and Spectral Feature Integration for EEG-Based AD Detection'
+  authors: An Zeng, Zhao Guo, Dan Pan<sup>&#x2709;</sup>, <strong>Yiqun Zhang</strong> and Jun Liu
+  tag: ''
+  link: https://link.springer.com/chapter/10.1007/978-981-95-0698-9_16
+  anchor: paper-C033
+  bib: "@inproceedings{zeng2025eegtfnet,\n  author = {Zeng, An and Guo, Zhao and Pan, Dan and Zhang, Yiqun and Liu, Jun},\n  title = {{EEG-TFNet: Spatiotemporal and Spectral Feature Integration for EEG-Based AD Detection}},\n  booktitle = {Proceedings of the International Symposium on Bioinformatics Research and Applications (ISBRA)},\n  year = {2025},\n  address = {Helsinki, Finland, August 3--5}\n}"
+  conf_key: ISBRA
+- id: C032
+  venue: ICIC'25
+  title: 'DeSAD: Density Clustering-Guided Streaming Data Anomaly Detection'
+  authors: Yue Zhang, Xuchuang Ding, Xiang Zhang, Wei Ai, Gengwen Huang and <strong>Yiqun Zhang</strong><sup>&#x2709;</sup>
+  tag: ''
+  link: papers/ICIC-25-DeSAD.pdf
+  anchor: paper-C032
+  bib: "@inproceedings{zhang2025desad,\n  author = {Zhang, Yue and Ding, Xuchuang and Zhang, Xiang and Ai, Wei and Huang, Gengwen and Zhang, Yiqun},\n  title = {{DeSAD: Density Clustering-Guided Streaming Data Anomaly Detection}},\n  booktitle = {Proceedings of the International Conference on Intelligent Computing (ICIC)},\n  year = {2025},\n  address = {Ningbo, China, July 26--29}\n}"
+  conf_key: ICIC
+- id: C031
+  venue: CVPR'25
+  title: 'Mind the Gap: Confidence Discrepancy Can Guide Federated Semi-Supervised Learning Across Pseudo-Mismatch'
+  authors: Yijie Liu, Xinyi Shang, <strong>Yiqun Zhang</strong>, Yang Lu<sup>&#x2709;</sup>, Chen Gong, Jing-Hao Xue and Hanzi Wang
+  tag: ''
+  link: https://openaccess.thecvf.com/content/CVPR2025/html/Liu_Mind_the_Gap_Confidence_Discrepancy_Can_Guide_Federated_Semi-Supervised_Learning_CVPR_2025_paper.html
+  anchor: paper-C031
+  bib: "@inproceedings{liu2025mind,\n  author = {Liu, Yijie and Shang, Xinyi and Zhang, Yiqun and Lu, Yang and Gong, Chen and Xue, Jing-Hao and Wang, Hanzi},\n  title = {{Mind the Gap: Confidence Discrepancy Can Guide Federated Semi-Supervised Learning Across Pseudo-Mismatch}},\n  booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},\n  year = {2025},\n  address = {Nashville, TN, USA, June 11--15}\n}"
+  conf_key: CVPR
+- id: C030
+  venue: ICASSP'25
+  title: Robust Qualitative Data Clustering via Learnable Multi-Metric Space Fusion
+  authors: Sen Feng, Mingjie Zhao, Zhanpei Huang, Yuzhu Ji, <strong>Yiqun Zhang</strong><sup>&#x2709;</sup> and Yiu-ming Cheung
+  tag: ''
+  link: papers/ICASSP25-MSF.pdf
+  anchor: paper-C030
+  bib: "@inproceedings{feng2025robust,\n  author = {Feng, Sen and Zhao, Mingjie and Huang, Zhanpei and Ji, Yuzhu and Zhang, Yiqun and Cheung, Yiu-ming},\n  title = {{Robust Qualitative Data Clustering via Learnable Multi-Metric Space Fusion}},\n  booktitle = {Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},\n  year = {2025},\n  address = {Hyderabad, India, April 6--11}\n}"
+  conf_key: ICASSP
+  code: https://github.com/Sen-Feng/ICASSP-MSF/tree/main/CODE
+- id: C029
+  venue: ICASSP'25
+  title: 'Weighted Density for The Win: Accurate Subspace Density Clustering'
+  authors: Maixuan Peng, Yuyang Wu, <strong>Yiqun Zhang</strong><sup>&#x2709;</sup>, Yang Lu, Mengke Li and Yiu-ming Cheung
+  tag: ''
+  link: papers/ICASSP25-WDSC.pdf
+  anchor: paper-C029
+  bib: "@inproceedings{peng2025weighted,\n  author = {Peng, Maixuan and Wu, Yuyang and Zhang, Yiqun and Lu, Yang and Li, Mengke and Cheung, Yiu-ming},\n  title = {{Weighted Density for The Win: Accurate Subspace Density Clustering}},\n  booktitle = {Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},\n  year = {2025},\n  address = {Hyderabad, India, April 6--11}\n}"
+  conf_key: ICASSP
+- id: C028
+  venue: ICASSP'25
+  title: 'SmartNet: One-shot Talking Head Synthesis via Subtle Motion and Appearance Compensation'
+  authors: Wei Hu, Yuzhu Ji<sup>&#x2709;</sup>, An Zeng, Dan Pan, <strong>Yiqun Zhang</strong> and Haijun Zhang
+  tag: ''
+  link: https://ieeexplore.ieee.org/abstract/document/10887604
+  anchor: paper-C028
+  bib: "@inproceedings{hu2025smartnet,\n  author = {Hu, Wei and Ji, Yuzhu and Zeng, An and Pan, Dan and Zhang, Yiqun and Zhang, Haijun},\n  title = {{SmartNet: One-shot Talking Head Synthesis via Subtle Motion and Appearance Compensation}},\n  booktitle = {Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},\n  year = {2025},\n  address = {Hyderabad, India, April 6--11}\n}"
+  conf_key: ICASSP
+- id: C027
+  venue: AAAI'25
+  title: Asynchronous Federated Clustering with Unknown Number of Clusters
+  authors: Yunfan Zhang, <strong>Yiqun Zhang</strong><sup>&#x2709;</sup>, Yang Lu, Mengke Li, Xi Chen and Yiu-ming Cheung
+  tag: ''
+  link: https://ojs.aaai.org/index.php/AAAI/article/view/34429
+  anchor: paper-C027
+  bib: "@inproceedings{zhang2025asynchronous,\n  author = {Zhang, Yunfan and Zhang, Yiqun and Lu, Yang and Li, Mengke and Chen, Xi and Cheung, Yiu-ming},\n  title = {{Asynchronous Federated Clustering with Unknown Number of Clusters}},\n  booktitle = {Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)},\n  year = {2025},\n  address = {Philadelphia, PA, USA, February 25--March 4}\n}"
+  conf_key: AAAI
+  code: https://github.com/Yunfan-Zhang/AFCL
+- id: C026
+  venue: NeurIPS'24
+  title: Improving Visual Prompt Tuning by Gaussian Neighborhood Minimization for Long-Tailed Visual Recognition
+  authors: Mengke Li, Ye Liu, Yang Lu, <strong>Yiqun Zhang</strong>, Yiu-ming Cheung and Hui Huang<sup>&#x2709;</sup>
+  tag: ''
+  link: https://proceedings.neurips.cc/paper_files/paper/2024/hash/bc667ac84ef58f2b5022da97a465cbab-Abstract-Conference.html
+  anchor: paper-C026
+  bib: "@inproceedings{li2024improving,\n  author = {Li, Mengke and Liu, Ye and Lu, Yang and Zhang, Yiqun and Cheung, Yiu-ming and Huang, Hui},\n  title = {{Improving Visual Prompt Tuning by Gaussian Neighborhood Minimization for Long-Tailed Visual Recognition}},\n  booktitle = {Proceedings of the Conference on Neural Information Processing Systems (NeurIPS)},\n  year = {2024},\n  address = {Vancouver, BC, Canada, December 10--15}\n}"
+  conf_key: NeurIPS
+- id: C025
+  venue: BIBM'24
+  title: 'MGOD: Multi-Granular Outlier Detection with Clustlier Analysis'
+  authors: Qingsheng Chen, Mingjie Zhao, Yuzhu Ji, Xiaopeng Luo, <strong>Yiqun Zhang</strong><sup>&#x2709;</sup> and Yue Zhang
+  tag: ''
+  link: papers/BIBM24-MGOD.pdf
+  anchor: paper-C025
+  bib: "@inproceedings{chen2024mgod,\n  author = {Chen, Qingsheng and Zhao, Mingjie and Ji, Yuzhu and Luo, Xiaopeng and Zhang, Yiqun and Zhang, Yue},\n  title = {{MGOD: Multi-Granular Outlier Detection with Clustlier Analysis}},\n  booktitle = {Proceedings of the IEEE International Conference on Bioinformatics and Biomedicine (BIBM)},\n  year = {2024},\n  address = {Lisbon, Portugal, December 3--6}\n}"
+  conf_key: BIBM
+- id: C024
+  venue: BIBM'24
+  title: Efficient Topology-Driven Clustering for Imbalanced Streaming Biomedical Data Analysis
+  authors: Xiaopeng Luo, <strong>Yiqun Zhang</strong><sup>&#x2709;</sup>, Yuzhu Ji, Peng Liu and Taoting Xiao
+  tag: ''
+  link: papers/BIBM24-TSSC.pdf
+  anchor: paper-C024
+  bib: "@inproceedings{luo2024efficient,\n  author = {Luo, Xiaopeng and Zhang, Yiqun and Ji, Yuzhu and Liu, Peng and Xiao, Taoting},\n  title = {{Efficient Topology-Driven Clustering for Imbalanced Streaming Biomedical Data Analysis}},\n  booktitle = {Proceedings of the IEEE International Conference on Bioinformatics and Biomedicine (BIBM)},\n  year = {2024},\n  address = {Lisbon, Portugal, December 3--6}\n}"
+  conf_key: BIBM
+- id: C023
+  venue: ICPR'24
+  title: Towards Unbiased Minimal Cluster Analysis of Categorical-and-Numerical Attribute Data
+  authors: Yunfan Zhang, Xiaopeng Luo, Qingsheng Chen, Rong Zou, <strong>Yiqun Zhang</strong><sup>&#x2709;</sup> and Yiu-ming Cheung
+  tag: ''
+  link: papers/ICPR-Mic2Mac.pdf
+  anchor: paper-C023
+  bib: "@inproceedings{zhang2024towards,\n  author = {Zhang, Yunfan and Luo, Xiaopeng and Chen, Qingsheng and Zou, Rong and Zhang, Yiqun and Cheung, Yiu-ming},\n  title = {{Towards Unbiased Minimal Cluster Analysis of Categorical-and-Numerical Attribute Data}},\n  booktitle = {Proceedings of the International Conference on Pattern Recognition (ICPR)},\n  year = {2024},\n  address = {Kolkata, India, December 1--5}\n}"
+  conf_key: ICPR
+- id: C022
+  venue: PRCV'24
+  title: 'FedHC: Learning Imbalanced Clusters via Federated Hierarchical Clustering'
+  authors: Yue Zhang<sup>&#x2709;</sup>, Xinfa Liao, Qingsheng Chen, Hao-Tian Wu and <strong>Yiqun Zhang</strong>
+  tag: ''
+  link: papers/PRCV_24_FedHC_CR.pdf
+  anchor: paper-C022
+  bib: "@inproceedings{zhang2024fedhc,\n  author = {Zhang, Yue and Liao, Xinfa and Chen, Qingsheng and Wu, Hao-Tian and Zhang, Yiqun},\n  title = {{FedHC: Learning Imbalanced Clusters via Federated Hierarchical Clustering}},\n  booktitle = {Proceedings of the Chinese Conference on Pattern Recognition and Computer Vision (PRCV)},\n  year = {2024},\n  address = {Urumqi, China, October 18--21}\n}"
+  conf_key: PRCV
+- id: C021
+  venue: PRCV'24
+  title: 'FedGC: Federated Learning on Non-IID Data via Learning from Good Clients'
+  authors: Xu Ji, Haotian Wu<sup>&#x2709;</sup>, Ting Cui, <strong>Yiqun Zhang</strong> and Lingling Xu
+  tag: ''
+  link: https://link.springer.com/chapter/10.1007/978-981-97-8487-5_13
+  anchor: paper-C021
+  bib: "@inproceedings{ji2024fedgc,\n  author = {Ji, Xu and Wu, Haotian and Cui, Ting and Zhang, Yiqun and Xu, Lingling},\n  title = {{FedGC: Federated Learning on Non-IID Data via Learning from Good Clients}},\n  booktitle = {Proceedings of the Chinese Conference on Pattern Recognition and Computer Vision (PRCV)},\n  year = {2024},\n  address = {Urumqi, China, October 18--21}\n}"
+  conf_key: PRCV
+- id: C020
+  venue: ECAI'24
+  title: Learning Order Forest for Qualitative-Attribute Data Clustering
+  authors: Mingjie Zhao, Sen Feng, <strong>Yiqun Zhang</strong><sup>&#x2709;</sup>, Mengke Li, Yang Lu and Yiu-ming Cheung
+  tag: ''
+  link: https://ebooks.iospress.nl/volumearticle/69804
+  anchor: paper-C020
+  bib: "@inproceedings{zhao2024learning,\n  author = {Zhao, Mingjie and Feng, Sen and Zhang, Yiqun and Li, Mengke and Lu, Yang and Cheung, Yiu-ming},\n  title = {{Learning Order Forest for Qualitative-Attribute Data Clustering}},\n  booktitle = {Proceedings of the European Conference on Artificial Intelligence (ECAI)},\n  year = {2024},\n  address = {Santiago de Compostela, Spain, October 19--24}\n}"
+  conf_key: ECAI
+  code: https://github.com/ZHAO-Mingjie/ECAI-24-COForest
+- id: C019
+  venue: ECAI'24
+  title: 'CPNet: 3D Semantic Relation and Geometry Context Prior Network for Multi-organ Segmentation'
+  authors: Yuzhu Ji, Mingshan Sun<sup>&#x2709;</sup>, <strong>Yiqun Zhang</strong> and Haijun Zhang
+  tag: ''
+  link: https://ebooks.iospress.nl/volumearticle/69578
+  anchor: paper-C019
+  bib: "@inproceedings{ji2024cpnet,\n  author = {Ji, Yuzhu and Sun, Mingshan and Zhang, Yiqun and Zhang, Haijun},\n  title = {{CPNet: 3D Semantic Relation and Geometry Context Prior Network for Multi-organ Segmentation}},\n  booktitle = {Proceedings of the European Conference on Artificial Intelligence (ECAI)},\n  year = {2024},\n  address = {Santiago de Compostela, Spain, October 19--24}\n}"
+  conf_key: ECAI
+- id: C018
+  venue: SIGKDD'24
+  title: 'QGRL: Quaternion Graph Representation Learning for Heterogeneous Feature Data Clustering'
+  authors: Junyang Chen, Yuzhu Ji, Rong Zou, <strong>Yiqun Zhang</strong><sup>&#x2709;</sup> and Yiu-ming Cheung
+  tag: ''
+  link: https://dl.acm.org/doi/abs/10.1145/3637528.3671839
+  anchor: paper-C018
+  bib: "@inproceedings{chen2024qgrl,\n  author = {Chen, Junyang and Ji, Yuzhu and Zou, Rong and Zhang, Yiqun and Cheung, Yiu-ming},\n  title = {{QGRL: Quaternion Graph Representation Learning for Heterogeneous Feature Data Clustering}},\n  booktitle = {Proceedings of the ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)},\n  year = {2024},\n  address = {Barcelona, Spain, August 25--29}\n}"
+  conf_key: SIGKDD
+  code: https://github.com/Juny-Chen/QGRL.git
+- id: C017
+  venue: ICDCS'24
+  title: Robust Categorical Data Clustering Guided by Multi-Granular Competitive Learning
+  authors: Shenghong Cai, <strong>Yiqun Zhang</strong><sup>&#x2709;</sup>, Xiaopeng Luo, Yiu-ming Cheung, Hong Jia and Peng Liu
+  tag: ''
+  link: https://arxiv.org/abs/2601.16491
+  anchor: paper-C017
+  bib: "@inproceedings{cai2024robust,\n  author = {Cai, Shenghong and Zhang, Yiqun and Luo, Xiaopeng and Cheung, Yiu-ming and Jia, Hong and Liu, Peng},\n  title = {{Robust Categorical Data Clustering Guided by Multi-Granular Competitive Learning}},\n  booktitle = {Proceedings of the IEEE International Conference on Distributed Computing Systems (ICDCS)},\n  year = {2024},\n  address = {Jersey City, NJ, USA, July 23--26}\n}"
+  conf_key: ICDCS
+- id: C016
+  venue: IJCNN'24
+  title: Clustering by Learning the Ordinal Relationships of Qualitative Attribute Values
+  authors: Pengkai Wang, Yunfan Zhang, <strong>Yiqun Zhang</strong><sup>&#x2709;</sup>, Yang Lu, Mengke Li and Yiu-ming Cheung
+  tag: ''
+  link: papers/IJCNN24-CLORD.pdf
+  anchor: paper-C016
+  bib: "@inproceedings{wang2024clustering,\n  author = {Wang, Pengkai and Zhang, Yunfan and Zhang, Yiqun and Lu, Yang and Li, Mengke and Cheung, Yiu-ming},\n  title = {{Clustering by Learning the Ordinal Relationships of Qualitative Attribute Values}},\n  booktitle = {Proceedings of the International Joint Conference on Neural Networks (IJCNN)},\n  year = {2024},\n  address = {Yokohama, Japan, June 30--July 5}\n}"
+  conf_key: IJCNN
+- id: C015
+  venue: DOCS'24
+  title: Federated Clustering with Unknown Number of Clusters
+  authors: Rong Zou, Yunfan Zhang, <strong>Yiqun Zhang</strong>, Yang Lu, Mengke Li and Yiu-ming Cheung<sup>&#x2709;</sup>
+  tag: Best Paper Award
+  link: papers/DOCS-24-FedCCL.pdf
+  anchor: paper-C015
+  bib: "@inproceedings{zou2024federated,\n  author = {Zou, Rong and Zhang, Yunfan and Zhang, Yiqun and Lu, Yang and Li, Mengke and Cheung, Yiu-ming},\n  title = {{Federated Clustering with Unknown Number of Clusters}},\n  booktitle = {Proceedings of the International Conference on Data-driven Optimization of Complex Systems (DOCS)},\n  year = {2024},\n  address = {Hangzhou, China, August 16--18}\n}"
+  conf_key: DOCS
+- id: C014
+  venue: ICEIEC'24
+  title: Multi-Layer Attention Fusion and Edge-Guided Structural Enrichment Completion Network for Leaf Point Cloud
+  authors: Qingqing Liao, An Zeng, Yuzhu Ji<sup>&#x2709;</sup> and <strong>Yiqun Zhang</strong>
+  tag: ''
+  link: https://ieeexplore.ieee.org/abstract/document/10561642
+  anchor: paper-C014
+  bib: "@inproceedings{liao2024multilayer,\n  author = {Liao, Qingqing and Zeng, An and Ji, Yuzhu and Zhang, Yiqun},\n  title = {{Multi-Layer Attention Fusion and Edge-Guided Structural Enrichment Completion Network for Leaf Point Cloud}},\n  booktitle = {Proceedings of the IEEE International Conference on Electronics Information and Emergency Communication (ICEIEC)},\n  year = {2024},\n  address = {Hangzhou, China, May 24--26}\n}"
+  conf_key: ICEIEC
+- id: C013
+  venue: BIBM'23
+  title: Selecting Heterogeneous Features based on Unified Density-Guided Neighborhood Relation for Complex Biomedical Data Analysis
+  authors: Lang Zhao, <strong>Yiqun Zhang</strong><sup>&#x2709;</sup>, Xiaopeng Luo, Yue Zhang, Yiu-ming Cheung and Kangshun Li
+  tag: ''
+  link: https://www.comp.hkbu.edu.hk/~ymc/papers/conference/BIBM23-paper.pdf
+  anchor: paper-C013
+  bib: "@inproceedings{zhao2023selecting,\n  author = {Zhao, Lang and Zhang, Yiqun and Luo, Xiaopeng and Zhang, Yue and Cheung, Yiu-ming and Li, Kangshun},\n  title = {{Selecting Heterogeneous Features based on Unified Density-Guided Neighborhood Relation for Complex Biomedical Data Analysis}},\n  booktitle = {Proceedings of the IEEE International Conference on Bioinformatics and Biomedicine (BIBM)},\n  year = {2023},\n  address = {Istanbul, Turkey, December 5--8}\n}"
+  conf_key: BIBM
+- id: C012
+  venue: PRCV'23
+  title: Unsupervised Concept Drift Detection via Imbalanced Cluster Discriminator Learning
+  authors: Mingjie Zhao, <strong>Yiqun Zhang</strong><sup>&#x2709;</sup>, Yuzhu Ji and Yang Lu
+  tag: ''
+  link: https://www.researchgate.net/profile/Yiqun-Zhang-8/publication/376796605_Unsupervised_Concept_Drift_Detection_via_Imbalanced_Cluster_Discriminator_Learning/links/659cb8776f6e450f19d7949f/Unsupervised-Concept-Drift-Detection-via-Imbalanced-Cluster-Discriminator-Learning.pdf
+  anchor: paper-C012
+  bib: "@inproceedings{zhao2023unsupervised,\n  author = {Zhao, Mingjie and Zhang, Yiqun and Ji, Yuzhu and Lu, Yang},\n  title = {{Unsupervised Concept Drift Detection via Imbalanced Cluster Discriminator Learning}},\n  booktitle = {Proceedings of the Chinese Conference on Pattern Recognition and Computer Vision (PRCV)},\n  year = {2023},\n  address = {Xiamen, China, October 13--15}\n}"
+  conf_key: PRCV
+- id: C011
+  venue: PRCV'23
+  title: Learning Hierarchical Representations in Temporal and Frequency Domains for Time Series Forecasting
+  authors: Zhipeng Zhang, <strong>Yiqun Zhang</strong><sup>&#x2709;</sup>, An Zeng, Dan Pan and Xiaobo Zhang
+  tag: ''
+  link: papers/PRCV-23-LHRTF.pdf
+  anchor: paper-C011
+  bib: "@inproceedings{zhang2023learning,\n  author = {Zhang, Zhipeng and Zhang, Yiqun and Zeng, An and Pan, Dan and Zhang, Xiaobo},\n  title = {{Learning Hierarchical Representations in Temporal and Frequency Domains for Time Series Forecasting}},\n  booktitle = {Proceedings of the Chinese Conference on Pattern Recognition and Computer Vision (PRCV)},\n  year = {2023},\n  address = {Xiamen, China, October 13--15}\n}"
+  conf_key: PRCV
+- id: C010
+  venue: PRCV'23
+  title: 'CFNet: A Coarse-to-Fine Framework for Coronary Artery Segmentation'
+  authors: Shi-ting He, Yuzhu Ji<sup>&#x2709;</sup>, <strong>Yiqun Zhang</strong>, An Zeng, Dan Pan, Jing Lin and Xiaobo Zhang
+  tag: ''
+  link: https://www.researchgate.net/profile/Yiqun-Zhang-8/publication/376808574_CFNet_A_Coarse-to-Fine_Framework_for_Coronary_Artery_Segmentation/links/65c47fc51bed776ae337740f/CFNet-A-Coarse-to-Fine-Framework-for-Coronary-Artery-Segmentation.pdf
+  anchor: paper-C010
+  bib: "@inproceedings{he2023cfnet,\n  author = {He, Shi-ting and Ji, Yuzhu and Zhang, Yiqun and Zeng, An and Pan, Dan and Lin, Jing and Zhang, Xiaobo},\n  title = {{CFNet: A Coarse-to-Fine Framework for Coronary Artery Segmentation}},\n  booktitle = {Proceedings of the Chinese Conference on Pattern Recognition and Computer Vision (PRCV)},\n  year = {2023},\n  address = {Xiamen, China, October 13--15}\n}"
+  conf_key: PRCV
+- id: C009
+  venue: ECAI'23
+  title: Time-Series Data Imputation via Realistic Masking-Guided Tri-Attention Bi-GRU
+  authors: Zhipeng Zhang, <strong>Yiqun Zhang</strong><sup>&#x2709;</sup>, An Zeng, Dan Pan, Yuzhu Ji, Zhipeng Zhang and Jing Lin
+  tag: ''
+  link: https://ebooks.iospress.nl/volumearticle/64557
+  anchor: paper-C009
+  bib: "@inproceedings{zhang2023timeseries,\n  author = {Zhang, Zhipeng and Zhang, Yiqun and Zeng, An and Pan, Dan and Ji, Yuzhu and Zhang, Zhipeng and Lin, Jing},\n  title = {{Time-Series Data Imputation via Realistic Masking-Guided Tri-Attention Bi-GRU}},\n  booktitle = {Proceedings of the European Conference on Artificial Intelligence (ECAI)},\n  year = {2023},\n  address = {Krakow, Poland, September 30--October 4}\n}"
+  conf_key: ECAI
+  code: https://github.com/Zhang2112105189/TABiG
+- id: C008
+  venue: DSAA'22
+  title: 'Heterogeneous Drift Learning: Classification of Mix-Attribute Data with Concept Drifts'
+  authors: Lang Zhao, <strong>Yiqun Zhang</strong><sup>&#x2709;</sup>, Yuzhu Ji, An Zeng, Fangqing Gu and Xiaopeng Luo
+  tag: ''
+  link: https://www.researchgate.net/profile/Yiqun-Zhang-8/publication/368366763_Heterogeneous_Drift_Learning_Classification_of_Mix-Attribute_Data_with_Concept_Drifts/links/63e77e09e2e1515b6b8b8551/Heterogeneous-Drift-Learning-Classification-of-Mix-Attribute-Data-with-Concept-Drifts.pdf
+  anchor: paper-C008
+  bib: "@inproceedings{zhao2022heterogeneous,\n  author = {Zhao, Lang and Zhang, Yiqun and Ji, Yuzhu and Zeng, An and Gu, Fangqing and Luo, Xiaopeng},\n  title = {{Heterogeneous Drift Learning: Classification of Mix-Attribute Data with Concept Drifts}},\n  booktitle = {Proceedings of the IEEE International Conference on Data Science and Advanced Analytics (DSAA)},\n  year = {2022},\n  address = {Shenzhen, China, October 13--16}\n}"
+  conf_key: DSAA
+- id: C007
+  venue: DOCS'22
+  title: Causal Discovery of Medical Test Parameters Based on Improved PC Algorithm
+  authors: Xueyao Qiu, Fangqing Gu<sup>&#x2709;</sup> and <strong>Yiqun Zhang</strong>
+  tag: ''
+  link: https://ieeexplore.ieee.org/abstract/document/9967738
+  anchor: paper-C007
+  bib: "@inproceedings{qiu2022causal,\n  author = {Qiu, Xueyao and Gu, Fangqing and Zhang, Yiqun},\n  title = {{Causal Discovery of Medical Test Parameters Based on Improved PC Algorithm}},\n  booktitle = {Proceedings of the International Conference on Data-driven Optimization of Complex Systems (DOCS)},\n  year = {2022},\n  address = {Chengdu, China, September 23--25}\n}"
+  conf_key: DOCS
+- id: C006
+  venue: IJCAI'22
+  title: 'Het2Hom: Representation of Heterogeneous Attributes into Homogeneous Concept Spaces for Categorical-and-Numerical-Attribute Data Clustering'
+  authors: <strong>Yiqun Zhang</strong>, Yiu-ming Cheung<sup>&#x2709;</sup> and An Zeng
+  tag: ''
+  link: https://www.ijcai.org/proceedings/2022/0522
+  anchor: paper-C006
+  bib: "@inproceedings{zhang2022het2hom,\n  author = {Zhang, Yiqun and Cheung, Yiu-ming and Zeng, An},\n  title = {{Het2Hom: Representation of Heterogeneous Attributes into Homogeneous Concept Spaces for Categorical-and-Numerical-Attribute Data Clustering}},\n  booktitle = {Proceedings of the International Joint Conference on Artificial Intelligence (IJCAI)},\n  year = {2022},\n  address = {Vienna, Austria, July 23--29}\n}"
+  conf_key: IJCAI
+  code: https://www.comp.hkbu.edu.hk/~ymc/papers/conference/source-code/ijcai22_code.zip
+- id: C005
+  venue: AAAI'20
+  title: An Ordinal Data Clustering Algorithm with Automated Distance Learning
+  authors: <strong>Yiqun Zhang</strong> and Yiu-ming Cheung<sup>&#x2709;</sup>
+  tag: ''
+  link: https://ojs.aaai.org/index.php/AAAI/article/view/6168
+  anchor: paper-C005
+  bib: "@inproceedings{zhang2020ordinal,\n  author = {Zhang, Yiqun and Cheung, Yiu-ming},\n  title = {{An Ordinal Data Clustering Algorithm with Automated Distance Learning}},\n  booktitle = {Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)},\n  year = {2020},\n  address = {New York, NY, USA, February 7--12}\n}"
+  conf_key: AAAI
+  code: https://www.comp.hkbu.edu.hk/~ymc/papers/conference/source-code/AAAI20-code.zip
+- id: C004
+  venue: ISMIS'18
+  title: Exploiting Order Information Embedded in Ordered Categories for Ordinal Data Clustering
+  authors: <strong>Yiqun Zhang</strong> and Yiu-ming Cheung<sup>&#x2709;</sup>
+  tag: Best Student Paper Award
+  link: https://www.researchgate.net/publication/328128487_Exploiting_Order_Information_Embedded_in_Ordered_Categories_for_Ordinal_Data_Clustering_24th_International_Symposium_ISMIS_2018_Limassol_Cyprus_October_29-31_2018_Proceedings
+  anchor: paper-C004
+  bib: "@inproceedings{zhang2018exploiting,\n  author = {Zhang, Yiqun and Cheung, Yiu-ming},\n  title = {{Exploiting Order Information Embedded in Ordered Categories for Ordinal Data Clustering}},\n  booktitle = {Proceedings of the International Symposium on Methodologies for Intelligent Systems (ISMIS)},\n  year = {2018},\n  address = {Limassol, Cyprus, October 29--31}\n}"
+  conf_key: ISMIS
+- id: C003
+  venue: ICACI'18
+  title: A Fast Hierarchical Clustering Approach Based on Partition and Merging Scheme
+  authors: <strong>Yiqun Zhang</strong> and Yiu-ming Cheung<sup>&#x2709;</sup>
+  tag: ''
+  link: https://www.researchgate.net/publication/325703661_A_fast_hierarchical_clustering_approach_based_on_partition_and_merging_scheme
+  anchor: paper-C003
+  bib: "@inproceedings{zhang2018fast,\n  author = {Zhang, Yiqun and Cheung, Yiu-ming},\n  title = {{A Fast Hierarchical Clustering Approach Based on Partition and Merging Scheme}},\n  booktitle = {Proceedings of the International Conference on Advanced Computational Intelligence (ICACI)},\n  year = {2018},\n  address = {Xiamen, China, March 29--31}\n}"
+  conf_key: ICACI
+- id: C002
+  venue: IJCNN'16
+  title: Quality Preserved Data Summarization for Fast Hierarchical Clustering
+  authors: <strong>Yiqun Zhang</strong>, Yiu-ming Cheung<sup>&#x2709;</sup> and Yang Liu
+  tag: ''
+  link: https://www.researchgate.net/profile/Yiqun-Zhang-8/publication/309778403_Quality_preserved_data_summarization_for_fast_hierarchical_clustering/links/635bb5c26e0d367d91d55a00/Quality-preserved-data-summarization-for-fast-hierarchical-clustering.pdf
+  anchor: paper-C002
+  bib: "@inproceedings{zhang2016quality,\n  author = {Zhang, Yiqun and Cheung, Yiu-ming and Liu, Yang},\n  title = {{Quality Preserved Data Summarization for Fast Hierarchical Clustering}},\n  booktitle = {Proceedings of the International Joint Conference on Neural Networks (IJCNN)},\n  year = {2016},\n  address = {Vancouver, BC, Canada, July 24--29}\n}"
+  conf_key: IJCNN
+- id: C001
+  venue: ICDMW'14
+  title: Discretizing Numerical Attributes in Decision Tree for Big Data Analysis
+  authors: <strong>Yiqun Zhang</strong> and Yiu-ming Cheung<sup>&#x2709;</sup>
+  tag: ''
+  link: https://www.researchgate.net/publication/282303497_Discretizing_Numerical_Attributes_in_Decision_Tree_for_Big_Data_Analysis
+  anchor: paper-C001
+  bib: "@inproceedings{zhang2014discretizing,\n  author = {Zhang, Yiqun and Cheung, Yiu-ming},\n  title = {{Discretizing Numerical Attributes in Decision Tree for Big Data Analysis}},\n  booktitle = {Proceedings of the IEEE International Conference on Data Mining Workshop (ICDMW)},\n  year = {2014},\n  address = {Shenzhen, China, December 14--17}\n}"
+  conf_key: ICDMW

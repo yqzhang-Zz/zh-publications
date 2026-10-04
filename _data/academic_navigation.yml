@@ -1,0 +1,17 @@
+language: en
+default_section: publications
+home: /
+language_switch: null
+links:
+- key: home
+  title: Home
+  url: /
+- key: news
+  title: News
+  url: /news/
+- key: publications
+  title: Publications
+  url: /zh-publications/
+- key: omg
+  title: About OMG
+  url: /zh-OMG/

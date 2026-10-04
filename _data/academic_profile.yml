@@ -1,0 +1,127 @@
+revision: profile-2026-10-04-r8-release1
+identity:
+  name_zh: 张逸群
+  name_en: Yiqun Zhang
+  institution_zh: 广东工业大学
+  unit_zh: 计算机学院
+  public_email: yqzhang@gdut.edu.cn
+  orcid: 0000-0002-0328-987X
+  google_scholar_id: EnqM5F4AAAAJ
+  dblp_id: 125/5587-6
+education:
+  edu-1:
+    start: 2014-09
+    end: 2019-08
+    institution: 香港浸会大学
+    degree: 哲学博士
+  edu-2:
+    start: 2013-09
+    end: 2014-08
+    institution: 香港浸会大学
+    degree: 理学硕士
+  edu-3:
+    start: 2009-09
+    end: 2013-07
+    institution: 华南理工大学
+    degree: 工学学士
+  edu-4:
+    start: 2006-09
+    end: 2009-07
+    institution: 深圳市红岭中学
+    degree: null
+employment:
+  job-1:
+    start: 2026-01
+    end: null
+    ongoing: true
+    institution: 广东工业大学
+    position: 特聘教授
+    detailed: []
+  job-2:
+    start: 2024-12
+    end: 2025-12
+    ongoing: false
+    institution: 香港浸会大学
+    position: 访问研究学者
+    detailed: []
+  job-3:
+    start: 2022-09
+    end: 2026-01
+    ongoing: false
+    institution: 广东工业大学
+    position: 副教授
+    detailed:
+    - position: 特聘副教授
+      start: 2022-09
+      end: 2023-12
+    - position: 副教授
+      start: 2023-12
+      end: 2026-01
+  job-4:
+    start: 2020-10
+    end: 2022-09
+    ongoing: false
+    institution: 广东工业大学
+    position: 讲师
+    detailed: []
+  job-5:
+    start: 2019-10
+    end: 2021-02
+    ongoing: false
+    institution: 香港浸会大学
+    position: 博士后研究员
+    detailed: []
+  job-6:
+    start: 2019-09
+    end: 2019-10
+    ongoing: false
+    institution: 香港浸会大学
+    position: 高级研究助理
+    detailed: []
+metrics:
+  publications_total:
+    value: 100
+    operator: gt
+    as_of: null
+    document_version: 2026-09
+    zh_phrase: 逾100篇
+    en_phrase: over 100 papers
+author:
+  name: Yiqun Zhang
+  avatar: /images/yqzhang.jpg
+  bio: IEEE Senior Member<br>Professor<br>School of Computer Science and Technology<br>Guangdong University of Technology
+  location: Guangzhou, China
+  employer: null
+  pubmed: null
+  googlescholar: https://scholar.google.com/citations?user=EnqM5F4AAAAJ&hl
+  email: yqzhang@gdut.edu.cn
+  researchgate: null
+  uri: null
+  bitbucket: null
+  codepen: null
+  dribbble: null
+  flickr: null
+  facebook: null
+  foursquare: null
+  github: null
+  google_plus: null
+  keybase: null
+  instagram: null
+  impactstory: null
+  lastfm: null
+  linkedin: null
+  dblp: https://dblp.org/pid/125/5587-6.html
+  orcid: https://orcid.org/0000-0002-0328-987X
+  pinterest: null
+  soundcloud: null
+  stackoverflow: null
+  steam: null
+  tumblr: null
+  twitter: null
+  vine: null
+  weibo: null
+  xing: null
+  youtube: null
+  wikipedia: null
+title: Yiqun Zhang — Publications
+description: —— "<em>Advancing Open-Environment Machine Learning for Cutting-Edge Data Science Applications</em> "

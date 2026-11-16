@@ -1,0 +1,14 @@
+{
+  "owner": "yqzhang-Zz",
+  "repository": "zh-publications",
+  "fact_revision": "profile-2026-11-16-links1",
+  "files": {
+    "_data/academic_profile.yml": "46329b4deb8979730f1e1af5f5d7cf32b355dab82b37a37efdf31a9006df7588",
+    "_data/academic_publications_by_id.yml": "5001835a1cd94259975f2c4ecf3a6cb2a0609dbb34696769a142480916e0aacf",
+    "_data/journal_papers.yml": "7bf56bbbf275be2d9887ff49f593645796b29813463c51197eee9fdcd5e3dfb4",
+    "_data/conference_papers.yml": "4733319f87d91f2564ea5818e6c19a37bbce70fea5ed65be28f50223a1b4770a",
+    "_data/journal_meta.yml": "a7976c99a7bfb4e829685b7c8d786136175fd3b4ca48df664c67d01154eaca2c",
+    "_data/conference_meta.yml": "825fb370376a065ca25fa5a08ad512bb5387448a880dbfb3ba5afe20c43e15dd",
+    "_pages/about.md": "3792e36edb08bd8e15e102b3ad5665b5ea9a250a13712057e4f2e1defef9a184"
+  }
+}

@@ -12,16 +12,17 @@
   title: One-Shot Hierarchical Federated Clustering for Distributed Non-IID Biomedical Data Analysis
   authors: Shenghong Cai and <strong>Yiqun Zhang</strong><sup>&#x2709;</sup>
   tag: ''
-  link: '#'
+  link: https://arxiv.org/abs/2611.11481
   anchor: paper-C061
   bib: "@inproceedings{cai2026oneshot,\n  author = {Cai, Shenghong and Zhang, Yiqun},\n  title = {{One-Shot Hierarchical Federated Clustering for Distributed Non-IID Biomedical Data Analysis}},\n  booktitle = {Proceedings of the IEEE International Conference on Bioinformatics and Biomedicine (BIBM)},\n  year = {2026},\n  address = {Dallas, USA, December 1--4}\n}"
   conf_key: BIBM
+  code: https://github.com/hongdream/FedHCA
 - id: C060
   venue: BIBM'26
   title: 'DOcTreeMamba: Topology-Aware Mamba for 3D Medical Segmentation via Octree Sparsification'
   authors: Kaixiang Mai, Jiaqi Yu, Yuzhu Ji<sup>&#x2709;</sup>, <strong>Yiqun Zhang</strong>, Zhijie Wang, Haijun Zhang and Yiu-ming Cheung
   tag: ''
-  link: '#'
+  link: https://arxiv.org/abs/2611.07865
   anchor: paper-C060
   bib: "@inproceedings{mai2026octreemamba,\n  author = {Mai, Kaixiang and Yu, Jiaqi and Ji, Yuzhu and Zhang, Yiqun and Wang, Zhijie and Zhang, Haijun and Cheung, Yiu-ming},\n  title = {{DOcTreeMamba: Topology-Aware Mamba for 3D Medical Segmentation via Octree Sparsification}},\n  booktitle = {Proceedings of the IEEE International Conference on Bioinformatics and Biomedicine (BIBM)},\n  year = {2026},\n  address = {Dallas, USA, December 1--4}\n}"
   conf_key: BIBM
@@ -30,21 +31,20 @@
   title: 'Seeing Time: Visual-Temporal Representation Learning for Interpretable Time Series Clustering'
   authors: Zheng Zhu, Zexi Tan<sup>&#x2709;</sup>, Yuming Deng and <strong>Yiqun Zhang</strong>
   tag: Teen Research Track Paper
-  link: '#'
+  link: https://arxiv.org/abs/2609.36873
   anchor: paper-C059
   bib: "@inproceedings{zhu2026seeing,\n  author = {Zhu, Zheng and Tan, Zexi and Deng, Yuming and Zhang, Yiqun},\n  title = {{Seeing Time: Visual-Temporal Representation Learning for Interpretable Time Series Clustering}},\n  booktitle = {Proceedings of the IEEE International Conference on Data Mining (ICDM)},\n  year = {2026},\n  address = {Shenyang, China, November 12--15}\n}"
   conf_key: ICDM
-  code: '#'
+  code: https://github.com/Zheng-Zhu1/WAVE
 - id: C058
   venue: ICDM'26
   title: 'When Prediction Shapes the Future: A BlueSky Agenda for Reflexive Time Series Analysis'
   authors: Tao Xie, <strong>Yiqun Zhang</strong><sup>&#x2709;</sup> and Yiu-ming Cheung
   tag: BlueSky Track Paper
-  link: '#'
+  link: https://arxiv.org/abs/2611.02511
   anchor: paper-C058
   bib: "@inproceedings{xie2026when,\n  author = {Xie, Tao and Zhang, Yiqun and Cheung, Yiu-ming},\n  title = {{When Prediction Shapes the Future: A BlueSky Agenda for Reflexive Time Series Analysis}},\n  booktitle = {Proceedings of the IEEE International Conference on Data Mining (ICDM)},\n  year = {2026},\n  address = {Shenyang, China, November 12--15}\n}"
   conf_key: ICDM
-  code: '#'
 - id: C057
   venue: CIKM'26
   title: 'Stitch the Fragments: One-Shot Hierarchical Federated Clustering'
@@ -74,7 +74,6 @@
   anchor: paper-C055
   bib: "@inproceedings{yang2026bridging,\n  author = {Yang, Zihua and Liao, Xin and Zhang, Yiqun and Cheung, Yiu-ming},\n  title = {{Bridging the Semantic Gap for Categorical Data Clustering via Large Language Models}},\n  booktitle = {Proceedings of the International Conference on Pattern Recognition (ICPR)},\n  year = {2026},\n  address = {Lyon, France, August 17--22}\n}"
   conf_key: ICPR
-  code: https://github.com/develop-yang/ARISE
 - id: C054
   venue: SIGKDD'26
   title: 'AnchorMoE: Interpretable Time Series Classification via Anchor-Routed MoE'
@@ -94,6 +93,7 @@
   anchor: paper-C053
   bib: "@inproceedings{li2026care,\n  author = {Li, Mengke and Ling, Haiquan and Chen, Lihao and Lu, Yang and Zhang, Yiqun and Huang, Hui},\n  title = {{CARE: Class-Adaptive Expert Consensus for Reliable Learning with Long-Tailed Noisy Labels}},\n  booktitle = {Proceedings of the International Conference on Machine Learning (ICML)},\n  year = {2026},\n  address = {Seoul, South Korea, July 6--11}\n}"
   conf_key: ICML
+  code: https://github.com/qwq123-study/CARE
 - id: C052
   venue: IJCNN'26
   title: 'FMoE: Frequency-Guided Multi-Period MoE Modeling for Time Series Forecasting'
@@ -121,6 +121,7 @@
   anchor: paper-C050
   bib: "@inproceedings{liu2026secos,\n  author = {Liu, Hezhao and Yang, Jiacheng and Gao, Junlong and Li, Mengke and Zhang, Yiqun and Gowda, Shreyank N and Lu, Yang},\n  title = {{SECOS: Semantic Capture for Rigorous Classification in Open-World Semi-Supervised Learning}},\n  booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},\n  year = {2026},\n  address = {Denver, CO, USA, June 3--7}\n}"
   conf_key: CVPR
+  code: https://github.com/ganchi-huanggua/OSSL-Classification
 - id: C049
   venue: CVPR'26
   title: Fine-Tuning Impairs the Balancedness of Foundation Models in Long-tailed Personalized Federated Learning
@@ -130,6 +131,7 @@
   anchor: paper-C049
   bib: "@inproceedings{hou2026finetuning,\n  author = {Hou, Shihao and Shang, Chikai and Yang, Zhiheng and Yang, Jiacheng and Shang, Xinyi and Gao, Junlong and Zhang, Yiqun and Lu, Yang},\n  title = {{Fine-Tuning Impairs the Balancedness of Foundation Models in Long-tailed Personalized Federated Learning}},\n  booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},\n  year = {2026},\n  address = {Denver, CO, USA, June 3--7}\n}"
   conf_key: CVPR
+  code: https://github.com/shihaohou/FedPuReL
 - id: C048
   venue: SIGMOD'26
   title: Categorical Data Clustering via Value Order Estimated Distance Metric Learning
@@ -158,6 +160,7 @@
   anchor: paper-C046
   bib: "@inproceedings{chen2026cadm,\n  author = {Chen, Taixi and Cheung, Yiu-ming and Zhang, Yiqun},\n  title = {{CADM: Cluster-customized Adaptive Distance Metric for Categorical Data Clustering}},\n  booktitle = {Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},\n  year = {2026},\n  address = {Barcelona, Spain, May 4--8}\n}"
   conf_key: ICASSP
+  code: https://github.com/Taixi-CHEN/CADM
 - id: C045
   venue: DASFAA'26
   title: 'HyReaL: Clustering Attributed Graph via Hyper-Complex Space Representation Learning'
@@ -253,6 +256,7 @@
   anchor: paper-C036
   bib: "@inproceedings{shang2025provpt,\n  author = {Shang, Chikai and Li, Mengke and Zhang, Yiqun and Chen, Zhen and Wu, Jinlin and Gu, Fangqing and Lu, Yang and Cheung, Yiu-ming},\n  title = {{PRO-VPT: Distribution-Adaptive Visual Prompt Tuning via Prompt Relocation}},\n  booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},\n  year = {2025},\n  address = {Honolulu, Hawaii, USA, October 19--23}\n}"
   conf_key: ICCV
+  code: https://github.com/ckshang/PRO-VPT
 - id: C035
   venue: PRCV'25
   title: 'FedCD: A Hybrid Federated Learning Framework for Adaptive Training Under Data Heterogeneity'
@@ -267,10 +271,11 @@
   title: 'SeqPose: An End-to-End Framework to Unify Single-frame and Video-based RGB Category-Level Pose Estimation'
   authors: Yuzhu Ji, Mingshan Sun, Jianyang Shi, Xiaoke Jiang, <strong>Yiqun Zhang</strong><sup>&#x2709;</sup> and Haijun Zhang
   tag: ''
-  link: https://dl.acm.org/doi/abs/10.24963/ijcai.2025/137
+  link: https://www.ijcai.org/proceedings/2025/137
   anchor: paper-C034
   bib: "@inproceedings{ji2025seqpose,\n  author = {Ji, Yuzhu and Sun, Mingshan and Shi, Jianyang and Jiang, Xiaoke and Zhang, Yiqun and Zhang, Haijun},\n  title = {{SeqPose: An End-to-End Framework to Unify Single-frame and Video-based RGB Category-Level Pose Estimation}},\n  booktitle = {Proceedings of the International Joint Conference on Artificial Intelligence (IJCAI)},\n  year = {2025},\n  address = {Montreal, Canada, August 16--22}\n}"
   conf_key: IJCAI
+  code: https://andrewchiyz.github.io/vision.3dv.seqpose/
 - id: C033
   venue: ISBRA'25
   title: 'EEG-TFNet: Spatiotemporal and Spectral Feature Integration for EEG-Based AD Detection'
@@ -298,6 +303,7 @@
   anchor: paper-C031
   bib: "@inproceedings{liu2025mind,\n  author = {Liu, Yijie and Shang, Xinyi and Zhang, Yiqun and Lu, Yang and Gong, Chen and Xue, Jing-Hao and Wang, Hanzi},\n  title = {{Mind the Gap: Confidence Discrepancy Can Guide Federated Semi-Supervised Learning Across Pseudo-Mismatch}},\n  booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},\n  year = {2025},\n  address = {Nashville, TN, USA, June 11--15}\n}"
   conf_key: CVPR
+  code: https://github.com/Jay-Codeman/SAGE
 - id: C030
   venue: ICASSP'25
   title: Robust Qualitative Data Clustering via Learnable Multi-Metric Space Fusion
@@ -345,6 +351,7 @@
   anchor: paper-C026
   bib: "@inproceedings{li2024improving,\n  author = {Li, Mengke and Liu, Ye and Lu, Yang and Zhang, Yiqun and Cheung, Yiu-ming and Huang, Hui},\n  title = {{Improving Visual Prompt Tuning by Gaussian Neighborhood Minimization for Long-Tailed Visual Recognition}},\n  booktitle = {Proceedings of the Conference on Neural Information Processing Systems (NeurIPS)},\n  year = {2024},\n  address = {Vancouver, BC, Canada, December 10--15}\n}"
   conf_key: NeurIPS
+  code: https://github.com/Keke921/GNM-PT
 - id: C025
   venue: BIBM'24
   title: 'MGOD: Multi-Granular Outlier Detection with Clustlier Analysis'
@@ -524,7 +531,7 @@
   title: 'Het2Hom: Representation of Heterogeneous Attributes into Homogeneous Concept Spaces for Categorical-and-Numerical-Attribute Data Clustering'
   authors: <strong>Yiqun Zhang</strong>, Yiu-ming Cheung<sup>&#x2709;</sup> and An Zeng
   tag: ''
-  link: https://www.ijcai.org/proceedings/2022/0522
+  link: https://www.ijcai.org/proceedings/2022/522
   anchor: paper-C006
   bib: "@inproceedings{zhang2022het2hom,\n  author = {Zhang, Yiqun and Cheung, Yiu-ming and Zeng, An},\n  title = {{Het2Hom: Representation of Heterogeneous Attributes into Homogeneous Concept Spaces for Categorical-and-Numerical-Attribute Data Clustering}},\n  booktitle = {Proceedings of the International Joint Conference on Artificial Intelligence (IJCAI)},\n  year = {2022},\n  address = {Vienna, Austria, July 23--29}\n}"
   conf_key: IJCAI

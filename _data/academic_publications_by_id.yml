@@ -162,22 +162,22 @@ C061:
   title: One-Shot Hierarchical Federated Clustering for Distributed Non-IID Biomedical Data Analysis
   authors: Shenghong Cai and <strong>Yiqun Zhang</strong><sup>&#x2709;</sup>
   authors_markdown: Shenghong Cai and **Yiqun Zhang**<sup>&#x2709;</sup>
-  link: '#'
+  link: https://arxiv.org/abs/2611.11481
 C060:
   title: 'DOcTreeMamba: Topology-Aware Mamba for 3D Medical Segmentation via Octree Sparsification'
   authors: Kaixiang Mai, Jiaqi Yu, Yuzhu Ji<sup>&#x2709;</sup>, <strong>Yiqun Zhang</strong>, Zhijie Wang, Haijun Zhang and Yiu-ming Cheung
   authors_markdown: Kaixiang Mai, Jiaqi Yu, Yuzhu Ji<sup>&#x2709;</sup>, **Yiqun Zhang**, Zhijie Wang, Haijun Zhang and Yiu-ming Cheung
-  link: '#'
+  link: https://arxiv.org/abs/2611.07865
 C059:
   title: 'Seeing Time: Visual-Temporal Representation Learning for Interpretable Time Series Clustering'
   authors: Zheng Zhu, Zexi Tan<sup>&#x2709;</sup>, Yuming Deng and <strong>Yiqun Zhang</strong>
   authors_markdown: Zheng Zhu, Zexi Tan<sup>&#x2709;</sup>, Yuming Deng and **Yiqun Zhang**
-  link: '#'
+  link: https://arxiv.org/abs/2609.36873
 C058:
   title: 'When Prediction Shapes the Future: A BlueSky Agenda for Reflexive Time Series Analysis'
   authors: Tao Xie, <strong>Yiqun Zhang</strong><sup>&#x2709;</sup> and Yiu-ming Cheung
   authors_markdown: Tao Xie, **Yiqun Zhang**<sup>&#x2709;</sup> and Yiu-ming Cheung
-  link: '#'
+  link: https://arxiv.org/abs/2611.02511
 C057:
   title: 'Stitch the Fragments: One-Shot Hierarchical Federated Clustering'
   authors: Shenghong Cai, Zihua Yang, Yuzhu Ji, <strong>Yiqun Zhang</strong><sup>&#x2709;</sup>, Mengke Li, Yang Lu and Yiu-ming Cheung
@@ -297,7 +297,7 @@ C034:
   title: 'SeqPose: An End-to-End Framework to Unify Single-frame and Video-based RGB Category-Level Pose Estimation'
   authors: Yuzhu Ji, Mingshan Sun, Jianyang Shi, Xiaoke Jiang, <strong>Yiqun Zhang</strong><sup>&#x2709;</sup> and Haijun Zhang
   authors_markdown: Yuzhu Ji, Mingshan Sun, Jianyang Shi, Xiaoke Jiang, **Yiqun Zhang**<sup>&#x2709;</sup> and Haijun Zhang
-  link: https://dl.acm.org/doi/abs/10.24963/ijcai.2025/137
+  link: https://www.ijcai.org/proceedings/2025/137
 C033:
   title: 'EEG-TFNet: Spatiotemporal and Spectral Feature Integration for EEG-Based AD Detection'
   authors: An Zeng, Zhao Guo, Dan Pan<sup>&#x2709;</sup>, <strong>Yiqun Zhang</strong> and Jun Liu
@@ -437,7 +437,7 @@ C006:
   title: 'Het2Hom: Representation of Heterogeneous Attributes into Homogeneous Concept Spaces for Categorical-and-Numerical-Attribute Data Clustering'
   authors: <strong>Yiqun Zhang</strong>, Yiu-ming Cheung<sup>&#x2709;</sup> and An Zeng
   authors_markdown: '**Yiqun Zhang**, Yiu-ming Cheung<sup>&#x2709;</sup> and An Zeng'
-  link: https://www.ijcai.org/proceedings/2022/0522
+  link: https://www.ijcai.org/proceedings/2022/522
 C005:
   title: An Ordinal Data Clustering Algorithm with Automated Distance Learning
   authors: <strong>Yiqun Zhang</strong> and Yiu-ming Cheung<sup>&#x2709;</sup>

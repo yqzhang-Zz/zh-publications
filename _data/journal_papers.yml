@@ -54,7 +54,6 @@
   anchor: paper-J026
   bib: "@article{zhang2026how,\n  author = {Zhang, Yiqun and Zhang, Yunfan and Zhao, Mingjie and Feng, Sen and Cheung, Yiu-ming},\n  title = {{How to Ask the AI: A User Perspective Survey for Large Language Model Prompting}},\n  journal = {IEEE Transactions on Artificial Intelligence},\n  year = {2026}\n}"
   journal_key: TAI
-  code: https://github.com/Yunfan-Zhang/TAI_Guideline-Table
 - id: J025
   venue: TMM'26
   title: 'NIDC: General Task Backbone for Neuroimaging Analysis via Interpretable Deep Clustering'

@@ -54,6 +54,7 @@
   anchor: paper-J026
   bib: "@article{zhang2026how,\n  author = {Zhang, Yiqun and Zhang, Yunfan and Zhao, Mingjie and Feng, Sen and Cheung, Yiu-ming},\n  title = {{How to Ask the AI: A User Perspective Survey for Large Language Model Prompting}},\n  journal = {IEEE Transactions on Artificial Intelligence},\n  year = {2026}\n}"
   journal_key: TAI
+  code: https://github.com/Yunfan-Zhang/TAI_Guideline-Table
 - id: J025
   venue: TMM'26
   title: 'NIDC: General Task Backbone for Neuroimaging Analysis via Interpretable Deep Clustering'
@@ -202,6 +203,7 @@
   anchor: paper-J010
   bib: "@article{ye2025mssnet,\n  author = {Ye, Jiayu and Pan, Dan and Zeng, An and Zhang, Yiqun and Chen, Qiuping and Liu, Yang},\n  title = {{MssNet: An Efficient Spatial Attention Model for Early Recognition of Alzheimer’s Disease}},\n  journal = {IEEE Transactions on Emerging Topics in Computational Intelligence},\n  volume = {9},\n  number = {2},\n  pages = {1454--1468},\n  year = {2025}\n}"
   journal_key: TETCI
+  code: https://github.com/yjy-97/MssNet
 - id: J009
   venue: TNNLS'25
   title: Allosteric Feature Collaboration for Model-Heterogeneous Federated Learning
@@ -229,6 +231,7 @@
   anchor: paper-J007
   bib: "@article{ye2024madformer,\n  author = {Ye, Jiayu and Zeng, An and Pan, Dan and Zhang, Yiqun and Zhao, Jingliang and Chen, Qiuping and Liu, Yang},\n  title = {{MAD-Former: A Traceable Interpretability Model for Alzheimer's Disease Recognition Based on Multi-Patch Attention}},\n  journal = {IEEE Journal of Biomedical and Health Informatics},\n  volume = {28},\n  number = {6},\n  pages = {3637--3648},\n  year = {2024}\n}"
   journal_key: JBHI
+  code: https://github.com/IMCTGUT/MAD-Former
 - id: J006
   venue: TNNLS'23
   title: Graph-based Dissimilarity Measurement for Cluster Analysis of Any-Type-Attributed Data

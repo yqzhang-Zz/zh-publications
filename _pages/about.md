@@ -65,13 +65,15 @@ ap_full_english: true
         {% if meta_parts != "" %}{{ meta_parts }} | {% endif %}
       </span>
       
+      {% if paper.link and paper.link != "" and paper.link != "#" %}
       <a href="{{ paper.link }}" target="_blank" style="color: #0b5394; border: 1px solid #0b5394; border-radius: 4px; padding: 1px 6px; text-decoration: none; font-weight: bold; font-size: 0.8em; white-space: nowrap; vertical-align: middle; margin-left: 2px;"><i class="fas fa-file-pdf"></i> Paper</a>
+      {% endif %}
       
       {% if paper.link_cn %}
       <a href="{{ paper.link_cn }}" target="_blank" style="color: #0b5394; border: 1px solid #0b5394; border-radius: 4px; padding: 1px 6px; text-decoration: none; font-weight: bold; font-size: 0.8em; white-space: nowrap; vertical-align: middle; margin-left: 6px;"><i class="fas fa-language"></i> Chinese Version</a>
       {% endif %}
 
-      {% if paper.code %}
+      {% if paper.code and paper.code != "" and paper.code != "#" %}
       <a href="{{ paper.code }}" target="_blank" style="color: #0b5394; border: 1px solid #0b5394; border-radius: 4px; padding: 1px 6px; text-decoration: none; font-weight: bold; font-size: 0.8em; white-space: nowrap; vertical-align: middle; margin-left: 6px;">
         {% if paper.code contains 'github.com' %}
         <i class="fab fa-github"></i> Code
@@ -144,13 +146,15 @@ ap_full_english: true
         {% if meta_parts != "" %}{{ meta_parts }} | {% endif %}
       </span>
       
+      {% if conf.link and conf.link != "" and conf.link != "#" %}
       <a href="{{ conf.link }}" target="_blank" style="color: #0b5394; border: 1px solid #0b5394; border-radius: 4px; padding: 1px 6px; text-decoration: none; font-weight: bold; font-size: 0.8em; white-space: nowrap; vertical-align: middle; margin-left: 2px;"><i class="fas fa-file-pdf"></i> Paper</a>
+      {% endif %}
       
       {% if conf.extended %}
       <a href="{{ conf.extended }}" target="_blank" style="color: #0b5394; border: 1px solid #0b5394; border-radius: 4px; padding: 1px 6px; text-decoration: none; font-weight: bold; font-size: 0.8em; white-space: nowrap; vertical-align: middle; margin-left: 6px;"><i class="fas fa-file-alt"></i> Extended Version</a>
       {% endif %}
 
-      {% if conf.code %}
+      {% if conf.code and conf.code != "" and conf.code != "#" %}
       <a href="{{ conf.code }}" target="_blank" style="color: #0b5394; border: 1px solid #0b5394; border-radius: 4px; padding: 1px 6px; text-decoration: none; font-weight: bold; font-size: 0.8em; white-space: nowrap; vertical-align: middle; margin-left: 6px;">
         {% if conf.code contains 'github.com' %}
         <i class="fab fa-github"></i> Code
